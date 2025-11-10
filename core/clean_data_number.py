@@ -30,7 +30,8 @@ df_long = df.melt(
 # Datentypen anpassen
 df_long["Year"] = df_long["Year"].astype(int)
 
-
+# Anzahl (Number_fires) als ganze Zahl
+df_long["Number_fires"] = df_long["Number_fires"].astype(int)
 
 # Jurisdiction als Kategorie, Month als 1–12 umwandeln
 df_long["Jurisdiction"] = df_long["Jurisdiction"].astype("category")
