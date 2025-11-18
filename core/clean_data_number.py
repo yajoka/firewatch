@@ -63,6 +63,11 @@ df_long["Lag_1"] = df_long.groupby("Jurisdiction")["Number_fires"].shift(1)
 df_long["Lag_2"] = df_long.groupby("Jurisdiction")["Number_fires"].shift(2)
 df_long["Lag_3"] = df_long.groupby("Jurisdiction")["Number_fires"].shift(3)
 
+# One Hot Encoding
+df_long["Jurisdiction_raw"] = df_long["Jurisdiction"].astype(str)
+df_long = pd.get_dummies(df_long, columns=["Jurisdiction"], prefix="REG", drop_first=False)
+reg_cols = [col for col in df_long.columns if col.startswith("REG")]
+df_long[reg_cols] = df_long[reg_cols].astype(int)
 
 #Datei speichern
 output_path = "../data/cleaned_Number_of_fires_by_month.csv"
