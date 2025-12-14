@@ -1,0 +1,4625 @@
+Jurisdiction,Month,Year,Number_fires
+Alberta,January,1990,1.0
+Alberta,February,1990,5.0
+Alberta,March,1990,8.0
+Alberta,April,1990,26.0
+Alberta,May,1990,114.0
+Alberta,June,1990,214.0
+Alberta,July,1990,446.0
+Alberta,August,1990,381.0
+Alberta,September,1990,117.0
+Alberta,October,1990,34.0
+Alberta,November,1990,16.0
+Alberta,December,1990,4.0
+British Columbia,January,1990,
+British Columbia,February,1990,3.0
+British Columbia,March,1990,35.0
+British Columbia,April,1990,147.0
+British Columbia,May,1990,235.0
+British Columbia,June,1990,95.0
+British Columbia,July,1990,775.0
+British Columbia,August,1990,1563.0
+British Columbia,September,1990,336.0
+British Columbia,October,1990,60.0
+British Columbia,November,1990,6.0
+British Columbia,December,1990,
+Manitoba,January,1990,
+Manitoba,February,1990,
+Manitoba,March,1990,
+Manitoba,April,1990,39.0
+Manitoba,May,1990,71.0
+Manitoba,June,1990,85.0
+Manitoba,July,1990,90.0
+Manitoba,August,1990,176.0
+Manitoba,September,1990,51.0
+Manitoba,October,1990,36.0
+Manitoba,November,1990,13.0
+Manitoba,December,1990,1.0
+New Brunswick,March,1990,1.0
+New Brunswick,April,1990,42.0
+New Brunswick,May,1990,71.0
+New Brunswick,June,1990,100.0
+New Brunswick,July,1990,114.0
+New Brunswick,August,1990,32.0
+New Brunswick,September,1990,13.0
+New Brunswick,October,1990,4.0
+New Brunswick,November,1990,
+New Brunswick,December,1990,
+Newfoundland and Labrador,January,1990,
+Newfoundland and Labrador,March,1990,2.0
+Newfoundland and Labrador,April,1990,5.0
+Newfoundland and Labrador,May,1990,19.0
+Newfoundland and Labrador,June,1990,36.0
+Newfoundland and Labrador,July,1990,29.0
+Newfoundland and Labrador,August,1990,30.0
+Newfoundland and Labrador,September,1990,41.0
+Newfoundland and Labrador,October,1990,3.0
+Newfoundland and Labrador,November,1990,
+Newfoundland and Labrador,December,1990,
+Northwest Territories,January,1990,
+Northwest Territories,February,1990,
+Northwest Territories,April,1990,
+Northwest Territories,May,1990,10.0
+Northwest Territories,June,1990,98.0
+Northwest Territories,July,1990,113.0
+Northwest Territories,August,1990,13.0
+Northwest Territories,September,1990,2.0
+Northwest Territories,October,1990,
+Northwest Territories,November,1990,
+Northwest Territories,December,1990,
+Nova Scotia,January,1990,
+Nova Scotia,March,1990,34.0
+Nova Scotia,April,1990,89.0
+Nova Scotia,May,1990,134.0
+Nova Scotia,June,1990,58.0
+Nova Scotia,July,1990,74.0
+Nova Scotia,August,1990,62.0
+Nova Scotia,September,1990,36.0
+Nova Scotia,October,1990,9.0
+Nova Scotia,November,1990,1.0
+Ontario,January,1990,
+Ontario,February,1990,
+Ontario,March,1990,62.0
+Ontario,April,1990,185.0
+Ontario,May,1990,242.0
+Ontario,June,1990,111.0
+Ontario,July,1990,237.0
+Ontario,August,1990,543.0
+Ontario,September,1990,185.0
+Ontario,October,1990,31.0
+Ontario,November,1990,16.0
+Ontario,December,1990,
+Prince Edward Island,January,1990,0.0
+Prince Edward Island,February,1990,0.0
+Prince Edward Island,March,1990,0.0
+Prince Edward Island,April,1990,7.0
+Prince Edward Island,May,1990,13.0
+Prince Edward Island,June,1990,8.0
+Prince Edward Island,July,1990,6.0
+Prince Edward Island,August,1990,1.0
+Prince Edward Island,September,1990,1.0
+Prince Edward Island,October,1990,0.0
+Prince Edward Island,November,1990,2.0
+Prince Edward Island,December,1990,0.0
+Quebec,February,1990,
+Quebec,March,1990,1.0
+Quebec,April,1990,59.0
+Quebec,May,1990,214.0
+Quebec,June,1990,139.0
+Quebec,July,1990,178.0
+Quebec,August,1990,138.0
+Quebec,September,1990,118.0
+Quebec,October,1990,4.0
+Quebec,November,1990,
+Quebec,December,1990,
+Saskatchewan,January,1990,
+Saskatchewan,February,1990,
+Saskatchewan,March,1990,2.0
+Saskatchewan,April,1990,18.0
+Saskatchewan,May,1990,103.0
+Saskatchewan,June,1990,275.0
+Saskatchewan,July,1990,130.0
+Saskatchewan,August,1990,314.0
+Saskatchewan,September,1990,45.0
+Saskatchewan,October,1990,10.0
+Saskatchewan,November,1990,
+Saskatchewan,December,1990,
+Yukon,January,1990,
+Yukon,March,1990,
+Yukon,April,1990,3.0
+Yukon,May,1990,15.0
+Yukon,June,1990,19.0
+Yukon,July,1990,69.0
+Yukon,August,1990,32.0
+Yukon,September,1990,14.0
+Yukon,October,1990,2.0
+Yukon,November,1990,
+Yukon,December,1990,
+Alberta,January,1991,9.0
+Alberta,February,1991,4.0
+Alberta,March,1991,8.0
+Alberta,April,1991,111.0
+Alberta,May,1991,201.0
+Alberta,June,1991,114.0
+Alberta,July,1991,125.0
+Alberta,August,1991,239.0
+Alberta,September,1991,54.0
+Alberta,October,1991,66.0
+Alberta,November,1991,6.0
+Alberta,December,1991,7.0
+British Columbia,January,1991,2.0
+British Columbia,February,1991,5.0
+British Columbia,March,1991,25.0
+British Columbia,April,1991,204.0
+British Columbia,May,1991,193.0
+British Columbia,June,1991,291.0
+British Columbia,July,1991,296.0
+British Columbia,August,1991,573.0
+British Columbia,September,1991,172.0
+British Columbia,October,1991,248.0
+British Columbia,November,1991,5.0
+British Columbia,December,1991,
+Manitoba,January,1991,5.0
+Manitoba,February,1991,3.0
+Manitoba,March,1991,12.0
+Manitoba,April,1991,109.0
+Manitoba,May,1991,75.0
+Manitoba,June,1991,77.0
+Manitoba,July,1991,142.0
+Manitoba,August,1991,222.0
+Manitoba,September,1991,21.0
+Manitoba,October,1991,6.0
+Manitoba,November,1991,
+Manitoba,December,1991,
+New Brunswick,March,1991,
+New Brunswick,April,1991,91.0
+New Brunswick,May,1991,154.0
+New Brunswick,June,1991,150.0
+New Brunswick,July,1991,141.0
+New Brunswick,August,1991,92.0
+New Brunswick,September,1991,20.0
+New Brunswick,October,1991,7.0
+New Brunswick,November,1991,1.0
+New Brunswick,December,1991,
+Newfoundland and Labrador,January,1991,
+Newfoundland and Labrador,March,1991,
+Newfoundland and Labrador,April,1991,4.0
+Newfoundland and Labrador,May,1991,29.0
+Newfoundland and Labrador,June,1991,38.0
+Newfoundland and Labrador,July,1991,12.0
+Newfoundland and Labrador,August,1991,32.0
+Newfoundland and Labrador,September,1991,
+Newfoundland and Labrador,October,1991,
+Newfoundland and Labrador,November,1991,
+Newfoundland and Labrador,December,1991,
+Northwest Territories,January,1991,
+Northwest Territories,February,1991,
+Northwest Territories,April,1991,
+Northwest Territories,May,1991,5.0
+Northwest Territories,June,1991,59.0
+Northwest Territories,July,1991,149.0
+Northwest Territories,August,1991,117.0
+Northwest Territories,September,1991,1.0
+Northwest Territories,October,1991,
+Northwest Territories,November,1991,
+Northwest Territories,December,1991,
+Nova Scotia,January,1991,
+Nova Scotia,March,1991,26.0
+Nova Scotia,April,1991,208.0
+Nova Scotia,May,1991,174.0
+Nova Scotia,June,1991,145.0
+Nova Scotia,July,1991,162.0
+Nova Scotia,August,1991,10.0
+Nova Scotia,September,1991,
+Nova Scotia,October,1991,1.0
+Nova Scotia,November,1991,
+Ontario,January,1991,
+Ontario,February,1991,
+Ontario,March,1991,12.0
+Ontario,April,1991,210.0
+Ontario,May,1991,231.0
+Ontario,June,1991,415.0
+Ontario,July,1991,586.0
+Ontario,August,1991,944.0
+Ontario,September,1991,138.0
+Ontario,October,1991,11.0
+Ontario,November,1991,12.0
+Ontario,December,1991,1.0
+Prince Edward Island,January,1991,0.0
+Prince Edward Island,February,1991,0.0
+Prince Edward Island,March,1991,2.0
+Prince Edward Island,April,1991,17.0
+Prince Edward Island,May,1991,16.0
+Prince Edward Island,June,1991,8.0
+Prince Edward Island,July,1991,3.0
+Prince Edward Island,August,1991,2.0
+Prince Edward Island,September,1991,0.0
+Prince Edward Island,October,1991,0.0
+Prince Edward Island,November,1991,0.0
+Prince Edward Island,December,1991,0.0
+Quebec,February,1991,
+Quebec,March,1991,1.0
+Quebec,April,1991,64.0
+Quebec,May,1991,220.0
+Quebec,June,1991,408.0
+Quebec,July,1991,318.0
+Quebec,August,1991,162.0
+Quebec,September,1991,32.0
+Quebec,October,1991,6.0
+Quebec,November,1991,5.0
+Quebec,December,1991,
+Saskatchewan,January,1991,2.0
+Saskatchewan,February,1991,
+Saskatchewan,March,1991,1.0
+Saskatchewan,April,1991,79.0
+Saskatchewan,May,1991,127.0
+Saskatchewan,June,1991,75.0
+Saskatchewan,July,1991,111.0
+Saskatchewan,August,1991,272.0
+Saskatchewan,September,1991,48.0
+Saskatchewan,October,1991,31.0
+Saskatchewan,November,1991,14.0
+Saskatchewan,December,1991,2.0
+Yukon,January,1991,
+Yukon,March,1991,
+Yukon,April,1991,8.0
+Yukon,May,1991,28.0
+Yukon,June,1991,109.0
+Yukon,July,1991,33.0
+Yukon,August,1991,9.0
+Yukon,September,1991,
+Yukon,October,1991,
+Yukon,November,1991,
+Yukon,December,1991,
+Alberta,January,1992,14.0
+Alberta,February,1992,11.0
+Alberta,March,1992,61.0
+Alberta,April,1992,110.0
+Alberta,May,1992,91.0
+Alberta,June,1992,147.0
+Alberta,July,1992,226.0
+Alberta,August,1992,339.0
+Alberta,September,1992,14.0
+Alberta,October,1992,29.0
+Alberta,November,1992,15.0
+Alberta,December,1992,4.0
+British Columbia,January,1992,6.0
+British Columbia,February,1992,2.0
+British Columbia,March,1992,70.0
+British Columbia,April,1992,155.0
+British Columbia,May,1992,243.0
+British Columbia,June,1992,705.0
+British Columbia,July,1992,493.0
+British Columbia,August,1992,1803.0
+British Columbia,September,1992,197.0
+British Columbia,October,1992,126.0
+British Columbia,November,1992,4.0
+British Columbia,December,1992,1.0
+Manitoba,January,1992,
+Manitoba,February,1992,1.0
+Manitoba,March,1992,1.0
+Manitoba,April,1992,7.0
+Manitoba,May,1992,76.0
+Manitoba,June,1992,45.0
+Manitoba,July,1992,57.0
+Manitoba,August,1992,102.0
+Manitoba,September,1992,5.0
+Manitoba,October,1992,4.0
+Manitoba,November,1992,
+Manitoba,December,1992,
+New Brunswick,March,1992,
+New Brunswick,April,1992,50.0
+New Brunswick,May,1992,345.0
+New Brunswick,June,1992,78.0
+New Brunswick,July,1992,24.0
+New Brunswick,August,1992,42.0
+New Brunswick,September,1992,23.0
+New Brunswick,October,1992,14.0
+New Brunswick,November,1992,
+New Brunswick,December,1992,
+Newfoundland and Labrador,January,1992,
+Newfoundland and Labrador,March,1992,
+Newfoundland and Labrador,April,1992,2.0
+Newfoundland and Labrador,May,1992,47.0
+Newfoundland and Labrador,June,1992,15.0
+Newfoundland and Labrador,July,1992,13.0
+Newfoundland and Labrador,August,1992,26.0
+Newfoundland and Labrador,September,1992,3.0
+Newfoundland and Labrador,October,1992,
+Newfoundland and Labrador,November,1992,
+Newfoundland and Labrador,December,1992,
+Northwest Territories,January,1992,
+Northwest Territories,February,1992,
+Northwest Territories,April,1992,
+Northwest Territories,May,1992,9.0
+Northwest Territories,June,1992,31.0
+Northwest Territories,July,1992,130.0
+Northwest Territories,August,1992,100.0
+Northwest Territories,September,1992,15.0
+Northwest Territories,October,1992,
+Northwest Territories,November,1992,
+Northwest Territories,December,1992,
+Nova Scotia,January,1992,
+Nova Scotia,March,1992,
+Nova Scotia,April,1992,43.0
+Nova Scotia,May,1992,138.0
+Nova Scotia,June,1992,46.0
+Nova Scotia,July,1992,19.0
+Nova Scotia,August,1992,18.0
+Nova Scotia,September,1992,19.0
+Nova Scotia,October,1992,13.0
+Nova Scotia,November,1992,
+Ontario,January,1992,
+Ontario,February,1992,
+Ontario,March,1992,2.0
+Ontario,April,1992,58.0
+Ontario,May,1992,347.0
+Ontario,June,1992,380.0
+Ontario,July,1992,60.0
+Ontario,August,1992,94.0
+Ontario,September,1992,8.0
+Ontario,October,1992,11.0
+Ontario,November,1992,
+Ontario,December,1992,
+Prince Edward Island,January,1992,0.0
+Prince Edward Island,February,1992,0.0
+Prince Edward Island,March,1992,0.0
+Prince Edward Island,April,1992,7.0
+Prince Edward Island,May,1992,14.0
+Prince Edward Island,June,1992,3.0
+Prince Edward Island,July,1992,0.0
+Prince Edward Island,August,1992,0.0
+Prince Edward Island,September,1992,2.0
+Prince Edward Island,October,1992,1.0
+Prince Edward Island,November,1992,0.0
+Prince Edward Island,December,1992,0.0
+Quebec,February,1992,
+Quebec,March,1992,
+Quebec,April,1992,44.0
+Quebec,May,1992,405.0
+Quebec,June,1992,180.0
+Quebec,July,1992,54.0
+Quebec,August,1992,59.0
+Quebec,September,1992,14.0
+Quebec,October,1992,7.0
+Quebec,November,1992,2.0
+Quebec,December,1992,
+Saskatchewan,January,1992,
+Saskatchewan,February,1992,
+Saskatchewan,March,1992,3.0
+Saskatchewan,April,1992,50.0
+Saskatchewan,May,1992,103.0
+Saskatchewan,June,1992,151.0
+Saskatchewan,July,1992,150.0
+Saskatchewan,August,1992,215.0
+Saskatchewan,September,1992,18.0
+Saskatchewan,October,1992,7.0
+Saskatchewan,November,1992,2.0
+Saskatchewan,December,1992,
+Yukon,January,1992,
+Yukon,March,1992,
+Yukon,April,1992,
+Yukon,May,1992,9.0
+Yukon,June,1992,26.0
+Yukon,July,1992,72.0
+Yukon,August,1992,9.0
+Yukon,September,1992,
+Yukon,October,1992,
+Yukon,November,1992,
+Yukon,December,1992,
+Alberta,January,1993,8.0
+Alberta,February,1993,12.0
+Alberta,March,1993,29.0
+Alberta,April,1993,52.0
+Alberta,May,1993,242.0
+Alberta,June,1993,342.0
+Alberta,July,1993,112.0
+Alberta,August,1993,35.0
+Alberta,September,1993,17.0
+Alberta,October,1993,19.0
+Alberta,November,1993,7.0
+Alberta,December,1993,1.0
+British Columbia,January,1993,3.0
+British Columbia,February,1993,16.0
+British Columbia,March,1993,34.0
+British Columbia,April,1993,77.0
+British Columbia,May,1993,322.0
+British Columbia,June,1993,189.0
+British Columbia,July,1993,153.0
+British Columbia,August,1993,274.0
+British Columbia,September,1993,300.0
+British Columbia,October,1993,119.0
+British Columbia,November,1993,10.0
+British Columbia,December,1993,
+Manitoba,January,1993,
+Manitoba,February,1993,
+Manitoba,March,1993,2.0
+Manitoba,April,1993,39.0
+Manitoba,May,1993,67.0
+Manitoba,June,1993,97.0
+Manitoba,July,1993,24.0
+Manitoba,August,1993,6.0
+Manitoba,September,1993,3.0
+Manitoba,October,1993,1.0
+Manitoba,November,1993,
+Manitoba,December,1993,
+New Brunswick,March,1993,
+New Brunswick,April,1993,60.0
+New Brunswick,May,1993,195.0
+New Brunswick,June,1993,40.0
+New Brunswick,July,1993,32.0
+New Brunswick,August,1993,72.0
+New Brunswick,September,1993,28.0
+New Brunswick,October,1993,3.0
+New Brunswick,November,1993,
+New Brunswick,December,1993,
+Newfoundland and Labrador,January,1993,
+Newfoundland and Labrador,March,1993,
+Newfoundland and Labrador,April,1993,1.0
+Newfoundland and Labrador,May,1993,13.0
+Newfoundland and Labrador,June,1993,24.0
+Newfoundland and Labrador,July,1993,5.0
+Newfoundland and Labrador,August,1993,13.0
+Newfoundland and Labrador,September,1993,5.0
+Newfoundland and Labrador,October,1993,4.0
+Newfoundland and Labrador,November,1993,
+Newfoundland and Labrador,December,1993,
+Northwest Territories,January,1993,
+Northwest Territories,February,1993,
+Northwest Territories,April,1993,
+Northwest Territories,May,1993,13.0
+Northwest Territories,June,1993,175.0
+Northwest Territories,July,1993,249.0
+Northwest Territories,August,1993,30.0
+Northwest Territories,September,1993,4.0
+Northwest Territories,October,1993,
+Northwest Territories,November,1993,
+Northwest Territories,December,1993,2.0
+Nova Scotia,January,1993,
+Nova Scotia,March,1993,
+Nova Scotia,April,1993,78.0
+Nova Scotia,May,1993,110.0
+Nova Scotia,June,1993,20.0
+Nova Scotia,July,1993,21.0
+Nova Scotia,August,1993,43.0
+Nova Scotia,September,1993,26.0
+Nova Scotia,October,1993,4.0
+Nova Scotia,November,1993,
+Ontario,January,1993,
+Ontario,February,1993,
+Ontario,March,1993,1.0
+Ontario,April,1993,112.0
+Ontario,May,1993,171.0
+Ontario,June,1993,129.0
+Ontario,July,1993,158.0
+Ontario,August,1993,144.0
+Ontario,September,1993,11.0
+Ontario,October,1993,10.0
+Ontario,November,1993,4.0
+Ontario,December,1993,2.0
+Prince Edward Island,January,1993,0.0
+Prince Edward Island,February,1993,0.0
+Prince Edward Island,March,1993,0.0
+Prince Edward Island,April,1993,0.0
+Prince Edward Island,May,1993,26.0
+Prince Edward Island,June,1993,2.0
+Prince Edward Island,July,1993,0.0
+Prince Edward Island,August,1993,0.0
+Prince Edward Island,September,1993,1.0
+Prince Edward Island,October,1993,0.0
+Prince Edward Island,November,1993,0.0
+Prince Edward Island,December,1993,0.0
+Quebec,February,1993,
+Quebec,March,1993,
+Quebec,April,1993,32.0
+Quebec,May,1993,188.0
+Quebec,June,1993,98.0
+Quebec,July,1993,129.0
+Quebec,August,1993,81.0
+Quebec,September,1993,10.0
+Quebec,October,1993,4.0
+Quebec,November,1993,1.0
+Quebec,December,1993,
+Saskatchewan,January,1993,2.0
+Saskatchewan,February,1993,1.0
+Saskatchewan,March,1993,21.0
+Saskatchewan,April,1993,47.0
+Saskatchewan,May,1993,219.0
+Saskatchewan,June,1993,216.0
+Saskatchewan,July,1993,82.0
+Saskatchewan,August,1993,30.0
+Saskatchewan,September,1993,22.0
+Saskatchewan,October,1993,3.0
+Saskatchewan,November,1993,2.0
+Saskatchewan,December,1993,
+Yukon,January,1993,
+Yukon,March,1993,
+Yukon,April,1993,1.0
+Yukon,May,1993,21.0
+Yukon,June,1993,45.0
+Yukon,July,1993,48.0
+Yukon,August,1993,10.0
+Yukon,September,1993,10.0
+Yukon,October,1993,1.0
+Yukon,November,1993,
+Yukon,December,1993,
+Alberta,January,1994,4.0
+Alberta,February,1994,
+Alberta,March,1994,12.0
+Alberta,April,1994,64.0
+Alberta,May,1994,132.0
+Alberta,June,1994,231.0
+Alberta,July,1994,223.0
+Alberta,August,1994,118.0
+Alberta,September,1994,83.0
+Alberta,October,1994,25.0
+Alberta,November,1994,30.0
+Alberta,December,1994,9.0
+British Columbia,January,1994,6.0
+British Columbia,February,1994,2.0
+British Columbia,March,1994,66.0
+British Columbia,April,1994,142.0
+British Columbia,May,1994,212.0
+British Columbia,June,1994,172.0
+British Columbia,July,1994,1030.0
+British Columbia,August,1994,2118.0
+British Columbia,September,1994,238.0
+British Columbia,October,1994,70.0
+British Columbia,November,1994,1.0
+British Columbia,December,1994,
+Manitoba,January,1994,
+Manitoba,February,1994,
+Manitoba,March,1994,1.0
+Manitoba,April,1994,49.0
+Manitoba,May,1994,115.0
+Manitoba,June,1994,170.0
+Manitoba,July,1994,82.0
+Manitoba,August,1994,73.0
+Manitoba,September,1994,57.0
+Manitoba,October,1994,7.0
+Manitoba,November,1994,1.0
+Manitoba,December,1994,
+New Brunswick,March,1994,
+New Brunswick,April,1994,41.0
+New Brunswick,May,1994,89.0
+New Brunswick,June,1994,37.0
+New Brunswick,July,1994,48.0
+New Brunswick,August,1994,104.0
+New Brunswick,September,1994,40.0
+New Brunswick,October,1994,137.0
+New Brunswick,November,1994,22.0
+New Brunswick,December,1994,
+Newfoundland and Labrador,January,1994,
+Newfoundland and Labrador,March,1994,
+Newfoundland and Labrador,April,1994,3.0
+Newfoundland and Labrador,May,1994,15.0
+Newfoundland and Labrador,June,1994,35.0
+Newfoundland and Labrador,July,1994,35.0
+Newfoundland and Labrador,August,1994,35.0
+Newfoundland and Labrador,September,1994,5.0
+Newfoundland and Labrador,October,1994,1.0
+Newfoundland and Labrador,November,1994,
+Newfoundland and Labrador,December,1994,
+Northwest Territories,January,1994,2.0
+Northwest Territories,February,1994,1.0
+Northwest Territories,April,1994,1.0
+Northwest Territories,May,1994,37.0
+Northwest Territories,June,1994,185.0
+Northwest Territories,July,1994,326.0
+Northwest Territories,August,1994,78.0
+Northwest Territories,September,1994,13.0
+Northwest Territories,October,1994,8.0
+Northwest Territories,November,1994,1.0
+Northwest Territories,December,1994,1.0
+Nova Scotia,January,1994,
+Nova Scotia,March,1994,1.0
+Nova Scotia,April,1994,63.0
+Nova Scotia,May,1994,33.0
+Nova Scotia,June,1994,28.0
+Nova Scotia,July,1994,57.0
+Nova Scotia,August,1994,23.0
+Nova Scotia,September,1994,22.0
+Nova Scotia,October,1994,22.0
+Nova Scotia,November,1994,14.0
+Ontario,January,1994,
+Ontario,February,1994,
+Ontario,March,1994,4.0
+Ontario,April,1994,222.0
+Ontario,May,1994,266.0
+Ontario,June,1994,412.0
+Ontario,July,1994,59.0
+Ontario,August,1994,55.0
+Ontario,September,1994,27.0
+Ontario,October,1994,27.0
+Ontario,November,1994,7.0
+Ontario,December,1994,
+Prince Edward Island,January,1994,0.0
+Prince Edward Island,February,1994,0.0
+Prince Edward Island,March,1994,0.0
+Prince Edward Island,April,1994,12.0
+Prince Edward Island,May,1994,3.0
+Prince Edward Island,June,1994,3.0
+Prince Edward Island,July,1994,4.0
+Prince Edward Island,August,1994,7.0
+Prince Edward Island,September,1994,3.0
+Prince Edward Island,October,1994,4.0
+Prince Edward Island,November,1994,7.0
+Prince Edward Island,December,1994,0.0
+Quebec,February,1994,
+Quebec,March,1994,
+Quebec,April,1994,15.0
+Quebec,May,1994,218.0
+Quebec,June,1994,139.0
+Quebec,July,1994,27.0
+Quebec,August,1994,30.0
+Quebec,September,1994,17.0
+Quebec,October,1994,46.0
+Quebec,November,1994,7.0
+Quebec,December,1994,
+Saskatchewan,January,1994,1.0
+Saskatchewan,February,1994,
+Saskatchewan,March,1994,1.0
+Saskatchewan,April,1994,28.0
+Saskatchewan,May,1994,95.0
+Saskatchewan,June,1994,153.0
+Saskatchewan,July,1994,74.0
+Saskatchewan,August,1994,193.0
+Saskatchewan,September,1994,142.0
+Saskatchewan,October,1994,10.0
+Saskatchewan,November,1994,
+Saskatchewan,December,1994,
+Yukon,January,1994,
+Yukon,March,1994,
+Yukon,April,1994,5.0
+Yukon,May,1994,16.0
+Yukon,June,1994,47.0
+Yukon,July,1994,113.0
+Yukon,August,1994,73.0
+Yukon,September,1994,1.0
+Yukon,October,1994,
+Yukon,November,1994,
+Yukon,December,1994,
+Alberta,January,1995,10.0
+Alberta,February,1995,6.0
+Alberta,March,1995,29.0
+Alberta,April,1995,57.0
+Alberta,May,1995,215.0
+Alberta,June,1995,272.0
+Alberta,July,1995,97.0
+Alberta,August,1995,26.0
+Alberta,September,1995,58.0
+Alberta,October,1995,33.0
+Alberta,November,1995,5.0
+Alberta,December,1995,
+British Columbia,January,1995,5.0
+British Columbia,February,1995,5.0
+British Columbia,March,1995,61.0
+British Columbia,April,1995,181.0
+British Columbia,May,1995,316.0
+British Columbia,June,1995,281.0
+British Columbia,July,1995,277.0
+British Columbia,August,1995,90.0
+British Columbia,September,1995,238.0
+British Columbia,October,1995,15.0
+British Columbia,November,1995,5.0
+British Columbia,December,1995,
+Manitoba,January,1995,
+Manitoba,February,1995,
+Manitoba,March,1995,
+Manitoba,April,1995,13.0
+Manitoba,May,1995,154.0
+Manitoba,June,1995,344.0
+Manitoba,July,1995,90.0
+Manitoba,August,1995,28.0
+Manitoba,September,1995,12.0
+Manitoba,October,1995,21.0
+Manitoba,November,1995,
+Manitoba,December,1995,
+New Brunswick,March,1995,
+New Brunswick,April,1995,28.0
+New Brunswick,May,1995,71.0
+New Brunswick,June,1995,116.0
+New Brunswick,July,1995,89.0
+New Brunswick,August,1995,156.0
+New Brunswick,September,1995,74.0
+New Brunswick,October,1995,11.0
+New Brunswick,November,1995,2.0
+New Brunswick,December,1995,
+Newfoundland and Labrador,January,1995,
+Newfoundland and Labrador,March,1995,
+Newfoundland and Labrador,April,1995,3.0
+Newfoundland and Labrador,May,1995,23.0
+Newfoundland and Labrador,June,1995,20.0
+Newfoundland and Labrador,July,1995,14.0
+Newfoundland and Labrador,August,1995,23.0
+Newfoundland and Labrador,September,1995,3.0
+Newfoundland and Labrador,October,1995,
+Newfoundland and Labrador,November,1995,
+Newfoundland and Labrador,December,1995,
+Northwest Territories,January,1995,
+Northwest Territories,February,1995,
+Northwest Territories,April,1995,1.0
+Northwest Territories,May,1995,24.0
+Northwest Territories,June,1995,79.0
+Northwest Territories,July,1995,56.0
+Northwest Territories,August,1995,47.0
+Northwest Territories,September,1995,7.0
+Northwest Territories,October,1995,1.0
+Northwest Territories,November,1995,3.0
+Northwest Territories,December,1995,
+Nova Scotia,January,1995,
+Nova Scotia,March,1995,28.0
+Nova Scotia,April,1995,80.0
+Nova Scotia,May,1995,145.0
+Nova Scotia,June,1995,49.0
+Nova Scotia,July,1995,26.0
+Nova Scotia,August,1995,36.0
+Nova Scotia,September,1995,37.0
+Nova Scotia,October,1995,4.0
+Nova Scotia,November,1995,2.0
+Ontario,January,1995,
+Ontario,February,1995,
+Ontario,March,1995,137.0
+Ontario,April,1995,128.0
+Ontario,May,1995,230.0
+Ontario,June,1995,900.0
+Ontario,July,1995,150.0
+Ontario,August,1995,442.0
+Ontario,September,1995,125.0
+Ontario,October,1995,36.0
+Ontario,November,1995,2.0
+Ontario,December,1995,
+Prince Edward Island,January,1995,0.0
+Prince Edward Island,February,1995,0.0
+Prince Edward Island,March,1995,0.0
+Prince Edward Island,April,1995,0.0
+Prince Edward Island,May,1995,11.0
+Prince Edward Island,June,1995,2.0
+Prince Edward Island,July,1995,3.0
+Prince Edward Island,August,1995,7.0
+Prince Edward Island,September,1995,4.0
+Prince Edward Island,October,1995,2.0
+Prince Edward Island,November,1995,0.0
+Prince Edward Island,December,1995,0.0
+Quebec,February,1995,
+Quebec,March,1995,9.0
+Quebec,April,1995,33.0
+Quebec,May,1995,139.0
+Quebec,June,1995,470.0
+Quebec,July,1995,170.0
+Quebec,August,1995,367.0
+Quebec,September,1995,53.0
+Quebec,October,1995,23.0
+Quebec,November,1995,1.0
+Quebec,December,1995,
+Saskatchewan,January,1995,
+Saskatchewan,February,1995,
+Saskatchewan,March,1995,
+Saskatchewan,April,1995,10.0
+Saskatchewan,May,1995,222.0
+Saskatchewan,June,1995,283.0
+Saskatchewan,July,1995,85.0
+Saskatchewan,August,1995,18.0
+Saskatchewan,September,1995,20.0
+Saskatchewan,October,1995,9.0
+Saskatchewan,November,1995,3.0
+Saskatchewan,December,1995,1.0
+Yukon,January,1995,
+Yukon,March,1995,1.0
+Yukon,April,1995,4.0
+Yukon,May,1995,31.0
+Yukon,June,1995,80.0
+Yukon,July,1995,22.0
+Yukon,August,1995,6.0
+Yukon,September,1995,2.0
+Yukon,October,1995,
+Yukon,November,1995,1.0
+Yukon,December,1995,
+Alberta,January,1996,1.0
+Alberta,February,1996,
+Alberta,March,1996,1.0
+Alberta,April,1996,26.0
+Alberta,May,1996,56.0
+Alberta,June,1996,124.0
+Alberta,July,1996,89.0
+Alberta,August,1996,76.0
+Alberta,September,1996,14.0
+Alberta,October,1996,7.0
+Alberta,November,1996,2.0
+Alberta,December,1996,2.0
+British Columbia,January,1996,5.0
+British Columbia,February,1996,3.0
+British Columbia,March,1996,31.0
+British Columbia,April,1996,60.0
+British Columbia,May,1996,82.0
+British Columbia,June,1996,155.0
+British Columbia,July,1996,452.0
+British Columbia,August,1996,489.0
+British Columbia,September,1996,64.0
+British Columbia,October,1996,16.0
+British Columbia,November,1996,1.0
+British Columbia,December,1996,2.0
+Manitoba,January,1996,
+Manitoba,February,1996,
+Manitoba,March,1996,
+Manitoba,April,1996,1.0
+Manitoba,May,1996,77.0
+Manitoba,June,1996,103.0
+Manitoba,July,1996,155.0
+Manitoba,August,1996,59.0
+Manitoba,September,1996,23.0
+Manitoba,October,1996,4.0
+Manitoba,November,1996,
+Manitoba,December,1996,
+New Brunswick,March,1996,1.0
+New Brunswick,April,1996,26.0
+New Brunswick,May,1996,75.0
+New Brunswick,June,1996,129.0
+New Brunswick,July,1996,11.0
+New Brunswick,August,1996,74.0
+New Brunswick,September,1996,37.0
+New Brunswick,October,1996,13.0
+New Brunswick,November,1996,1.0
+New Brunswick,December,1996,
+Newfoundland and Labrador,January,1996,
+Newfoundland and Labrador,March,1996,
+Newfoundland and Labrador,April,1996,13.0
+Newfoundland and Labrador,May,1996,23.0
+Newfoundland and Labrador,June,1996,12.0
+Newfoundland and Labrador,July,1996,4.0
+Newfoundland and Labrador,August,1996,48.0
+Newfoundland and Labrador,September,1996,9.0
+Newfoundland and Labrador,October,1996,2.0
+Newfoundland and Labrador,November,1996,
+Newfoundland and Labrador,December,1996,
+Northwest Territories,January,1996,
+Northwest Territories,February,1996,
+Northwest Territories,April,1996,1.0
+Northwest Territories,May,1996,11.0
+Northwest Territories,June,1996,182.0
+Northwest Territories,July,1996,134.0
+Northwest Territories,August,1996,22.0
+Northwest Territories,September,1996,
+Northwest Territories,October,1996,
+Northwest Territories,November,1996,
+Northwest Territories,December,1996,
+Nova Scotia,January,1996,
+Nova Scotia,March,1996,55.0
+Nova Scotia,April,1996,65.0
+Nova Scotia,May,1996,66.0
+Nova Scotia,June,1996,45.0
+Nova Scotia,July,1996,9.0
+Nova Scotia,August,1996,20.0
+Nova Scotia,September,1996,7.0
+Nova Scotia,October,1996,3.0
+Nova Scotia,November,1996,
+Ontario,January,1996,
+Ontario,February,1996,
+Ontario,March,1996,7.0
+Ontario,April,1996,30.0
+Ontario,May,1996,241.0
+Ontario,June,1996,570.0
+Ontario,July,1996,198.0
+Ontario,August,1996,144.0
+Ontario,September,1996,73.0
+Ontario,October,1996,11.0
+Ontario,November,1996,
+Ontario,December,1996,
+Prince Edward Island,January,1996,0.0
+Prince Edward Island,February,1996,0.0
+Prince Edward Island,March,1996,0.0
+Prince Edward Island,April,1996,0.0
+Prince Edward Island,May,1996,0.0
+Prince Edward Island,June,1996,0.0
+Prince Edward Island,July,1996,0.0
+Prince Edward Island,August,1996,0.0
+Prince Edward Island,September,1996,0.0
+Prince Edward Island,October,1996,0.0
+Prince Edward Island,November,1996,0.0
+Prince Edward Island,December,1996,0.0
+Quebec,February,1996,
+Quebec,March,1996,
+Quebec,April,1996,5.0
+Quebec,May,1996,163.0
+Quebec,June,1996,706.0
+Quebec,July,1996,55.0
+Quebec,August,1996,209.0
+Quebec,September,1996,92.0
+Quebec,October,1996,19.0
+Quebec,November,1996,1.0
+Quebec,December,1996,
+Saskatchewan,January,1996,1.0
+Saskatchewan,February,1996,1.0
+Saskatchewan,March,1996,
+Saskatchewan,April,1996,6.0
+Saskatchewan,May,1996,62.0
+Saskatchewan,June,1996,123.0
+Saskatchewan,July,1996,161.0
+Saskatchewan,August,1996,53.0
+Saskatchewan,September,1996,15.0
+Saskatchewan,October,1996,3.0
+Saskatchewan,November,1996,
+Saskatchewan,December,1996,
+Yukon,January,1996,
+Yukon,March,1996,2.0
+Yukon,April,1996,2.0
+Yukon,May,1996,19.0
+Yukon,June,1996,72.0
+Yukon,July,1996,44.0
+Yukon,August,1996,7.0
+Yukon,September,1996,3.0
+Yukon,October,1996,
+Yukon,November,1996,
+Yukon,December,1996,
+Alberta,January,1997,1.0
+Alberta,February,1997,
+Alberta,March,1997,4.0
+Alberta,April,1997,24.0
+Alberta,May,1997,120.0
+Alberta,June,1997,34.0
+Alberta,July,1997,148.0
+Alberta,August,1997,79.0
+Alberta,September,1997,17.0
+Alberta,October,1997,3.0
+Alberta,November,1997,1.0
+Alberta,December,1997,32.0
+British Columbia,January,1997,
+British Columbia,February,1997,2.0
+British Columbia,March,1997,6.0
+British Columbia,April,1997,86.0
+British Columbia,May,1997,131.0
+British Columbia,June,1997,95.0
+British Columbia,July,1997,172.0
+British Columbia,August,1997,514.0
+British Columbia,September,1997,162.0
+British Columbia,October,1997,3.0
+British Columbia,November,1997,3.0
+British Columbia,December,1997,2.0
+Manitoba,January,1997,
+Manitoba,February,1997,
+Manitoba,March,1997,
+Manitoba,April,1997,8.0
+Manitoba,May,1997,83.0
+Manitoba,June,1997,87.0
+Manitoba,July,1997,102.0
+Manitoba,August,1997,83.0
+Manitoba,September,1997,8.0
+Manitoba,October,1997,1.0
+Manitoba,November,1997,
+Manitoba,December,1997,
+New Brunswick,March,1997,
+New Brunswick,April,1997,16.0
+New Brunswick,May,1997,72.0
+New Brunswick,June,1997,68.0
+New Brunswick,July,1997,77.0
+New Brunswick,August,1997,75.0
+New Brunswick,September,1997,13.0
+New Brunswick,October,1997,45.0
+New Brunswick,November,1997,2.0
+New Brunswick,December,1997,
+Newfoundland and Labrador,January,1997,
+Newfoundland and Labrador,March,1997,
+Newfoundland and Labrador,April,1997,
+Newfoundland and Labrador,May,1997,15.0
+Newfoundland and Labrador,June,1997,25.0
+Newfoundland and Labrador,July,1997,26.0
+Newfoundland and Labrador,August,1997,11.0
+Newfoundland and Labrador,September,1997,1.0
+Newfoundland and Labrador,October,1997,
+Newfoundland and Labrador,November,1997,
+Newfoundland and Labrador,December,1997,
+Northwest Territories,January,1997,
+Northwest Territories,February,1997,
+Northwest Territories,April,1997,
+Northwest Territories,May,1997,1.0
+Northwest Territories,June,1997,17.0
+Northwest Territories,July,1997,74.0
+Northwest Territories,August,1997,10.0
+Northwest Territories,September,1997,3.0
+Northwest Territories,October,1997,
+Northwest Territories,November,1997,
+Northwest Territories,December,1997,
+Nova Scotia,January,1997,
+Nova Scotia,March,1997,1.0
+Nova Scotia,April,1997,44.0
+Nova Scotia,May,1997,77.0
+Nova Scotia,June,1997,35.0
+Nova Scotia,July,1997,108.0
+Nova Scotia,August,1997,59.0
+Nova Scotia,September,1997,16.0
+Nova Scotia,October,1997,30.0
+Nova Scotia,November,1997,
+Ontario,January,1997,
+Ontario,February,1997,
+Ontario,March,1997,
+Ontario,April,1997,136.0
+Ontario,May,1997,180.0
+Ontario,June,1997,425.0
+Ontario,July,1997,371.0
+Ontario,August,1997,423.0
+Ontario,September,1997,90.0
+Ontario,October,1997,18.0
+Ontario,November,1997,1.0
+Ontario,December,1997,
+Prince Edward Island,January,1997,0.0
+Prince Edward Island,February,1997,0.0
+Prince Edward Island,March,1997,
+Prince Edward Island,April,1997,2.0
+Prince Edward Island,May,1997,20.0
+Prince Edward Island,June,1997,7.0
+Prince Edward Island,July,1997,2.0
+Prince Edward Island,August,1997,2.0
+Prince Edward Island,September,1997,
+Prince Edward Island,October,1997,1.0
+Prince Edward Island,November,1997,
+Prince Edward Island,December,1997,0.0
+Quebec,February,1997,
+Quebec,March,1997,
+Quebec,April,1997,21.0
+Quebec,May,1997,63.0
+Quebec,June,1997,436.0
+Quebec,July,1997,143.0
+Quebec,August,1997,146.0
+Quebec,September,1997,22.0
+Quebec,October,1997,44.0
+Quebec,November,1997,1.0
+Quebec,December,1997,
+Saskatchewan,January,1997,
+Saskatchewan,February,1997,
+Saskatchewan,March,1997,
+Saskatchewan,April,1997,10.0
+Saskatchewan,May,1997,92.0
+Saskatchewan,June,1997,52.0
+Saskatchewan,July,1997,150.0
+Saskatchewan,August,1997,168.0
+Saskatchewan,September,1997,15.0
+Saskatchewan,October,1997,2.0
+Saskatchewan,November,1997,
+Saskatchewan,December,1997,
+Yukon,January,1997,
+Yukon,March,1997,
+Yukon,April,1997,
+Yukon,May,1997,23.0
+Yukon,June,1997,34.0
+Yukon,July,1997,37.0
+Yukon,August,1997,13.0
+Yukon,September,1997,3.0
+Yukon,October,1997,2.0
+Yukon,November,1997,
+Yukon,December,1997,
+Alberta,January,1998,
+Alberta,February,1998,
+Alberta,March,1998,2.0
+Alberta,April,1998,152.0
+Alberta,May,1998,412.0
+Alberta,June,1998,273.0
+Alberta,July,1998,196.0
+Alberta,August,1998,540.0
+Alberta,September,1998,84.0
+Alberta,October,1998,60.0
+Alberta,November,1998,10.0
+Alberta,December,1998,9.0
+British Columbia,January,1998,3.0
+British Columbia,February,1998,3.0
+British Columbia,March,1998,24.0
+British Columbia,April,1998,148.0
+British Columbia,May,1998,259.0
+British Columbia,June,1998,143.0
+British Columbia,July,1998,674.0
+British Columbia,August,1998,870.0
+British Columbia,September,1998,473.0
+British Columbia,October,1998,44.0
+British Columbia,November,1998,4.0
+British Columbia,December,1998,
+Manitoba,January,1998,
+Manitoba,February,1998,
+Manitoba,March,1998,
+Manitoba,April,1998,110.0
+Manitoba,May,1998,51.0
+Manitoba,June,1998,52.0
+Manitoba,July,1998,136.0
+Manitoba,August,1998,106.0
+Manitoba,September,1998,50.0
+Manitoba,October,1998,1.0
+Manitoba,November,1998,1.0
+Manitoba,December,1998,
+New Brunswick,March,1998,
+New Brunswick,April,1998,67.0
+New Brunswick,May,1998,61.0
+New Brunswick,June,1998,29.0
+New Brunswick,July,1998,44.0
+New Brunswick,August,1998,73.0
+New Brunswick,September,1998,5.0
+New Brunswick,October,1998,7.0
+New Brunswick,November,1998,2.0
+New Brunswick,December,1998,
+Newfoundland and Labrador,January,1998,
+Newfoundland and Labrador,March,1998,
+Newfoundland and Labrador,April,1998,1.0
+Newfoundland and Labrador,May,1998,94.0
+Newfoundland and Labrador,June,1998,55.0
+Newfoundland and Labrador,July,1998,11.0
+Newfoundland and Labrador,August,1998,18.0
+Newfoundland and Labrador,September,1998,
+Newfoundland and Labrador,October,1998,1.0
+Newfoundland and Labrador,November,1998,
+Newfoundland and Labrador,December,1998,
+Northwest Territories,January,1998,
+Northwest Territories,February,1998,
+Northwest Territories,April,1998,
+Northwest Territories,May,1998,24.0
+Northwest Territories,June,1998,76.0
+Northwest Territories,July,1998,228.0
+Northwest Territories,August,1998,69.0
+Northwest Territories,September,1998,2.0
+Northwest Territories,October,1998,
+Northwest Territories,November,1998,
+Northwest Territories,December,1998,
+Nova Scotia,January,1998,
+Nova Scotia,March,1998,20.0
+Nova Scotia,April,1998,86.0
+Nova Scotia,May,1998,91.0
+Nova Scotia,June,1998,45.0
+Nova Scotia,July,1998,19.0
+Nova Scotia,August,1998,61.0
+Nova Scotia,September,1998,8.0
+Nova Scotia,October,1998,16.0
+Nova Scotia,November,1998,
+Ontario,January,1998,
+Ontario,February,1998,
+Ontario,March,1998,11.0
+Ontario,April,1998,207.0
+Ontario,May,1998,463.0
+Ontario,June,1998,254.0
+Ontario,July,1998,710.0
+Ontario,August,1998,477.0
+Ontario,September,1998,127.0
+Ontario,October,1998,32.0
+Ontario,November,1998,8.0
+Ontario,December,1998,2.0
+Prince Edward Island,January,1998,0.0
+Prince Edward Island,February,1998,0.0
+Prince Edward Island,March,1998,
+Prince Edward Island,April,1998,1.0
+Prince Edward Island,May,1998,14.0
+Prince Edward Island,June,1998,2.0
+Prince Edward Island,July,1998,3.0
+Prince Edward Island,August,1998,6.0
+Prince Edward Island,September,1998,
+Prince Edward Island,October,1998,1.0
+Prince Edward Island,November,1998,
+Prince Edward Island,December,1998,0.0
+Quebec,February,1998,
+Quebec,March,1998,
+Quebec,April,1998,115.0
+Quebec,May,1998,279.0
+Quebec,June,1998,112.0
+Quebec,July,1998,106.0
+Quebec,August,1998,171.0
+Quebec,September,1998,34.0
+Quebec,October,1998,29.0
+Quebec,November,1998,8.0
+Quebec,December,1998,
+Saskatchewan,January,1998,
+Saskatchewan,February,1998,
+Saskatchewan,March,1998,
+Saskatchewan,April,1998,107.0
+Saskatchewan,May,1998,292.0
+Saskatchewan,June,1998,216.0
+Saskatchewan,July,1998,355.0
+Saskatchewan,August,1998,220.0
+Saskatchewan,September,1998,71.0
+Saskatchewan,October,1998,6.0
+Saskatchewan,November,1998,
+Saskatchewan,December,1998,1.0
+Yukon,January,1998,
+Yukon,March,1998,
+Yukon,April,1998,2.0
+Yukon,May,1998,44.0
+Yukon,June,1998,36.0
+Yukon,July,1998,73.0
+Yukon,August,1998,35.0
+Yukon,September,1998,7.0
+Yukon,October,1998,
+Yukon,November,1998,
+Yukon,December,1998,
+Alberta,January,1999,4.0
+Alberta,February,1999,
+Alberta,March,1999,6.0
+Alberta,April,1999,133.0
+Alberta,May,1999,121.0
+Alberta,June,1999,213.0
+Alberta,July,1999,280.0
+Alberta,August,1999,427.0
+Alberta,September,1999,46.0
+Alberta,October,1999,84.0
+Alberta,November,1999,29.0
+Alberta,December,1999,28.0
+British Columbia,January,1999,
+British Columbia,February,1999,2.0
+British Columbia,March,1999,8.0
+British Columbia,April,1999,92.0
+British Columbia,May,1999,83.0
+British Columbia,June,1999,118.0
+British Columbia,July,1999,168.0
+British Columbia,August,1999,522.0
+British Columbia,September,1999,109.0
+British Columbia,October,1999,82.0
+British Columbia,November,1999,6.0
+British Columbia,December,1999,8.0
+Manitoba,January,1999,2.0
+Manitoba,February,1999,
+Manitoba,March,1999,
+Manitoba,April,1999,133.0
+Manitoba,May,1999,104.0
+Manitoba,June,1999,115.0
+Manitoba,July,1999,125.0
+Manitoba,August,1999,112.0
+Manitoba,September,1999,17.0
+Manitoba,October,1999,5.0
+Manitoba,November,1999,
+Manitoba,December,1999,
+New Brunswick,March,1999,
+New Brunswick,April,1999,55.0
+New Brunswick,May,1999,180.0
+New Brunswick,June,1999,210.0
+New Brunswick,July,1999,80.0
+New Brunswick,August,1999,40.0
+New Brunswick,September,1999,31.0
+New Brunswick,October,1999,3.0
+New Brunswick,November,1999,7.0
+New Brunswick,December,1999,1.0
+Newfoundland and Labrador,January,1999,
+Newfoundland and Labrador,March,1999,5.0
+Newfoundland and Labrador,April,1999,10.0
+Newfoundland and Labrador,May,1999,66.0
+Newfoundland and Labrador,June,1999,66.0
+Newfoundland and Labrador,July,1999,20.0
+Newfoundland and Labrador,August,1999,10.0
+Newfoundland and Labrador,September,1999,10.0
+Newfoundland and Labrador,October,1999,1.0
+Newfoundland and Labrador,November,1999,
+Newfoundland and Labrador,December,1999,
+Northwest Territories,January,1999,
+Northwest Territories,February,1999,
+Northwest Territories,April,1999,1.0
+Northwest Territories,May,1999,3.0
+Northwest Territories,June,1999,70.0
+Northwest Territories,July,1999,39.0
+Northwest Territories,August,1999,53.0
+Northwest Territories,September,1999,6.0
+Northwest Territories,October,1999,
+Northwest Territories,November,1999,
+Northwest Territories,December,1999,
+Nova Scotia,January,1999,
+Nova Scotia,March,1999,23.0
+Nova Scotia,April,1999,78.0
+Nova Scotia,May,1999,129.0
+Nova Scotia,June,1999,97.0
+Nova Scotia,July,1999,89.0
+Nova Scotia,August,1999,24.0
+Nova Scotia,September,1999,14.0
+Nova Scotia,October,1999,3.0
+Nova Scotia,November,1999,7.0
+Ontario,January,1999,
+Ontario,February,1999,1.0
+Ontario,March,1999,6.0
+Ontario,April,1999,146.0
+Ontario,May,1999,234.0
+Ontario,June,1999,154.0
+Ontario,July,1999,217.0
+Ontario,August,1999,196.0
+Ontario,September,1999,64.0
+Ontario,October,1999,4.0
+Ontario,November,1999,3.0
+Ontario,December,1999,
+Prince Edward Island,January,1999,0.0
+Prince Edward Island,February,1999,0.0
+Prince Edward Island,March,1999,1.0
+Prince Edward Island,April,1999,2.0
+Prince Edward Island,May,1999,13.0
+Prince Edward Island,June,1999,3.0
+Prince Edward Island,July,1999,6.0
+Prince Edward Island,August,1999,0.0
+Prince Edward Island,September,1999,6.0
+Prince Edward Island,October,1999,2.0
+Prince Edward Island,November,1999,1.0
+Prince Edward Island,December,1999,0.0
+Quebec,February,1999,
+Quebec,March,1999,
+Quebec,April,1999,92.0
+Quebec,May,1999,311.0
+Quebec,June,1999,197.0
+Quebec,July,1999,140.0
+Quebec,August,1999,165.0
+Quebec,September,1999,120.0
+Quebec,October,1999,5.0
+Quebec,November,1999,7.0
+Quebec,December,1999,
+Saskatchewan,January,1999,
+Saskatchewan,February,1999,
+Saskatchewan,March,1999,1.0
+Saskatchewan,April,1999,51.0
+Saskatchewan,May,1999,100.0
+Saskatchewan,June,1999,158.0
+Saskatchewan,July,1999,252.0
+Saskatchewan,August,1999,158.0
+Saskatchewan,September,1999,6.0
+Saskatchewan,October,1999,7.0
+Saskatchewan,November,1999,7.0
+Saskatchewan,December,1999,
+Yukon,January,1999,
+Yukon,March,1999,
+Yukon,April,1999,2.0
+Yukon,May,1999,10.0
+Yukon,June,1999,49.0
+Yukon,July,1999,36.0
+Yukon,August,1999,61.0
+Yukon,September,1999,1.0
+Yukon,October,1999,
+Yukon,November,1999,
+Yukon,December,1999,
+Alberta,January,2000,9.0
+Alberta,February,2000,8.0
+Alberta,March,2000,30.0
+Alberta,April,2000,139.0
+Alberta,May,2000,112.0
+Alberta,June,2000,261.0
+Alberta,July,2000,197.0
+Alberta,August,2000,74.0
+Alberta,September,2000,12.0
+Alberta,October,2000,16.0
+Alberta,November,2000,5.0
+Alberta,December,2000,1.0
+British Columbia,January,2000,
+British Columbia,February,2000,3.0
+British Columbia,March,2000,17.0
+British Columbia,April,2000,157.0
+British Columbia,May,2000,82.0
+British Columbia,June,2000,129.0
+British Columbia,July,2000,399.0
+British Columbia,August,2000,618.0
+British Columbia,September,2000,86.0
+British Columbia,October,2000,51.0
+British Columbia,November,2000,8.0
+British Columbia,December,2000,1.0
+Manitoba,January,2000,
+Manitoba,February,2000,
+Manitoba,March,2000,1.0
+Manitoba,April,2000,1.0
+Manitoba,May,2000,1.0
+Manitoba,June,2000,
+Manitoba,July,2000,
+Manitoba,August,2000,
+Manitoba,September,2000,
+Manitoba,October,2000,1.0
+Manitoba,November,2000,
+Manitoba,December,2000,
+New Brunswick,March,2000,1.0
+New Brunswick,April,2000,31.0
+New Brunswick,May,2000,73.0
+New Brunswick,June,2000,77.0
+New Brunswick,July,2000,40.0
+New Brunswick,August,2000,46.0
+New Brunswick,September,2000,44.0
+New Brunswick,October,2000,30.0
+New Brunswick,November,2000,
+New Brunswick,December,2000,
+Newfoundland and Labrador,January,2000,
+Newfoundland and Labrador,March,2000,
+Newfoundland and Labrador,April,2000,14.0
+Newfoundland and Labrador,May,2000,34.0
+Newfoundland and Labrador,June,2000,44.0
+Newfoundland and Labrador,July,2000,9.0
+Newfoundland and Labrador,August,2000,15.0
+Newfoundland and Labrador,September,2000,7.0
+Newfoundland and Labrador,October,2000,1.0
+Newfoundland and Labrador,November,2000,
+Newfoundland and Labrador,December,2000,
+Northwest Territories,January,2000,
+Northwest Territories,February,2000,
+Northwest Territories,April,2000,
+Northwest Territories,May,2000,5.0
+Northwest Territories,June,2000,90.0
+Northwest Territories,July,2000,144.0
+Northwest Territories,August,2000,36.0
+Northwest Territories,September,2000,
+Northwest Territories,October,2000,
+Northwest Territories,November,2000,
+Northwest Territories,December,2000,
+Nova Scotia,January,2000,
+Nova Scotia,March,2000,4.0
+Nova Scotia,April,2000,19.0
+Nova Scotia,May,2000,57.0
+Nova Scotia,June,2000,51.0
+Nova Scotia,July,2000,25.0
+Nova Scotia,August,2000,29.0
+Nova Scotia,September,2000,18.0
+Nova Scotia,October,2000,8.0
+Nova Scotia,November,2000,1.0
+Ontario,January,2000,
+Ontario,February,2000,1.0
+Ontario,March,2000,17.0
+Ontario,April,2000,99.0
+Ontario,May,2000,88.0
+Ontario,June,2000,44.0
+Ontario,July,2000,117.0
+Ontario,August,2000,156.0
+Ontario,September,2000,38.0
+Ontario,October,2000,83.0
+Ontario,November,2000,7.0
+Ontario,December,2000,
+Prince Edward Island,January,2000,
+Prince Edward Island,February,2000,
+Prince Edward Island,March,2000,
+Prince Edward Island,April,2000,
+Prince Edward Island,May,2000,
+Prince Edward Island,June,2000,
+Prince Edward Island,July,2000,
+Prince Edward Island,August,2000,
+Prince Edward Island,September,2000,
+Prince Edward Island,October,2000,
+Prince Edward Island,November,2000,
+Prince Edward Island,December,2000,
+Quebec,February,2000,
+Quebec,March,2000,1.0
+Quebec,April,2000,80.0
+Quebec,May,2000,100.0
+Quebec,June,2000,74.0
+Quebec,July,2000,137.0
+Quebec,August,2000,52.0
+Quebec,September,2000,44.0
+Quebec,October,2000,25.0
+Quebec,November,2000,4.0
+Quebec,December,2000,
+Saskatchewan,January,2000,1.0
+Saskatchewan,February,2000,
+Saskatchewan,March,2000,4.0
+Saskatchewan,April,2000,46.0
+Saskatchewan,May,2000,72.0
+Saskatchewan,June,2000,137.0
+Saskatchewan,July,2000,89.0
+Saskatchewan,August,2000,46.0
+Saskatchewan,September,2000,15.0
+Saskatchewan,October,2000,11.0
+Saskatchewan,November,2000,
+Saskatchewan,December,2000,
+Yukon,January,2000,
+Yukon,March,2000,
+Yukon,April,2000,
+Yukon,May,2000,8.0
+Yukon,June,2000,36.0
+Yukon,July,2000,3.0
+Yukon,August,2000,
+Yukon,September,2000,
+Yukon,October,2000,
+Yukon,November,2000,
+Yukon,December,2000,
+Alberta,January,2001,4.0
+Alberta,February,2001,2.0
+Alberta,March,2001,28.0
+Alberta,April,2001,79.0
+Alberta,May,2001,292.0
+Alberta,June,2001,184.0
+Alberta,July,2001,201.0
+Alberta,August,2001,91.0
+Alberta,September,2001,55.0
+Alberta,October,2001,56.0
+Alberta,November,2001,22.0
+Alberta,December,2001,10.0
+British Columbia,January,2001,6.0
+British Columbia,February,2001,1.0
+British Columbia,March,2001,30.0
+British Columbia,April,2001,130.0
+British Columbia,May,2001,257.0
+British Columbia,June,2001,98.0
+British Columbia,July,2001,329.0
+British Columbia,August,2001,262.0
+British Columbia,September,2001,135.0
+British Columbia,October,2001,59.0
+British Columbia,November,2001,13.0
+British Columbia,December,2001,
+Manitoba,January,2001,
+Manitoba,February,2001,
+Manitoba,March,2001,
+Manitoba,April,2001,1.0
+Manitoba,May,2001,3.0
+Manitoba,June,2001,
+Manitoba,July,2001,
+Manitoba,August,2001,
+Manitoba,September,2001,1.0
+Manitoba,October,2001,1.0
+Manitoba,November,2001,
+Manitoba,December,2001,
+New Brunswick,March,2001,
+New Brunswick,April,2001,36.0
+New Brunswick,May,2001,169.0
+New Brunswick,June,2001,43.0
+New Brunswick,July,2001,47.0
+New Brunswick,August,2001,116.0
+New Brunswick,September,2001,53.0
+New Brunswick,October,2001,29.0
+New Brunswick,November,2001,3.0
+New Brunswick,December,2001,
+Newfoundland and Labrador,January,2001,1.0
+Newfoundland and Labrador,March,2001,
+Newfoundland and Labrador,April,2001,
+Newfoundland and Labrador,May,2001,30.0
+Newfoundland and Labrador,June,2001,36.0
+Newfoundland and Labrador,July,2001,34.0
+Newfoundland and Labrador,August,2001,63.0
+Newfoundland and Labrador,September,2001,10.0
+Newfoundland and Labrador,October,2001,5.0
+Newfoundland and Labrador,November,2001,
+Newfoundland and Labrador,December,2001,1.0
+Northwest Territories,January,2001,
+Northwest Territories,February,2001,
+Northwest Territories,April,2001,
+Northwest Territories,May,2001,
+Northwest Territories,June,2001,49.0
+Northwest Territories,July,2001,71.0
+Northwest Territories,August,2001,6.0
+Northwest Territories,September,2001,2.0
+Northwest Territories,October,2001,
+Northwest Territories,November,2001,
+Northwest Territories,December,2001,
+Nova Scotia,January,2001,
+Nova Scotia,March,2001,4.0
+Nova Scotia,April,2001,36.0
+Nova Scotia,May,2001,139.0
+Nova Scotia,June,2001,31.0
+Nova Scotia,July,2001,67.0
+Nova Scotia,August,2001,129.0
+Nova Scotia,September,2001,47.0
+Nova Scotia,October,2001,28.0
+Nova Scotia,November,2001,8.0
+Ontario,January,2001,1.0
+Ontario,February,2001,
+Ontario,March,2001,1.0
+Ontario,April,2001,52.0
+Ontario,May,2001,115.0
+Ontario,June,2001,267.0
+Ontario,July,2001,373.0
+Ontario,August,2001,666.0
+Ontario,September,2001,109.0
+Ontario,October,2001,10.0
+Ontario,November,2001,2.0
+Ontario,December,2001,
+Prince Edward Island,January,2001,0.0
+Prince Edward Island,February,2001,0.0
+Prince Edward Island,March,2001,0.0
+Prince Edward Island,April,2001,0.0
+Prince Edward Island,May,2001,7.0
+Prince Edward Island,June,2001,3.0
+Prince Edward Island,July,2001,6.0
+Prince Edward Island,August,2001,13.0
+Prince Edward Island,September,2001,6.0
+Prince Edward Island,October,2001,10.0
+Prince Edward Island,November,2001,1.0
+Prince Edward Island,December,2001,0.0
+Quebec,February,2001,
+Quebec,March,2001,
+Quebec,April,2001,98.0
+Quebec,May,2001,296.0
+Quebec,June,2001,127.0
+Quebec,July,2001,109.0
+Quebec,August,2001,324.0
+Quebec,September,2001,41.0
+Quebec,October,2001,8.0
+Quebec,November,2001,2.0
+Quebec,December,2001,
+Saskatchewan,January,2001,4.0
+Saskatchewan,February,2001,1.0
+Saskatchewan,March,2001,3.0
+Saskatchewan,April,2001,121.0
+Saskatchewan,May,2001,158.0
+Saskatchewan,June,2001,200.0
+Saskatchewan,July,2001,116.0
+Saskatchewan,August,2001,154.0
+Saskatchewan,September,2001,74.0
+Saskatchewan,October,2001,44.0
+Saskatchewan,November,2001,
+Saskatchewan,December,2001,
+Yukon,January,2001,
+Yukon,March,2001,
+Yukon,April,2001,1.0
+Yukon,May,2001,8.0
+Yukon,June,2001,30.0
+Yukon,July,2001,20.0
+Yukon,August,2001,9.0
+Yukon,September,2001,
+Yukon,October,2001,
+Yukon,November,2001,
+Yukon,December,2001,
+Alberta,January,2002,10.0
+Alberta,February,2002,4.0
+Alberta,March,2002,3.0
+Alberta,April,2002,35.0
+Alberta,May,2002,264.0
+Alberta,June,2002,588.0
+Alberta,July,2002,358.0
+Alberta,August,2002,122.0
+Alberta,September,2002,60.0
+Alberta,October,2002,22.0
+Alberta,November,2002,21.0
+Alberta,December,2002,6.0
+British Columbia,January,2002,3.0
+British Columbia,February,2002,3.0
+British Columbia,March,2002,5.0
+British Columbia,April,2002,140.0
+British Columbia,May,2002,161.0
+British Columbia,June,2002,245.0
+British Columbia,July,2002,410.0
+British Columbia,August,2002,596.0
+British Columbia,September,2002,108.0
+British Columbia,October,2002,86.0
+British Columbia,November,2002,32.0
+British Columbia,December,2002,6.0
+Manitoba,January,2002,
+Manitoba,February,2002,
+Manitoba,March,2002,
+Manitoba,April,2002,1.0
+Manitoba,May,2002,4.0
+Manitoba,June,2002,
+Manitoba,July,2002,
+Manitoba,August,2002,
+Manitoba,September,2002,
+Manitoba,October,2002,
+Manitoba,November,2002,
+Manitoba,December,2002,
+New Brunswick,March,2002,
+New Brunswick,April,2002,31.0
+New Brunswick,May,2002,97.0
+New Brunswick,June,2002,42.0
+New Brunswick,July,2002,37.0
+New Brunswick,August,2002,76.0
+New Brunswick,September,2002,22.0
+New Brunswick,October,2002,10.0
+New Brunswick,November,2002,2.0
+New Brunswick,December,2002,
+Newfoundland and Labrador,January,2002,
+Newfoundland and Labrador,March,2002,
+Newfoundland and Labrador,April,2002,5.0
+Newfoundland and Labrador,May,2002,30.0
+Newfoundland and Labrador,June,2002,24.0
+Newfoundland and Labrador,July,2002,13.0
+Newfoundland and Labrador,August,2002,14.0
+Newfoundland and Labrador,September,2002,6.0
+Newfoundland and Labrador,October,2002,1.0
+Newfoundland and Labrador,November,2002,
+Newfoundland and Labrador,December,2002,
+Northwest Territories,January,2002,
+Northwest Territories,February,2002,
+Northwest Territories,April,2002,
+Northwest Territories,May,2002,2.0
+Northwest Territories,June,2002,38.0
+Northwest Territories,July,2002,41.0
+Northwest Territories,August,2002,4.0
+Northwest Territories,September,2002,
+Northwest Territories,October,2002,
+Northwest Territories,November,2002,
+Northwest Territories,December,2002,
+Nova Scotia,January,2002,
+Nova Scotia,March,2002,5.0
+Nova Scotia,April,2002,23.0
+Nova Scotia,May,2002,111.0
+Nova Scotia,June,2002,31.0
+Nova Scotia,July,2002,26.0
+Nova Scotia,August,2002,55.0
+Nova Scotia,September,2002,18.0
+Nova Scotia,October,2002,
+Nova Scotia,November,2002,1.0
+Ontario,January,2002,
+Ontario,February,2002,
+Ontario,March,2002,1.0
+Ontario,April,2002,26.0
+Ontario,May,2002,105.0
+Ontario,June,2002,85.0
+Ontario,July,2002,536.0
+Ontario,August,2002,212.0
+Ontario,September,2002,188.0
+Ontario,October,2002,8.0
+Ontario,November,2002,1.0
+Ontario,December,2002,
+Prince Edward Island,January,2002,0.0
+Prince Edward Island,February,2002,0.0
+Prince Edward Island,March,2002,0.0
+Prince Edward Island,April,2002,2.0
+Prince Edward Island,May,2002,13.0
+Prince Edward Island,June,2002,0.0
+Prince Edward Island,July,2002,6.0
+Prince Edward Island,August,2002,4.0
+Prince Edward Island,September,2002,3.0
+Prince Edward Island,October,2002,1.0
+Prince Edward Island,November,2002,0.0
+Prince Edward Island,December,2002,0.0
+Quebec,February,2002,1.0
+Quebec,March,2002,1.0
+Quebec,April,2002,53.0
+Quebec,May,2002,128.0
+Quebec,June,2002,84.0
+Quebec,July,2002,249.0
+Quebec,August,2002,166.0
+Quebec,September,2002,205.0
+Quebec,October,2002,11.0
+Quebec,November,2002,1.0
+Quebec,December,2002,
+Saskatchewan,January,2002,2.0
+Saskatchewan,February,2002,3.0
+Saskatchewan,March,2002,3.0
+Saskatchewan,April,2002,35.0
+Saskatchewan,May,2002,292.0
+Saskatchewan,June,2002,345.0
+Saskatchewan,July,2002,183.0
+Saskatchewan,August,2002,21.0
+Saskatchewan,September,2002,5.0
+Saskatchewan,October,2002,2.0
+Saskatchewan,November,2002,
+Saskatchewan,December,2002,
+Yukon,January,2002,
+Yukon,March,2002,
+Yukon,April,2002,
+Yukon,May,2002,17.0
+Yukon,June,2002,30.0
+Yukon,July,2002,19.0
+Yukon,August,2002,4.0
+Yukon,September,2002,
+Yukon,October,2002,
+Yukon,November,2002,
+Yukon,December,2002,
+Alberta,January,2003,14.0
+Alberta,February,2003,4.0
+Alberta,March,2003,1.0
+Alberta,April,2003,34.0
+Alberta,May,2003,267.0
+Alberta,June,2003,215.0
+Alberta,July,2003,328.0
+Alberta,August,2003,257.0
+Alberta,September,2003,59.0
+Alberta,October,2003,57.0
+Alberta,November,2003,14.0
+Alberta,December,2003,7.0
+British Columbia,January,2003,5.0
+British Columbia,February,2003,3.0
+British Columbia,March,2003,19.0
+British Columbia,April,2003,99.0
+British Columbia,May,2003,144.0
+British Columbia,June,2003,272.0
+British Columbia,July,2003,562.0
+British Columbia,August,2003,1132.0
+British Columbia,September,2003,198.0
+British Columbia,October,2003,40.0
+British Columbia,November,2003,16.0
+British Columbia,December,2003,
+Manitoba,January,2003,
+Manitoba,February,2003,
+Manitoba,March,2003,
+Manitoba,April,2003,1.0
+Manitoba,May,2003,
+Manitoba,June,2003,
+Manitoba,July,2003,
+Manitoba,August,2003,1.0
+Manitoba,September,2003,
+Manitoba,October,2003,
+Manitoba,November,2003,
+Manitoba,December,2003,
+New Brunswick,March,2003,
+New Brunswick,April,2003,18.0
+New Brunswick,May,2003,89.0
+New Brunswick,June,2003,38.0
+New Brunswick,July,2003,29.0
+New Brunswick,August,2003,26.0
+New Brunswick,September,2003,27.0
+New Brunswick,October,2003,3.0
+New Brunswick,November,2003,
+New Brunswick,December,2003,
+Newfoundland and Labrador,January,2003,
+Newfoundland and Labrador,March,2003,
+Newfoundland and Labrador,April,2003,2.0
+Newfoundland and Labrador,May,2003,32.0
+Newfoundland and Labrador,June,2003,45.0
+Newfoundland and Labrador,July,2003,6.0
+Newfoundland and Labrador,August,2003,16.0
+Newfoundland and Labrador,September,2003,21.0
+Newfoundland and Labrador,October,2003,3.0
+Newfoundland and Labrador,November,2003,1.0
+Newfoundland and Labrador,December,2003,
+Northwest Territories,January,2003,
+Northwest Territories,February,2003,
+Northwest Territories,April,2003,
+Northwest Territories,May,2003,6.0
+Northwest Territories,June,2003,48.0
+Northwest Territories,July,2003,86.0
+Northwest Territories,August,2003,19.0
+Northwest Territories,September,2003,1.0
+Northwest Territories,October,2003,
+Northwest Territories,November,2003,
+Northwest Territories,December,2003,
+Nova Scotia,January,2003,
+Nova Scotia,March,2003,2.0
+Nova Scotia,April,2003,75.0
+Nova Scotia,May,2003,100.0
+Nova Scotia,June,2003,28.0
+Nova Scotia,July,2003,30.0
+Nova Scotia,August,2003,16.0
+Nova Scotia,September,2003,13.0
+Nova Scotia,October,2003,8.0
+Nova Scotia,November,2003,
+Ontario,January,2003,28.0
+Ontario,February,2003,25.0
+Ontario,March,2003,37.0
+Ontario,April,2003,95.0
+Ontario,May,2003,121.0
+Ontario,June,2003,288.0
+Ontario,July,2003,133.0
+Ontario,August,2003,204.0
+Ontario,September,2003,31.0
+Ontario,October,2003,18.0
+Ontario,November,2003,23.0
+Ontario,December,2003,40.0
+Prince Edward Island,January,2003,0.0
+Prince Edward Island,February,2003,0.0
+Prince Edward Island,March,2003,0.0
+Prince Edward Island,April,2003,2.0
+Prince Edward Island,May,2003,7.0
+Prince Edward Island,June,2003,0.0
+Prince Edward Island,July,2003,0.0
+Prince Edward Island,August,2003,1.0
+Prince Edward Island,September,2003,2.0
+Prince Edward Island,October,2003,1.0
+Prince Edward Island,November,2003,1.0
+Prince Edward Island,December,2003,0.0
+Quebec,February,2003,
+Quebec,March,2003,
+Quebec,April,2003,39.0
+Quebec,May,2003,254.0
+Quebec,June,2003,193.0
+Quebec,July,2003,78.0
+Quebec,August,2003,91.0
+Quebec,September,2003,53.0
+Quebec,October,2003,12.0
+Quebec,November,2003,
+Quebec,December,2003,
+Saskatchewan,January,2003,
+Saskatchewan,February,2003,
+Saskatchewan,March,2003,
+Saskatchewan,April,2003,48.0
+Saskatchewan,May,2003,135.0
+Saskatchewan,June,2003,73.0
+Saskatchewan,July,2003,221.0
+Saskatchewan,August,2003,146.0
+Saskatchewan,September,2003,15.0
+Saskatchewan,October,2003,20.0
+Saskatchewan,November,2003,
+Saskatchewan,December,2003,
+Yukon,January,2003,
+Yukon,March,2003,
+Yukon,April,2003,3.0
+Yukon,May,2003,13.0
+Yukon,June,2003,30.0
+Yukon,July,2003,20.0
+Yukon,August,2003,4.0
+Yukon,September,2003,2.0
+Yukon,October,2003,
+Yukon,November,2003,5.0
+Yukon,December,2003,
+Alberta,January,2004,3.0
+Alberta,February,2004,3.0
+Alberta,March,2004,9.0
+Alberta,April,2004,230.0
+Alberta,May,2004,300.0
+Alberta,June,2004,283.0
+Alberta,July,2004,658.0
+Alberta,August,2004,122.0
+Alberta,September,2004,43.0
+Alberta,October,2004,27.0
+Alberta,November,2004,3.0
+Alberta,December,2004,2.0
+British Columbia,January,2004,
+British Columbia,February,2004,2.0
+British Columbia,March,2004,43.0
+British Columbia,April,2004,178.0
+British Columbia,May,2004,132.0
+British Columbia,June,2004,637.0
+British Columbia,July,2004,630.0
+British Columbia,August,2004,719.0
+British Columbia,September,2004,38.0
+British Columbia,October,2004,36.0
+British Columbia,November,2004,2.0
+British Columbia,December,2004,1.0
+Manitoba,January,2004,
+Manitoba,February,2004,
+Manitoba,March,2004,
+Manitoba,April,2004,7.0
+Manitoba,May,2004,8.0
+Manitoba,June,2004,2.0
+Manitoba,July,2004,35.0
+Manitoba,August,2004,2.0
+Manitoba,September,2004,
+Manitoba,October,2004,
+Manitoba,November,2004,
+Manitoba,December,2004,
+New Brunswick,March,2004,
+New Brunswick,April,2004,57.0
+New Brunswick,May,2004,118.0
+New Brunswick,June,2004,41.0
+New Brunswick,July,2004,14.0
+New Brunswick,August,2004,11.0
+New Brunswick,September,2004,8.0
+New Brunswick,October,2004,6.0
+New Brunswick,November,2004,1.0
+New Brunswick,December,2004,
+Newfoundland and Labrador,January,2004,
+Newfoundland and Labrador,March,2004,
+Newfoundland and Labrador,April,2004,1.0
+Newfoundland and Labrador,May,2004,66.0
+Newfoundland and Labrador,June,2004,16.0
+Newfoundland and Labrador,July,2004,14.0
+Newfoundland and Labrador,August,2004,23.0
+Newfoundland and Labrador,September,2004,3.0
+Newfoundland and Labrador,October,2004,1.0
+Newfoundland and Labrador,November,2004,
+Newfoundland and Labrador,December,2004,
+Northwest Territories,January,2004,
+Northwest Territories,February,2004,
+Northwest Territories,April,2004,
+Northwest Territories,May,2004,3.0
+Northwest Territories,June,2004,51.0
+Northwest Territories,July,2004,206.0
+Northwest Territories,August,2004,27.0
+Northwest Territories,September,2004,9.0
+Northwest Territories,October,2004,2.0
+Northwest Territories,November,2004,1.0
+Northwest Territories,December,2004,
+Nova Scotia,January,2004,
+Nova Scotia,March,2004,
+Nova Scotia,April,2004,31.0
+Nova Scotia,May,2004,137.0
+Nova Scotia,June,2004,52.0
+Nova Scotia,July,2004,11.0
+Nova Scotia,August,2004,15.0
+Nova Scotia,September,2004,8.0
+Nova Scotia,October,2004,4.0
+Nova Scotia,November,2004,1.0
+Ontario,January,2004,
+Ontario,February,2004,
+Ontario,March,2004,
+Ontario,April,2004,34.0
+Ontario,May,2004,64.0
+Ontario,June,2004,79.0
+Ontario,July,2004,101.0
+Ontario,August,2004,99.0
+Ontario,September,2004,40.0
+Ontario,October,2004,18.0
+Ontario,November,2004,
+Ontario,December,2004,
+Prince Edward Island,January,2004,0.0
+Prince Edward Island,February,2004,0.0
+Prince Edward Island,March,2004,0.0
+Prince Edward Island,April,2004,1.0
+Prince Edward Island,May,2004,14.0
+Prince Edward Island,June,2004,3.0
+Prince Edward Island,July,2004,0.0
+Prince Edward Island,August,2004,1.0
+Prince Edward Island,September,2004,0.0
+Prince Edward Island,October,2004,1.0
+Prince Edward Island,November,2004,0.0
+Prince Edward Island,December,2004,0.0
+Quebec,February,2004,
+Quebec,March,2004,
+Quebec,April,2004,32.0
+Quebec,May,2004,82.0
+Quebec,June,2004,77.0
+Quebec,July,2004,39.0
+Quebec,August,2004,26.0
+Quebec,September,2004,36.0
+Quebec,October,2004,29.0
+Quebec,November,2004,1.0
+Quebec,December,2004,
+Saskatchewan,January,2004,
+Saskatchewan,February,2004,2.0
+Saskatchewan,March,2004,1.0
+Saskatchewan,April,2004,19.0
+Saskatchewan,May,2004,80.0
+Saskatchewan,June,2004,26.0
+Saskatchewan,July,2004,166.0
+Saskatchewan,August,2004,31.0
+Saskatchewan,September,2004,3.0
+Saskatchewan,October,2004,3.0
+Saskatchewan,November,2004,1.0
+Saskatchewan,December,2004,
+Yukon,January,2004,
+Yukon,March,2004,
+Yukon,April,2004,
+Yukon,May,2004,5.0
+Yukon,June,2004,138.0
+Yukon,July,2004,100.0
+Yukon,August,2004,33.0
+Yukon,September,2004,5.0
+Yukon,October,2004,1.0
+Yukon,November,2004,
+Yukon,December,2004,
+Alberta,January,2005,4.0
+Alberta,February,2005,8.0
+Alberta,March,2005,4.0
+Alberta,April,2005,205.0
+Alberta,May,2005,443.0
+Alberta,June,2005,283.0
+Alberta,July,2005,250.0
+Alberta,August,2005,89.0
+Alberta,September,2005,65.0
+Alberta,October,2005,35.0
+Alberta,November,2005,30.0
+Alberta,December,2005,9.0
+British Columbia,January,2005,2.0
+British Columbia,February,2005,9.0
+British Columbia,March,2005,15.0
+British Columbia,April,2005,116.0
+British Columbia,May,2005,275.0
+British Columbia,June,2005,90.0
+British Columbia,July,2005,146.0
+British Columbia,August,2005,254.0
+British Columbia,September,2005,84.0
+British Columbia,October,2005,8.0
+British Columbia,November,2005,7.0
+British Columbia,December,2005,
+Manitoba,January,2005,
+Manitoba,February,2005,
+Manitoba,March,2005,
+Manitoba,April,2005,34.0
+Manitoba,May,2005,32.0
+Manitoba,June,2005,22.0
+Manitoba,July,2005,140.0
+Manitoba,August,2005,21.0
+Manitoba,September,2005,2.0
+Manitoba,October,2005,3.0
+Manitoba,November,2005,
+Manitoba,December,2005,
+New Brunswick,March,2005,
+New Brunswick,April,2005,137.0
+New Brunswick,May,2005,41.0
+New Brunswick,June,2005,39.0
+New Brunswick,July,2005,29.0
+New Brunswick,August,2005,49.0
+New Brunswick,September,2005,12.0
+New Brunswick,October,2005,1.0
+New Brunswick,November,2005,1.0
+New Brunswick,December,2005,
+Newfoundland and Labrador,January,2005,
+Newfoundland and Labrador,March,2005,
+Newfoundland and Labrador,April,2005,6.0
+Newfoundland and Labrador,May,2005,34.0
+Newfoundland and Labrador,June,2005,31.0
+Newfoundland and Labrador,July,2005,23.0
+Newfoundland and Labrador,August,2005,14.0
+Newfoundland and Labrador,September,2005,7.0
+Newfoundland and Labrador,October,2005,
+Newfoundland and Labrador,November,2005,
+Newfoundland and Labrador,December,2005,
+Northwest Territories,January,2005,
+Northwest Territories,February,2005,
+Northwest Territories,April,2005,
+Northwest Territories,May,2005,15.0
+Northwest Territories,June,2005,43.0
+Northwest Territories,July,2005,194.0
+Northwest Territories,August,2005,5.0
+Northwest Territories,September,2005,3.0
+Northwest Territories,October,2005,1.0
+Northwest Territories,November,2005,
+Northwest Territories,December,2005,
+Nova Scotia,January,2005,
+Nova Scotia,March,2005,3.0
+Nova Scotia,April,2005,155.0
+Nova Scotia,May,2005,12.0
+Nova Scotia,June,2005,39.0
+Nova Scotia,July,2005,15.0
+Nova Scotia,August,2005,41.0
+Nova Scotia,September,2005,22.0
+Nova Scotia,October,2005,2.0
+Nova Scotia,November,2005,
+Ontario,January,2005,
+Ontario,February,2005,
+Ontario,March,2005,
+Ontario,April,2005,86.0
+Ontario,May,2005,159.0
+Ontario,June,2005,194.0
+Ontario,July,2005,602.0
+Ontario,August,2005,708.0
+Ontario,September,2005,212.0
+Ontario,October,2005,14.0
+Ontario,November,2005,3.0
+Ontario,December,2005,
+Prince Edward Island,January,2005,0.0
+Prince Edward Island,February,2005,0.0
+Prince Edward Island,March,2005,0.0
+Prince Edward Island,April,2005,8.0
+Prince Edward Island,May,2005,1.0
+Prince Edward Island,June,2005,1.0
+Prince Edward Island,July,2005,0.0
+Prince Edward Island,August,2005,1.0
+Prince Edward Island,September,2005,0.0
+Prince Edward Island,October,2005,0.0
+Prince Edward Island,November,2005,1.0
+Prince Edward Island,December,2005,1.0
+Quebec,February,2005,
+Quebec,March,2005,
+Quebec,April,2005,104.0
+Quebec,May,2005,259.0
+Quebec,June,2005,160.0
+Quebec,July,2005,431.0
+Quebec,August,2005,313.0
+Quebec,September,2005,104.0
+Quebec,October,2005,3.0
+Quebec,November,2005,1.0
+Quebec,December,2005,
+Saskatchewan,January,2005,
+Saskatchewan,February,2005,
+Saskatchewan,March,2005,
+Saskatchewan,April,2005,15.0
+Saskatchewan,May,2005,76.0
+Saskatchewan,June,2005,32.0
+Saskatchewan,July,2005,191.0
+Saskatchewan,August,2005,17.0
+Saskatchewan,September,2005,5.0
+Saskatchewan,October,2005,2.0
+Saskatchewan,November,2005,
+Saskatchewan,December,2005,
+Yukon,January,2005,
+Yukon,March,2005,
+Yukon,April,2005,1.0
+Yukon,May,2005,12.0
+Yukon,June,2005,45.0
+Yukon,July,2005,20.0
+Yukon,August,2005,4.0
+Yukon,September,2005,1.0
+Yukon,October,2005,
+Yukon,November,2005,
+Yukon,December,2005,
+Alberta,January,2006,22.0
+Alberta,February,2006,19.0
+Alberta,March,2006,50.0
+Alberta,April,2006,355.0
+Alberta,May,2006,399.0
+Alberta,June,2006,354.0
+Alberta,July,2006,546.0
+Alberta,August,2006,154.0
+Alberta,September,2006,141.0
+Alberta,October,2006,56.0
+Alberta,November,2006,6.0
+Alberta,December,2006,5.0
+British Columbia,January,2006,3.0
+British Columbia,February,2006,3.0
+British Columbia,March,2006,9.0
+British Columbia,April,2006,176.0
+British Columbia,May,2006,203.0
+British Columbia,June,2006,233.0
+British Columbia,July,2006,1086.0
+British Columbia,August,2006,507.0
+British Columbia,September,2006,285.0
+British Columbia,October,2006,80.0
+British Columbia,November,2006,2.0
+British Columbia,December,2006,
+Manitoba,January,2006,
+Manitoba,February,2006,
+Manitoba,March,2006,
+Manitoba,April,2006,45.0
+Manitoba,May,2006,26.0
+Manitoba,June,2006,237.0
+Manitoba,July,2006,172.0
+Manitoba,August,2006,116.0
+Manitoba,September,2006,81.0
+Manitoba,October,2006,6.0
+Manitoba,November,2006,1.0
+Manitoba,December,2006,
+New Brunswick,March,2006,19.0
+New Brunswick,April,2006,154.0
+New Brunswick,May,2006,64.0
+New Brunswick,June,2006,9.0
+New Brunswick,July,2006,33.0
+New Brunswick,August,2006,22.0
+New Brunswick,September,2006,8.0
+New Brunswick,October,2006,1.0
+New Brunswick,November,2006,
+New Brunswick,December,2006,
+Newfoundland and Labrador,January,2006,
+Newfoundland and Labrador,March,2006,
+Newfoundland and Labrador,April,2006,6.0
+Newfoundland and Labrador,May,2006,33.0
+Newfoundland and Labrador,June,2006,5.0
+Newfoundland and Labrador,July,2006,9.0
+Newfoundland and Labrador,August,2006,7.0
+Newfoundland and Labrador,September,2006,3.0
+Newfoundland and Labrador,October,2006,
+Newfoundland and Labrador,November,2006,
+Newfoundland and Labrador,December,2006,
+Northwest Territories,January,2006,
+Northwest Territories,February,2006,
+Northwest Territories,April,2006,
+Northwest Territories,May,2006,1.0
+Northwest Territories,June,2006,34.0
+Northwest Territories,July,2006,59.0
+Northwest Territories,August,2006,63.0
+Northwest Territories,September,2006,9.0
+Northwest Territories,October,2006,1.0
+Northwest Territories,November,2006,
+Northwest Territories,December,2006,
+Nova Scotia,January,2006,1.0
+Nova Scotia,March,2006,87.0
+Nova Scotia,April,2006,69.0
+Nova Scotia,May,2006,29.0
+Nova Scotia,June,2006,1.0
+Nova Scotia,July,2006,6.0
+Nova Scotia,August,2006,10.0
+Nova Scotia,September,2006,12.0
+Nova Scotia,October,2006,1.0
+Nova Scotia,November,2006,
+Ontario,January,2006,1.0
+Ontario,February,2006,
+Ontario,March,2006,3.0
+Ontario,April,2006,83.0
+Ontario,May,2006,150.0
+Ontario,June,2006,273.0
+Ontario,July,2006,597.0
+Ontario,August,2006,503.0
+Ontario,September,2006,660.0
+Ontario,October,2006,19.0
+Ontario,November,2006,2.0
+Ontario,December,2006,
+Prince Edward Island,January,2006,0.0
+Prince Edward Island,February,2006,0.0
+Prince Edward Island,March,2006,9.0
+Prince Edward Island,April,2006,10.0
+Prince Edward Island,May,2006,13.0
+Prince Edward Island,June,2006,2.0
+Prince Edward Island,July,2006,0.0
+Prince Edward Island,August,2006,1.0
+Prince Edward Island,September,2006,0.0
+Prince Edward Island,October,2006,0.0
+Prince Edward Island,November,2006,1.0
+Prince Edward Island,December,2006,0.0
+Quebec,February,2006,
+Quebec,March,2006,1.0
+Quebec,April,2006,92.0
+Quebec,May,2006,106.0
+Quebec,June,2006,256.0
+Quebec,July,2006,129.0
+Quebec,August,2006,49.0
+Quebec,September,2006,42.0
+Quebec,October,2006,8.0
+Quebec,November,2006,1.0
+Quebec,December,2006,
+Saskatchewan,January,2006,11.0
+Saskatchewan,February,2006,19.0
+Saskatchewan,March,2006,7.0
+Saskatchewan,April,2006,79.0
+Saskatchewan,May,2006,60.0
+Saskatchewan,June,2006,204.0
+Saskatchewan,July,2006,77.0
+Saskatchewan,August,2006,41.0
+Saskatchewan,September,2006,10.0
+Saskatchewan,October,2006,3.0
+Saskatchewan,November,2006,5.0
+Saskatchewan,December,2006,9.0
+Yukon,January,2006,
+Yukon,March,2006,
+Yukon,April,2006,1.0
+Yukon,May,2006,3.0
+Yukon,June,2006,32.0
+Yukon,July,2006,36.0
+Yukon,August,2006,5.0
+Yukon,September,2006,2.0
+Yukon,October,2006,1.0
+Yukon,November,2006,
+Yukon,December,2006,
+Alberta,January,2007,6.0
+Alberta,February,2007,3.0
+Alberta,March,2007,9.0
+Alberta,April,2007,129.0
+Alberta,May,2007,238.0
+Alberta,June,2007,264.0
+Alberta,July,2007,410.0
+Alberta,August,2007,163.0
+Alberta,September,2007,66.0
+Alberta,October,2007,59.0
+Alberta,November,2007,26.0
+Alberta,December,2007,5.0
+British Columbia,January,2007,2.0
+British Columbia,February,2007,2.0
+British Columbia,March,2007,17.0
+British Columbia,April,2007,76.0
+British Columbia,May,2007,159.0
+British Columbia,June,2007,109.0
+British Columbia,July,2007,624.0
+British Columbia,August,2007,518.0
+British Columbia,September,2007,111.0
+British Columbia,October,2007,18.0
+British Columbia,November,2007,4.0
+British Columbia,December,2007,1.0
+Manitoba,January,2007,
+Manitoba,February,2007,
+Manitoba,March,2007,
+Manitoba,April,2007,38.0
+Manitoba,May,2007,53.0
+Manitoba,June,2007,71.0
+Manitoba,July,2007,161.0
+Manitoba,August,2007,50.0
+Manitoba,September,2007,9.0
+Manitoba,October,2007,1.0
+Manitoba,November,2007,
+Manitoba,December,2007,
+New Brunswick,March,2007,1.0
+New Brunswick,April,2007,68.0
+New Brunswick,May,2007,130.0
+New Brunswick,June,2007,31.0
+New Brunswick,July,2007,21.0
+New Brunswick,August,2007,33.0
+New Brunswick,September,2007,15.0
+New Brunswick,October,2007,17.0
+New Brunswick,November,2007,2.0
+New Brunswick,December,2007,
+Newfoundland and Labrador,January,2007,
+Newfoundland and Labrador,March,2007,
+Newfoundland and Labrador,April,2007,2.0
+Newfoundland and Labrador,May,2007,19.0
+Newfoundland and Labrador,June,2007,17.0
+Newfoundland and Labrador,July,2007,10.0
+Newfoundland and Labrador,August,2007,1.0
+Newfoundland and Labrador,September,2007,6.0
+Newfoundland and Labrador,October,2007,
+Newfoundland and Labrador,November,2007,
+Newfoundland and Labrador,December,2007,
+Northwest Territories,January,2007,
+Northwest Territories,February,2007,
+Northwest Territories,April,2007,
+Northwest Territories,May,2007,2.0
+Northwest Territories,June,2007,79.0
+Northwest Territories,July,2007,89.0
+Northwest Territories,August,2007,14.0
+Northwest Territories,September,2007,
+Northwest Territories,October,2007,
+Northwest Territories,November,2007,
+Northwest Territories,December,2007,
+Nova Scotia,January,2007,
+Nova Scotia,March,2007,18.0
+Nova Scotia,April,2007,148.0
+Nova Scotia,May,2007,165.0
+Nova Scotia,June,2007,16.0
+Nova Scotia,July,2007,15.0
+Nova Scotia,August,2007,19.0
+Nova Scotia,September,2007,2.0
+Nova Scotia,October,2007,3.0
+Nova Scotia,November,2007,1.0
+Ontario,January,2007,
+Ontario,February,2007,2.0
+Ontario,March,2007,15.0
+Ontario,April,2007,105.0
+Ontario,May,2007,235.0
+Ontario,June,2007,92.0
+Ontario,July,2007,201.0
+Ontario,August,2007,423.0
+Ontario,September,2007,49.0
+Ontario,October,2007,5.0
+Ontario,November,2007,1.0
+Ontario,December,2007,
+Prince Edward Island,January,2007,0.0
+Prince Edward Island,February,2007,1.0
+Prince Edward Island,March,2007,0.0
+Prince Edward Island,April,2007,4.0
+Prince Edward Island,May,2007,4.0
+Prince Edward Island,June,2007,0.0
+Prince Edward Island,July,2007,0.0
+Prince Edward Island,August,2007,0.0
+Prince Edward Island,September,2007,0.0
+Prince Edward Island,October,2007,0.0
+Prince Edward Island,November,2007,0.0
+Prince Edward Island,December,2007,0.0
+Quebec,February,2007,
+Quebec,March,2007,
+Quebec,April,2007,37.0
+Quebec,May,2007,271.0
+Quebec,June,2007,319.0
+Quebec,July,2007,63.0
+Quebec,August,2007,192.0
+Quebec,September,2007,26.0
+Quebec,October,2007,28.0
+Quebec,November,2007,3.0
+Quebec,December,2007,
+Saskatchewan,January,2007,
+Saskatchewan,February,2007,
+Saskatchewan,March,2007,
+Saskatchewan,April,2007,44.0
+Saskatchewan,May,2007,78.0
+Saskatchewan,June,2007,76.0
+Saskatchewan,July,2007,124.0
+Saskatchewan,August,2007,47.0
+Saskatchewan,September,2007,3.0
+Saskatchewan,October,2007,2.0
+Saskatchewan,November,2007,
+Saskatchewan,December,2007,
+Yukon,January,2007,
+Yukon,March,2007,
+Yukon,April,2007,1.0
+Yukon,May,2007,10.0
+Yukon,June,2007,50.0
+Yukon,July,2007,25.0
+Yukon,August,2007,15.0
+Yukon,September,2007,
+Yukon,October,2007,10.0
+Yukon,November,2007,
+Yukon,December,2007,
+Alberta,January,2008,12.0
+Alberta,February,2008,4.0
+Alberta,March,2008,20.0
+Alberta,April,2008,103.0
+Alberta,May,2008,438.0
+Alberta,June,2008,342.0
+Alberta,July,2008,414.0
+Alberta,August,2008,221.0
+Alberta,September,2008,75.0
+Alberta,October,2008,87.0
+Alberta,November,2008,23.0
+Alberta,December,2008,4.0
+British Columbia,January,2008,1.0
+British Columbia,February,2008,2.0
+British Columbia,March,2008,13.0
+British Columbia,April,2008,117.0
+British Columbia,May,2008,161.0
+British Columbia,June,2008,170.0
+British Columbia,July,2008,596.0
+British Columbia,August,2008,780.0
+British Columbia,September,2008,122.0
+British Columbia,October,2008,66.0
+British Columbia,November,2008,7.0
+British Columbia,December,2008,3.0
+Manitoba,January,2008,
+Manitoba,February,2008,
+Manitoba,March,2008,
+Manitoba,April,2008,18.0
+Manitoba,May,2008,154.0
+Manitoba,June,2008,123.0
+Manitoba,July,2008,40.0
+Manitoba,August,2008,54.0
+Manitoba,September,2008,6.0
+Manitoba,October,2008,2.0
+Manitoba,November,2008,
+Manitoba,December,2008,
+New Brunswick,March,2008,
+New Brunswick,April,2008,14.0
+New Brunswick,May,2008,81.0
+New Brunswick,June,2008,13.0
+New Brunswick,July,2008,33.0
+New Brunswick,August,2008,14.0
+New Brunswick,September,2008,11.0
+New Brunswick,October,2008,2.0
+New Brunswick,November,2008,
+New Brunswick,December,2008,
+Newfoundland and Labrador,January,2008,
+Newfoundland and Labrador,March,2008,
+Newfoundland and Labrador,April,2008,2.0
+Newfoundland and Labrador,May,2008,33.0
+Newfoundland and Labrador,June,2008,8.0
+Newfoundland and Labrador,July,2008,14.0
+Newfoundland and Labrador,August,2008,2.0
+Newfoundland and Labrador,September,2008,7.0
+Newfoundland and Labrador,October,2008,6.0
+Newfoundland and Labrador,November,2008,
+Newfoundland and Labrador,December,2008,
+Northwest Territories,January,2008,
+Northwest Territories,February,2008,
+Northwest Territories,April,2008,
+Northwest Territories,May,2008,8.0
+Northwest Territories,June,2008,61.0
+Northwest Territories,July,2008,85.0
+Northwest Territories,August,2008,86.0
+Northwest Territories,September,2008,
+Northwest Territories,October,2008,
+Northwest Territories,November,2008,
+Northwest Territories,December,2008,
+Nova Scotia,January,2008,
+Nova Scotia,March,2008,2.0
+Nova Scotia,April,2008,136.0
+Nova Scotia,May,2008,45.0
+Nova Scotia,June,2008,37.0
+Nova Scotia,July,2008,19.0
+Nova Scotia,August,2008,2.0
+Nova Scotia,September,2008,3.0
+Nova Scotia,October,2008,2.0
+Nova Scotia,November,2008,1.0
+Ontario,January,2008,
+Ontario,February,2008,
+Ontario,March,2008,
+Ontario,April,2008,29.0
+Ontario,May,2008,79.0
+Ontario,June,2008,34.0
+Ontario,July,2008,35.0
+Ontario,August,2008,132.0
+Ontario,September,2008,23.0
+Ontario,October,2008,9.0
+Ontario,November,2008,1.0
+Ontario,December,2008,
+Prince Edward Island,January,2008,0.0
+Prince Edward Island,February,2008,0.0
+Prince Edward Island,March,2008,0.0
+Prince Edward Island,April,2008,0.0
+Prince Edward Island,May,2008,0.0
+Prince Edward Island,June,2008,0.0
+Prince Edward Island,July,2008,4.0
+Prince Edward Island,August,2008,0.0
+Prince Edward Island,September,2008,0.0
+Prince Edward Island,October,2008,0.0
+Prince Edward Island,November,2008,0.0
+Prince Edward Island,December,2008,0.0
+Quebec,February,2008,
+Quebec,March,2008,
+Quebec,April,2008,33.0
+Quebec,May,2008,77.0
+Quebec,June,2008,36.0
+Quebec,July,2008,18.0
+Quebec,August,2008,35.0
+Quebec,September,2008,12.0
+Quebec,October,2008,9.0
+Quebec,November,2008,2.0
+Quebec,December,2008,
+Saskatchewan,January,2008,1.0
+Saskatchewan,February,2008,
+Saskatchewan,March,2008,
+Saskatchewan,April,2008,28.0
+Saskatchewan,May,2008,161.0
+Saskatchewan,June,2008,265.0
+Saskatchewan,July,2008,98.0
+Saskatchewan,August,2008,31.0
+Saskatchewan,September,2008,7.0
+Saskatchewan,October,2008,12.0
+Saskatchewan,November,2008,
+Saskatchewan,December,2008,
+Yukon,January,2008,
+Yukon,March,2008,
+Yukon,April,2008,
+Yukon,May,2008,11.0
+Yukon,June,2008,40.0
+Yukon,July,2008,6.0
+Yukon,August,2008,10.0
+Yukon,September,2008,2.0
+Yukon,October,2008,1.0
+Yukon,November,2008,
+Yukon,December,2008,6.0
+Alberta,January,2009,8.0
+Alberta,February,2009,11.0
+Alberta,March,2009,5.0
+Alberta,April,2009,127.0
+Alberta,May,2009,493.0
+Alberta,June,2009,454.0
+Alberta,July,2009,170.0
+Alberta,August,2009,179.0
+Alberta,September,2009,174.0
+Alberta,October,2009,45.0
+Alberta,November,2009,17.0
+Alberta,December,2009,10.0
+British Columbia,January,2009,8.0
+British Columbia,February,2009,7.0
+British Columbia,March,2009,19.0
+British Columbia,April,2009,165.0
+British Columbia,May,2009,197.0
+British Columbia,June,2009,459.0
+British Columbia,July,2009,1191.0
+British Columbia,August,2009,632.0
+British Columbia,September,2009,337.0
+British Columbia,October,2009,49.0
+British Columbia,November,2009,5.0
+British Columbia,December,2009,2.0
+Manitoba,January,2009,
+Manitoba,February,2009,
+Manitoba,March,2009,
+Manitoba,April,2009,2.0
+Manitoba,May,2009,35.0
+Manitoba,June,2009,72.0
+Manitoba,July,2009,21.0
+Manitoba,August,2009,11.0
+Manitoba,September,2009,26.0
+Manitoba,October,2009,17.0
+Manitoba,November,2009,1.0
+Manitoba,December,2009,
+New Brunswick,March,2009,
+New Brunswick,April,2009,54.0
+New Brunswick,May,2009,88.0
+New Brunswick,June,2009,11.0
+New Brunswick,July,2009,3.0
+New Brunswick,August,2009,18.0
+New Brunswick,September,2009,17.0
+New Brunswick,October,2009,3.0
+New Brunswick,November,2009,3.0
+New Brunswick,December,2009,
+Newfoundland and Labrador,January,2009,
+Newfoundland and Labrador,March,2009,1.0
+Newfoundland and Labrador,April,2009,26.0
+Newfoundland and Labrador,May,2009,52.0
+Newfoundland and Labrador,June,2009,27.0
+Newfoundland and Labrador,July,2009,29.0
+Newfoundland and Labrador,August,2009,4.0
+Newfoundland and Labrador,September,2009,8.0
+Newfoundland and Labrador,October,2009,
+Newfoundland and Labrador,November,2009,
+Newfoundland and Labrador,December,2009,
+Northwest Territories,January,2009,1.0
+Northwest Territories,February,2009,1.0
+Northwest Territories,April,2009,1.0
+Northwest Territories,May,2009,4.0
+Northwest Territories,June,2009,15.0
+Northwest Territories,July,2009,10.0
+Northwest Territories,August,2009,13.0
+Northwest Territories,September,2009,1.0
+Northwest Territories,October,2009,
+Northwest Territories,November,2009,
+Northwest Territories,December,2009,
+Nova Scotia,January,2009,
+Nova Scotia,March,2009,4.0
+Nova Scotia,April,2009,104.0
+Nova Scotia,May,2009,46.0
+Nova Scotia,June,2009,8.0
+Nova Scotia,July,2009,7.0
+Nova Scotia,August,2009,14.0
+Nova Scotia,September,2009,7.0
+Nova Scotia,October,2009,
+Nova Scotia,November,2009,
+Ontario,January,2009,1.0
+Ontario,February,2009,
+Ontario,March,2009,
+Ontario,April,2009,24.0
+Ontario,May,2009,110.0
+Ontario,June,2009,140.0
+Ontario,July,2009,42.0
+Ontario,August,2009,20.0
+Ontario,September,2009,46.0
+Ontario,October,2009,6.0
+Ontario,November,2009,
+Ontario,December,2009,
+Prince Edward Island,January,2009,0.0
+Prince Edward Island,February,2009,0.0
+Prince Edward Island,March,2009,0.0
+Prince Edward Island,April,2009,3.0
+Prince Edward Island,May,2009,5.0
+Prince Edward Island,June,2009,0.0
+Prince Edward Island,July,2009,0.0
+Prince Edward Island,August,2009,0.0
+Prince Edward Island,September,2009,0.0
+Prince Edward Island,October,2009,0.0
+Prince Edward Island,November,2009,0.0
+Prince Edward Island,December,2009,0.0
+Quebec,February,2009,
+Quebec,March,2009,1.0
+Quebec,April,2009,105.0
+Quebec,May,2009,94.0
+Quebec,June,2009,195.0
+Quebec,July,2009,21.0
+Quebec,August,2009,26.0
+Quebec,September,2009,32.0
+Quebec,October,2009,2.0
+Quebec,November,2009,7.0
+Quebec,December,2009,
+Saskatchewan,January,2009,1.0
+Saskatchewan,February,2009,
+Saskatchewan,March,2009,
+Saskatchewan,April,2009,59.0
+Saskatchewan,May,2009,193.0
+Saskatchewan,June,2009,201.0
+Saskatchewan,July,2009,14.0
+Saskatchewan,August,2009,17.0
+Saskatchewan,September,2009,29.0
+Saskatchewan,October,2009,
+Saskatchewan,November,2009,1.0
+Saskatchewan,December,2009,
+Yukon,January,2009,
+Yukon,March,2009,
+Yukon,April,2009,
+Yukon,May,2009,9.0
+Yukon,June,2009,30.0
+Yukon,July,2009,60.0
+Yukon,August,2009,16.0
+Yukon,September,2009,
+Yukon,October,2009,
+Yukon,November,2009,
+Yukon,December,2009,3.0
+Alberta,January,2010,7.0
+Alberta,February,2010,6.0
+Alberta,March,2010,48.0
+Alberta,April,2010,338.0
+Alberta,May,2010,381.0
+Alberta,June,2010,349.0
+Alberta,July,2010,506.0
+Alberta,August,2010,174.0
+Alberta,September,2010,49.0
+Alberta,October,2010,62.0
+Alberta,November,2010,26.0
+Alberta,December,2010,3.0
+British Columbia,January,2010,2.0
+British Columbia,February,2010,2.0
+British Columbia,March,2010,30.0
+British Columbia,April,2010,135.0
+British Columbia,May,2010,91.0
+British Columbia,June,2010,132.0
+British Columbia,July,2010,826.0
+British Columbia,August,2010,392.0
+British Columbia,September,2010,52.0
+British Columbia,October,2010,54.0
+British Columbia,November,2010,11.0
+British Columbia,December,2010,4.0
+Manitoba,January,2010,
+Manitoba,February,2010,
+Manitoba,March,2010,
+Manitoba,April,2010,91.0
+Manitoba,May,2010,62.0
+Manitoba,June,2010,79.0
+Manitoba,July,2010,211.0
+Manitoba,August,2010,115.0
+Manitoba,September,2010,27.0
+Manitoba,October,2010,3.0
+Manitoba,November,2010,1.0
+Manitoba,December,2010,
+New Brunswick,March,2010,3.0
+New Brunswick,April,2010,47.0
+New Brunswick,May,2010,52.0
+New Brunswick,June,2010,7.0
+New Brunswick,July,2010,14.0
+New Brunswick,August,2010,42.0
+New Brunswick,September,2010,11.0
+New Brunswick,October,2010,2.0
+New Brunswick,November,2010,1.0
+New Brunswick,December,2010,
+Newfoundland and Labrador,January,2010,
+Newfoundland and Labrador,March,2010,2.0
+Newfoundland and Labrador,April,2010,7.0
+Newfoundland and Labrador,May,2010,5.0
+Newfoundland and Labrador,June,2010,4.0
+Newfoundland and Labrador,July,2010,4.0
+Newfoundland and Labrador,August,2010,11.0
+Newfoundland and Labrador,September,2010,6.0
+Newfoundland and Labrador,October,2010,3.0
+Newfoundland and Labrador,November,2010,1.0
+Newfoundland and Labrador,December,2010,
+Northwest Territories,January,2010,
+Northwest Territories,February,2010,
+Northwest Territories,April,2010,
+Northwest Territories,May,2010,5.0
+Northwest Territories,June,2010,81.0
+Northwest Territories,July,2010,121.0
+Northwest Territories,August,2010,13.0
+Northwest Territories,September,2010,4.0
+Northwest Territories,October,2010,
+Northwest Territories,November,2010,
+Northwest Territories,December,2010,
+Nova Scotia,January,2010,
+Nova Scotia,March,2010,59.0
+Nova Scotia,April,2010,114.0
+Nova Scotia,May,2010,63.0
+Nova Scotia,June,2010,9.0
+Nova Scotia,July,2010,
+Nova Scotia,August,2010,
+Nova Scotia,September,2010,
+Nova Scotia,October,2010,
+Nova Scotia,November,2010,5.0
+Ontario,January,2010,
+Ontario,February,2010,
+Ontario,March,2010,34.0
+Ontario,April,2010,199.0
+Ontario,May,2010,334.0
+Ontario,June,2010,83.0
+Ontario,July,2010,166.0
+Ontario,August,2010,80.0
+Ontario,September,2010,12.0
+Ontario,October,2010,23.0
+Ontario,November,2010,2.0
+Ontario,December,2010,
+Prince Edward Island,January,2010,0.0
+Prince Edward Island,February,2010,0.0
+Prince Edward Island,March,2010,0.0
+Prince Edward Island,April,2010,1.0
+Prince Edward Island,May,2010,3.0
+Prince Edward Island,June,2010,0.0
+Prince Edward Island,July,2010,0.0
+Prince Edward Island,August,2010,0.0
+Prince Edward Island,September,2010,0.0
+Prince Edward Island,October,2010,0.0
+Prince Edward Island,November,2010,0.0
+Prince Edward Island,December,2010,0.0
+Quebec,February,2010,
+Quebec,March,2010,11.0
+Quebec,April,2010,108.0
+Quebec,May,2010,251.0
+Quebec,June,2010,154.0
+Quebec,July,2010,89.0
+Quebec,August,2010,95.0
+Quebec,September,2010,21.0
+Quebec,October,2010,7.0
+Quebec,November,2010,4.0
+Quebec,December,2010,
+Saskatchewan,January,2010,1.0
+Saskatchewan,February,2010,
+Saskatchewan,March,2010,1.0
+Saskatchewan,April,2010,56.0
+Saskatchewan,May,2010,103.0
+Saskatchewan,June,2010,166.0
+Saskatchewan,July,2010,190.0
+Saskatchewan,August,2010,64.0
+Saskatchewan,September,2010,
+Saskatchewan,October,2010,1.0
+Saskatchewan,November,2010,
+Saskatchewan,December,2010,
+Yukon,January,2010,1.0
+Yukon,March,2010,
+Yukon,April,2010,
+Yukon,May,2010,20.0
+Yukon,June,2010,38.0
+Yukon,July,2010,18.0
+Yukon,August,2010,10.0
+Yukon,September,2010,
+Yukon,October,2010,2.0
+Yukon,November,2010,
+Yukon,December,2010,
+Alberta,January,2011,2.0
+Alberta,February,2011,
+Alberta,March,2011,1.0
+Alberta,April,2011,140.0
+Alberta,May,2011,405.0
+Alberta,June,2011,115.0
+Alberta,July,2011,174.0
+Alberta,August,2011,160.0
+Alberta,September,2011,135.0
+Alberta,October,2011,44.0
+Alberta,November,2011,29.0
+Alberta,December,2011,3.0
+British Columbia,January,2011,2.0
+British Columbia,February,2011,2.0
+British Columbia,March,2011,9.0
+British Columbia,April,2011,48.0
+British Columbia,May,2011,67.0
+British Columbia,June,2011,68.0
+British Columbia,July,2011,115.0
+British Columbia,August,2011,223.0
+British Columbia,September,2011,107.0
+British Columbia,October,2011,37.0
+British Columbia,November,2011,6.0
+British Columbia,December,2011,
+Manitoba,January,2011,
+Manitoba,February,2011,
+Manitoba,March,2011,
+Manitoba,April,2011,6.0
+Manitoba,May,2011,39.0
+Manitoba,June,2011,38.0
+Manitoba,July,2011,106.0
+Manitoba,August,2011,82.0
+Manitoba,September,2011,19.0
+Manitoba,October,2011,27.0
+Manitoba,November,2011,6.0
+Manitoba,December,2011,
+New Brunswick,March,2011,
+New Brunswick,April,2011,23.0
+New Brunswick,May,2011,25.0
+New Brunswick,June,2011,7.0
+New Brunswick,July,2011,11.0
+New Brunswick,August,2011,1.0
+New Brunswick,September,2011,
+New Brunswick,October,2011,
+New Brunswick,November,2011,
+New Brunswick,December,2011,
+Newfoundland and Labrador,January,2011,
+Newfoundland and Labrador,March,2011,
+Newfoundland and Labrador,April,2011,2.0
+Newfoundland and Labrador,May,2011,14.0
+Newfoundland and Labrador,June,2011,5.0
+Newfoundland and Labrador,July,2011,5.0
+Newfoundland and Labrador,August,2011,9.0
+Newfoundland and Labrador,September,2011,5.0
+Newfoundland and Labrador,October,2011,
+Newfoundland and Labrador,November,2011,
+Newfoundland and Labrador,December,2011,
+Northwest Territories,January,2011,
+Northwest Territories,February,2011,
+Northwest Territories,April,2011,
+Northwest Territories,May,2011,14.0
+Northwest Territories,June,2011,78.0
+Northwest Territories,July,2011,85.0
+Northwest Territories,August,2011,22.0
+Northwest Territories,September,2011,2.0
+Northwest Territories,October,2011,
+Northwest Territories,November,2011,
+Northwest Territories,December,2011,
+Nova Scotia,January,2011,
+Nova Scotia,March,2011,20.0
+Nova Scotia,April,2011,62.0
+Nova Scotia,May,2011,9.0
+Nova Scotia,June,2011,6.0
+Nova Scotia,July,2011,8.0
+Nova Scotia,August,2011,7.0
+Nova Scotia,September,2011,2.0
+Nova Scotia,October,2011,
+Nova Scotia,November,2011,
+Ontario,January,2011,
+Ontario,February,2011,
+Ontario,March,2011,
+Ontario,April,2011,30.0
+Ontario,May,2011,145.0
+Ontario,June,2011,129.0
+Ontario,July,2011,398.0
+Ontario,August,2011,401.0
+Ontario,September,2011,171.0
+Ontario,October,2011,58.0
+Ontario,November,2011,4.0
+Ontario,December,2011,3.0
+Prince Edward Island,January,2011,0.0
+Prince Edward Island,February,2011,0.0
+Prince Edward Island,March,2011,0.0
+Prince Edward Island,April,2011,2.0
+Prince Edward Island,May,2011,1.0
+Prince Edward Island,June,2011,0.0
+Prince Edward Island,July,2011,0.0
+Prince Edward Island,August,2011,0.0
+Prince Edward Island,September,2011,1.0
+Prince Edward Island,October,2011,0.0
+Prince Edward Island,November,2011,0.0
+Prince Edward Island,December,2011,0.0
+Quebec,February,2011,
+Quebec,March,2011,
+Quebec,April,2011,4.0
+Quebec,May,2011,63.0
+Quebec,June,2011,75.0
+Quebec,July,2011,71.0
+Quebec,August,2011,58.0
+Quebec,September,2011,29.0
+Quebec,October,2011,26.0
+Quebec,November,2011,5.0
+Quebec,December,2011,
+Saskatchewan,January,2011,
+Saskatchewan,February,2011,
+Saskatchewan,March,2011,
+Saskatchewan,April,2011,20.0
+Saskatchewan,May,2011,144.0
+Saskatchewan,June,2011,68.0
+Saskatchewan,July,2011,19.0
+Saskatchewan,August,2011,15.0
+Saskatchewan,September,2011,28.0
+Saskatchewan,October,2011,13.0
+Saskatchewan,November,2011,1.0
+Saskatchewan,December,2011,
+Yukon,January,2011,
+Yukon,March,2011,
+Yukon,April,2011,1.0
+Yukon,May,2011,24.0
+Yukon,June,2011,13.0
+Yukon,July,2011,14.0
+Yukon,August,2011,1.0
+Yukon,September,2011,3.0
+Yukon,October,2011,
+Yukon,November,2011,
+Yukon,December,2011,
+Alberta,January,2012,14.0
+Alberta,February,2012,3.0
+Alberta,March,2012,32.0
+Alberta,April,2012,123.0
+Alberta,May,2012,456.0
+Alberta,June,2012,124.0
+Alberta,July,2012,410.0
+Alberta,August,2012,272.0
+Alberta,September,2012,170.0
+Alberta,October,2012,40.0
+Alberta,November,2012,2.0
+Alberta,December,2012,
+British Columbia,January,2012,2.0
+British Columbia,February,2012,2.0
+British Columbia,March,2012,6.0
+British Columbia,April,2012,74.0
+British Columbia,May,2012,168.0
+British Columbia,June,2012,57.0
+British Columbia,July,2012,417.0
+British Columbia,August,2012,642.0
+British Columbia,September,2012,205.0
+British Columbia,October,2012,83.0
+British Columbia,November,2012,2.0
+British Columbia,December,2012,1.0
+Manitoba,January,2012,
+Manitoba,February,2012,
+Manitoba,March,2012,11.0
+Manitoba,April,2012,51.0
+Manitoba,May,2012,42.0
+Manitoba,June,2012,61.0
+Manitoba,July,2012,263.0
+Manitoba,August,2012,43.0
+Manitoba,September,2012,22.0
+Manitoba,October,2012,6.0
+Manitoba,November,2012,
+Manitoba,December,2012,
+New Brunswick,March,2012,8.0
+New Brunswick,April,2012,189.0
+New Brunswick,May,2012,49.0
+New Brunswick,June,2012,22.0
+New Brunswick,July,2012,26.0
+New Brunswick,August,2012,28.0
+New Brunswick,September,2012,12.0
+New Brunswick,October,2012,3.0
+New Brunswick,November,2012,1.0
+New Brunswick,December,2012,
+Newfoundland and Labrador,January,2012,
+Newfoundland and Labrador,March,2012,1.0
+Newfoundland and Labrador,April,2012,20.0
+Newfoundland and Labrador,May,2012,14.0
+Newfoundland and Labrador,June,2012,31.0
+Newfoundland and Labrador,July,2012,36.0
+Newfoundland and Labrador,August,2012,9.0
+Newfoundland and Labrador,September,2012,4.0
+Newfoundland and Labrador,October,2012,
+Newfoundland and Labrador,November,2012,
+Newfoundland and Labrador,December,2012,
+Northwest Territories,January,2012,
+Northwest Territories,February,2012,
+Northwest Territories,April,2012,
+Northwest Territories,May,2012,12.0
+Northwest Territories,June,2012,76.0
+Northwest Territories,July,2012,148.0
+Northwest Territories,August,2012,43.0
+Northwest Territories,September,2012,10.0
+Northwest Territories,October,2012,
+Northwest Territories,November,2012,
+Northwest Territories,December,2012,
+Nova Scotia,January,2012,
+Nova Scotia,March,2012,72.0
+Nova Scotia,April,2012,157.0
+Nova Scotia,May,2012,35.0
+Nova Scotia,June,2012,22.0
+Nova Scotia,July,2012,32.0
+Nova Scotia,August,2012,26.0
+Nova Scotia,September,2012,9.0
+Nova Scotia,October,2012,
+Nova Scotia,November,2012,
+Ontario,January,2012,1.0
+Ontario,February,2012,
+Ontario,March,2012,16.0
+Ontario,April,2012,136.0
+Ontario,May,2012,276.0
+Ontario,June,2012,125.0
+Ontario,July,2012,710.0
+Ontario,August,2012,181.0
+Ontario,September,2012,175.0
+Ontario,October,2012,13.0
+Ontario,November,2012,2.0
+Ontario,December,2012,
+Prince Edward Island,January,2012,0.0
+Prince Edward Island,February,2012,0.0
+Prince Edward Island,March,2012,0.0
+Prince Edward Island,April,2012,2.0
+Prince Edward Island,May,2012,3.0
+Prince Edward Island,June,2012,1.0
+Prince Edward Island,July,2012,1.0
+Prince Edward Island,August,2012,1.0
+Prince Edward Island,September,2012,0.0
+Prince Edward Island,October,2012,0.0
+Prince Edward Island,November,2012,0.0
+Prince Edward Island,December,2012,0.0
+Quebec,February,2012,
+Quebec,March,2012,14.0
+Quebec,April,2012,113.0
+Quebec,May,2012,181.0
+Quebec,June,2012,94.0
+Quebec,July,2012,268.0
+Quebec,August,2012,86.0
+Quebec,September,2012,32.0
+Quebec,October,2012,7.0
+Quebec,November,2012,3.0
+Quebec,December,2012,
+Saskatchewan,January,2012,
+Saskatchewan,February,2012,
+Saskatchewan,March,2012,1.0
+Saskatchewan,April,2012,40.0
+Saskatchewan,May,2012,89.0
+Saskatchewan,June,2012,38.0
+Saskatchewan,July,2012,169.0
+Saskatchewan,August,2012,72.0
+Saskatchewan,September,2012,15.0
+Saskatchewan,October,2012,2.0
+Saskatchewan,November,2012,2.0
+Saskatchewan,December,2012,
+Yukon,January,2012,
+Yukon,March,2012,
+Yukon,April,2012,
+Yukon,May,2012,4.0
+Yukon,June,2012,74.0
+Yukon,July,2012,29.0
+Yukon,August,2012,19.0
+Yukon,September,2012,1.0
+Yukon,October,2012,
+Yukon,November,2012,
+Yukon,December,2012,
+Alberta,January,2013,1.0
+Alberta,February,2013,3.0
+Alberta,March,2013,9.0
+Alberta,April,2013,37.0
+Alberta,May,2013,529.0
+Alberta,June,2013,132.0
+Alberta,July,2013,211.0
+Alberta,August,2013,180.0
+Alberta,September,2013,135.0
+Alberta,October,2013,26.0
+Alberta,November,2013,15.0
+Alberta,December,2013,1.0
+British Columbia,January,2013,1.0
+British Columbia,February,2013,
+British Columbia,March,2013,21.0
+British Columbia,April,2013,85.0
+British Columbia,May,2013,128.0
+British Columbia,June,2013,101.0
+British Columbia,July,2013,367.0
+British Columbia,August,2013,999.0
+British Columbia,September,2013,131.0
+British Columbia,October,2013,43.0
+British Columbia,November,2013,1.0
+British Columbia,December,2013,2.0
+Manitoba,January,2013,
+Manitoba,February,2013,
+Manitoba,March,2013,
+Manitoba,April,2013,3.0
+Manitoba,May,2013,71.0
+Manitoba,June,2013,106.0
+Manitoba,July,2013,169.0
+Manitoba,August,2013,103.0
+Manitoba,September,2013,43.0
+Manitoba,October,2013,
+Manitoba,November,2013,1.0
+Manitoba,December,2013,
+New Brunswick,March,2013,3.0
+New Brunswick,April,2013,176.0
+New Brunswick,May,2013,123.0
+New Brunswick,June,2013,7.0
+New Brunswick,July,2013,34.0
+New Brunswick,August,2013,7.0
+New Brunswick,September,2013,
+New Brunswick,October,2013,3.0
+New Brunswick,November,2013,
+New Brunswick,December,2013,
+Newfoundland and Labrador,January,2013,
+Newfoundland and Labrador,March,2013,
+Newfoundland and Labrador,April,2013,7.0
+Newfoundland and Labrador,May,2013,21.0
+Newfoundland and Labrador,June,2013,10.0
+Newfoundland and Labrador,July,2013,22.0
+Newfoundland and Labrador,August,2013,7.0
+Newfoundland and Labrador,September,2013,
+Newfoundland and Labrador,October,2013,2.0
+Newfoundland and Labrador,November,2013,
+Newfoundland and Labrador,December,2013,
+Northwest Territories,January,2013,
+Northwest Territories,February,2013,
+Northwest Territories,April,2013,
+Northwest Territories,May,2013,4.0
+Northwest Territories,June,2013,152.0
+Northwest Territories,July,2013,77.0
+Northwest Territories,August,2013,19.0
+Northwest Territories,September,2013,5.0
+Northwest Territories,October,2013,
+Northwest Territories,November,2013,
+Northwest Territories,December,2013,
+Nova Scotia,January,2013,
+Nova Scotia,March,2013,3.0
+Nova Scotia,April,2013,59.0
+Nova Scotia,May,2013,85.0
+Nova Scotia,June,2013,2.0
+Nova Scotia,July,2013,6.0
+Nova Scotia,August,2013,17.0
+Nova Scotia,September,2013,2.0
+Nova Scotia,October,2013,
+Nova Scotia,November,2013,
+Ontario,January,2013,
+Ontario,February,2013,
+Ontario,March,2013,
+Ontario,April,2013,19.0
+Ontario,May,2013,140.0
+Ontario,June,2013,122.0
+Ontario,July,2013,168.0
+Ontario,August,2013,105.0
+Ontario,September,2013,20.0
+Ontario,October,2013,8.0
+Ontario,November,2013,
+Ontario,December,2013,
+Prince Edward Island,January,2013,0.0
+Prince Edward Island,February,2013,0.0
+Prince Edward Island,March,2013,0.0
+Prince Edward Island,April,2013,4.0
+Prince Edward Island,May,2013,1.0
+Prince Edward Island,June,2013,1.0
+Prince Edward Island,July,2013,1.0
+Prince Edward Island,August,2013,1.0
+Prince Edward Island,September,2013,0.0
+Prince Edward Island,October,2013,0.0
+Prince Edward Island,November,2013,0.0
+Prince Edward Island,December,2013,0.0
+Quebec,February,2013,
+Quebec,March,2013,
+Quebec,April,2013,64.0
+Quebec,May,2013,164.0
+Quebec,June,2013,89.0
+Quebec,July,2013,138.0
+Quebec,August,2013,40.0
+Quebec,September,2013,15.0
+Quebec,October,2013,15.0
+Quebec,November,2013,3.0
+Quebec,December,2013,
+Saskatchewan,January,2013,
+Saskatchewan,February,2013,
+Saskatchewan,March,2013,
+Saskatchewan,April,2013,4.0
+Saskatchewan,May,2013,177.0
+Saskatchewan,June,2013,51.0
+Saskatchewan,July,2013,48.0
+Saskatchewan,August,2013,115.0
+Saskatchewan,September,2013,48.0
+Saskatchewan,October,2013,6.0
+Saskatchewan,November,2013,
+Saskatchewan,December,2013,
+Yukon,January,2013,
+Yukon,March,2013,
+Yukon,April,2013,
+Yukon,May,2013,7.0
+Yukon,June,2013,100.0
+Yukon,July,2013,29.0
+Yukon,August,2013,39.0
+Yukon,September,2013,2.0
+Yukon,October,2013,
+Yukon,November,2013,
+Yukon,December,2013,
+Alberta,January,2014,9.0
+Alberta,February,2014,
+Alberta,March,2014,11.0
+Alberta,April,2014,81.0
+Alberta,May,2014,360.0
+Alberta,June,2014,282.0
+Alberta,July,2014,330.0
+Alberta,August,2014,263.0
+Alberta,September,2014,114.0
+Alberta,October,2014,39.0
+Alberta,November,2014,15.0
+Alberta,December,2014,2.0
+British Columbia,January,2014,1.0
+British Columbia,February,2014,4.0
+British Columbia,March,2014,10.0
+British Columbia,April,2014,107.0
+British Columbia,May,2014,105.0
+British Columbia,June,2014,132.0
+British Columbia,July,2014,485.0
+British Columbia,August,2014,502.0
+British Columbia,September,2014,90.0
+British Columbia,October,2014,40.0
+British Columbia,November,2014,
+British Columbia,December,2014,2.0
+Manitoba,January,2014,
+Manitoba,February,2014,
+Manitoba,March,2014,
+Manitoba,April,2014,5.0
+Manitoba,May,2014,41.0
+Manitoba,June,2014,49.0
+Manitoba,July,2014,45.0
+Manitoba,August,2014,94.0
+Manitoba,September,2014,11.0
+Manitoba,October,2014,1.0
+Manitoba,November,2014,
+Manitoba,December,2014,
+New Brunswick,March,2014,
+New Brunswick,April,2014,39.0
+New Brunswick,May,2014,79.0
+New Brunswick,June,2014,20.0
+New Brunswick,July,2014,16.0
+New Brunswick,August,2014,12.0
+New Brunswick,September,2014,9.0
+New Brunswick,October,2014,5.0
+New Brunswick,November,2014,
+New Brunswick,December,2014,
+Newfoundland and Labrador,January,2014,
+Newfoundland and Labrador,March,2014,
+Newfoundland and Labrador,April,2014,
+Newfoundland and Labrador,May,2014,
+Newfoundland and Labrador,June,2014,
+Newfoundland and Labrador,July,2014,
+Newfoundland and Labrador,August,2014,
+Newfoundland and Labrador,September,2014,1.0
+Newfoundland and Labrador,October,2014,
+Newfoundland and Labrador,November,2014,
+Newfoundland and Labrador,December,2014,
+Northwest Territories,January,2014,
+Northwest Territories,February,2014,
+Northwest Territories,April,2014,1.0
+Northwest Territories,May,2014,4.0
+Northwest Territories,June,2014,118.0
+Northwest Territories,July,2014,188.0
+Northwest Territories,August,2014,77.0
+Northwest Territories,September,2014,
+Northwest Territories,October,2014,
+Northwest Territories,November,2014,
+Northwest Territories,December,2014,
+Nova Scotia,January,2014,
+Nova Scotia,March,2014,1.0
+Nova Scotia,April,2014,41.0
+Nova Scotia,May,2014,71.0
+Nova Scotia,June,2014,23.0
+Nova Scotia,July,2014,13.0
+Nova Scotia,August,2014,10.0
+Nova Scotia,September,2014,8.0
+Nova Scotia,October,2014,5.0
+Nova Scotia,November,2014,
+Ontario,January,2014,
+Ontario,February,2014,
+Ontario,March,2014,1.0
+Ontario,April,2014,5.0
+Ontario,May,2014,54.0
+Ontario,June,2014,73.0
+Ontario,July,2014,86.0
+Ontario,August,2014,77.0
+Ontario,September,2014,7.0
+Ontario,October,2014,6.0
+Ontario,November,2014,
+Ontario,December,2014,
+Prince Edward Island,January,2014,
+Prince Edward Island,February,2014,
+Prince Edward Island,March,2014,
+Prince Edward Island,April,2014,
+Prince Edward Island,May,2014,1.0
+Prince Edward Island,June,2014,2.0
+Prince Edward Island,July,2014,
+Prince Edward Island,August,2014,
+Prince Edward Island,September,2014,1.0
+Prince Edward Island,October,2014,
+Prince Edward Island,November,2014,
+Prince Edward Island,December,2014,
+Quebec,February,2014,
+Quebec,March,2014,
+Quebec,April,2014,14.0
+Quebec,May,2014,57.0
+Quebec,June,2014,72.0
+Quebec,July,2014,66.0
+Quebec,August,2014,67.0
+Quebec,September,2014,11.0
+Quebec,October,2014,5.0
+Quebec,November,2014,4.0
+Quebec,December,2014,
+Saskatchewan,January,2014,
+Saskatchewan,February,2014,
+Saskatchewan,March,2014,
+Saskatchewan,April,2014,5.0
+Saskatchewan,May,2014,142.0
+Saskatchewan,June,2014,37.0
+Saskatchewan,July,2014,111.0
+Saskatchewan,August,2014,97.0
+Saskatchewan,September,2014,10.0
+Saskatchewan,October,2014,3.0
+Saskatchewan,November,2014,
+Saskatchewan,December,2014,
+Yukon,January,2014,
+Yukon,March,2014,
+Yukon,April,2014,1.0
+Yukon,May,2014,4.0
+Yukon,June,2014,14.0
+Yukon,July,2014,10.0
+Yukon,August,2014,5.0
+Yukon,September,2014,
+Yukon,October,2014,
+Yukon,November,2014,
+Yukon,December,2014,
+Alberta,January,2015,2.0
+Alberta,February,2015,4.0
+Alberta,March,2015,32.0
+Alberta,April,2015,277.0
+Alberta,May,2015,505.0
+Alberta,June,2015,504.0
+Alberta,July,2015,318.0
+Alberta,August,2015,162.0
+Alberta,September,2015,55.0
+Alberta,October,2015,62.0
+Alberta,November,2015,23.0
+Alberta,December,2015,8.0
+British Columbia,January,2015,
+British Columbia,February,2015,2.0
+British Columbia,March,2015,31.0
+British Columbia,April,2015,82.0
+British Columbia,May,2015,309.0
+British Columbia,June,2015,443.0
+British Columbia,July,2015,538.0
+British Columbia,August,2015,404.0
+British Columbia,September,2015,31.0
+British Columbia,October,2015,27.0
+British Columbia,November,2015,3.0
+British Columbia,December,2015,1.0
+Manitoba,January,2015,
+Manitoba,February,2015,
+Manitoba,March,2015,2.0
+Manitoba,April,2015,50.0
+Manitoba,May,2015,75.0
+Manitoba,June,2015,151.0
+Manitoba,July,2015,169.0
+Manitoba,August,2015,13.0
+Manitoba,September,2015,1.0
+Manitoba,October,2015,2.0
+Manitoba,November,2015,
+Manitoba,December,2015,
+New Brunswick,March,2015,
+New Brunswick,April,2015,3.0
+New Brunswick,May,2015,165.0
+New Brunswick,June,2015,3.0
+New Brunswick,July,2015,22.0
+New Brunswick,August,2015,11.0
+New Brunswick,September,2015,15.0
+New Brunswick,October,2015,3.0
+New Brunswick,November,2015,
+New Brunswick,December,2015,
+Newfoundland and Labrador,January,2015,
+Newfoundland and Labrador,March,2015,
+Newfoundland and Labrador,April,2015,
+Newfoundland and Labrador,May,2015,2.0
+Newfoundland and Labrador,June,2015,21.0
+Newfoundland and Labrador,July,2015,
+Newfoundland and Labrador,August,2015,4.0
+Newfoundland and Labrador,September,2015,
+Newfoundland and Labrador,October,2015,
+Newfoundland and Labrador,November,2015,
+Newfoundland and Labrador,December,2015,
+Northwest Territories,January,2015,
+Northwest Territories,February,2015,
+Northwest Territories,April,2015,
+Northwest Territories,May,2015,60.0
+Northwest Territories,June,2015,125.0
+Northwest Territories,July,2015,41.0
+Northwest Territories,August,2015,27.0
+Northwest Territories,September,2015,
+Northwest Territories,October,2015,
+Northwest Territories,November,2015,4.0
+Northwest Territories,December,2015,
+Nova Scotia,January,2015,
+Nova Scotia,March,2015,
+Nova Scotia,April,2015,1.0
+Nova Scotia,May,2015,204.0
+Nova Scotia,June,2015,6.0
+Nova Scotia,July,2015,12.0
+Nova Scotia,August,2015,8.0
+Nova Scotia,September,2015,18.0
+Nova Scotia,October,2015,
+Nova Scotia,November,2015,
+Ontario,January,2015,
+Ontario,February,2015,
+Ontario,March,2015,2.0
+Ontario,April,2015,64.0
+Ontario,May,2015,126.0
+Ontario,June,2015,132.0
+Ontario,July,2015,165.0
+Ontario,August,2015,116.0
+Ontario,September,2015,55.0
+Ontario,October,2015,14.0
+Ontario,November,2015,
+Ontario,December,2015,1.0
+Prince Edward Island,January,2015,
+Prince Edward Island,February,2015,
+Prince Edward Island,March,2015,
+Prince Edward Island,April,2015,
+Prince Edward Island,May,2015,
+Prince Edward Island,June,2015,
+Prince Edward Island,July,2015,
+Prince Edward Island,August,2015,
+Prince Edward Island,September,2015,
+Prince Edward Island,October,2015,
+Prince Edward Island,November,2015,
+Prince Edward Island,December,2015,
+Quebec,February,2015,
+Quebec,March,2015,
+Quebec,April,2015,29.0
+Quebec,May,2015,213.0
+Quebec,June,2015,46.0
+Quebec,July,2015,40.0
+Quebec,August,2015,30.0
+Quebec,September,2015,21.0
+Quebec,October,2015,9.0
+Quebec,November,2015,3.0
+Quebec,December,2015,1.0
+Saskatchewan,January,2015,
+Saskatchewan,February,2015,
+Saskatchewan,March,2015,1.0
+Saskatchewan,April,2015,74.0
+Saskatchewan,May,2015,195.0
+Saskatchewan,June,2015,258.0
+Saskatchewan,July,2015,148.0
+Saskatchewan,August,2015,38.0
+Saskatchewan,September,2015,8.0
+Saskatchewan,October,2015,12.0
+Saskatchewan,November,2015,1.0
+Saskatchewan,December,2015,
+Yukon,January,2015,
+Yukon,March,2015,
+Yukon,April,2015,
+Yukon,May,2015,95.0
+Yukon,June,2015,83.0
+Yukon,July,2015,5.0
+Yukon,August,2015,2.0
+Yukon,September,2015,1.0
+Yukon,October,2015,
+Yukon,November,2015,
+Yukon,December,2015,
+Alberta,January,2016,7.0
+Alberta,February,2016,12.0
+Alberta,March,2016,62.0
+Alberta,April,2016,287.0
+Alberta,May,2016,250.0
+Alberta,June,2016,402.0
+Alberta,July,2016,221.0
+Alberta,August,2016,128.0
+Alberta,September,2016,85.0
+Alberta,October,2016,14.0
+Alberta,November,2016,13.0
+Alberta,December,2016,4.0
+British Columbia,January,2016,3.0
+British Columbia,February,2016,7.0
+British Columbia,March,2016,27.0
+British Columbia,April,2016,158.0
+British Columbia,May,2016,127.0
+British Columbia,June,2016,164.0
+British Columbia,July,2016,206.0
+British Columbia,August,2016,325.0
+British Columbia,September,2016,43.0
+British Columbia,October,2016,12.0
+British Columbia,November,2016,3.0
+British Columbia,December,2016,
+Manitoba,January,2016,
+Manitoba,February,2016,
+Manitoba,March,2016,
+Manitoba,April,2016,22.0
+Manitoba,May,2016,59.0
+Manitoba,June,2016,64.0
+Manitoba,July,2016,42.0
+Manitoba,August,2016,15.0
+Manitoba,September,2016,5.0
+Manitoba,October,2016,
+Manitoba,November,2016,
+Manitoba,December,2016,
+New Brunswick,March,2016,
+New Brunswick,April,2016,151.0
+New Brunswick,May,2016,55.0
+New Brunswick,June,2016,25.0
+New Brunswick,July,2016,10.0
+New Brunswick,August,2016,25.0
+New Brunswick,September,2016,12.0
+New Brunswick,October,2016,7.0
+New Brunswick,November,2016,
+New Brunswick,December,2016,
+Newfoundland and Labrador,January,2016,
+Newfoundland and Labrador,March,2016,
+Newfoundland and Labrador,April,2016,
+Newfoundland and Labrador,May,2016,1.0
+Newfoundland and Labrador,June,2016,
+Newfoundland and Labrador,July,2016,14.0
+Newfoundland and Labrador,August,2016,3.0
+Newfoundland and Labrador,September,2016,
+Newfoundland and Labrador,October,2016,
+Newfoundland and Labrador,November,2016,
+Newfoundland and Labrador,December,2016,
+Northwest Territories,January,2016,
+Northwest Territories,February,2016,
+Northwest Territories,April,2016,
+Northwest Territories,May,2016,3.0
+Northwest Territories,June,2016,58.0
+Northwest Territories,July,2016,112.0
+Northwest Territories,August,2016,20.0
+Northwest Territories,September,2016,
+Northwest Territories,October,2016,
+Northwest Territories,November,2016,
+Northwest Territories,December,2016,
+Nova Scotia,January,2016,
+Nova Scotia,March,2016,1.0
+Nova Scotia,April,2016,104.0
+Nova Scotia,May,2016,59.0
+Nova Scotia,June,2016,28.0
+Nova Scotia,July,2016,15.0
+Nova Scotia,August,2016,38.0
+Nova Scotia,September,2016,22.0
+Nova Scotia,October,2016,4.0
+Nova Scotia,November,2016,
+Ontario,January,2016,
+Ontario,February,2016,
+Ontario,March,2016,5.0
+Ontario,April,2016,38.0
+Ontario,May,2016,176.0
+Ontario,June,2016,141.0
+Ontario,July,2016,147.0
+Ontario,August,2016,113.0
+Ontario,September,2016,22.0
+Ontario,October,2016,11.0
+Ontario,November,2016,4.0
+Ontario,December,2016,
+Prince Edward Island,January,2016,0.0
+Prince Edward Island,February,2016,0.0
+Prince Edward Island,March,2016,0.0
+Prince Edward Island,April,2016,5.0
+Prince Edward Island,May,2016,2.0
+Prince Edward Island,June,2016,0.0
+Prince Edward Island,July,2016,0.0
+Prince Edward Island,August,2016,0.0
+Prince Edward Island,September,2016,1.0
+Prince Edward Island,October,2016,0.0
+Prince Edward Island,November,2016,0.0
+Prince Edward Island,December,2016,0.0
+Quebec,February,2016,
+Quebec,March,2016,1.0
+Quebec,April,2016,88.0
+Quebec,May,2016,124.0
+Quebec,June,2016,119.0
+Quebec,July,2016,141.0
+Quebec,August,2016,86.0
+Quebec,September,2016,17.0
+Quebec,October,2016,25.0
+Quebec,November,2016,5.0
+Quebec,December,2016,1.0
+Saskatchewan,January,2016,
+Saskatchewan,February,2016,
+Saskatchewan,March,2016,
+Saskatchewan,April,2016,87.0
+Saskatchewan,May,2016,111.0
+Saskatchewan,June,2016,125.0
+Saskatchewan,July,2016,53.0
+Saskatchewan,August,2016,23.0
+Saskatchewan,September,2016,9.0
+Saskatchewan,October,2016,
+Saskatchewan,November,2016,
+Saskatchewan,December,2016,
+Yukon,January,2016,
+Yukon,March,2016,
+Yukon,April,2016,2.0
+Yukon,May,2016,8.0
+Yukon,June,2016,15.0
+Yukon,July,2016,19.0
+Yukon,August,2016,8.0
+Yukon,September,2016,1.0
+Yukon,October,2016,
+Yukon,November,2016,
+Yukon,December,2016,
+Alberta,January,2017,4.0
+Alberta,February,2017,4.0
+Alberta,March,2017,14.0
+Alberta,April,2017,101.0
+Alberta,May,2017,348.0
+Alberta,June,2017,176.0
+Alberta,July,2017,285.0
+Alberta,August,2017,264.0
+Alberta,September,2017,77.0
+Alberta,October,2017,49.0
+Alberta,November,2017,5.0
+Alberta,December,2017,3.0
+British Columbia,January,2017,1.0
+British Columbia,February,2017,2.0
+British Columbia,March,2017,10.0
+British Columbia,April,2017,40.0
+British Columbia,May,2017,91.0
+British Columbia,June,2017,145.0
+British Columbia,July,2017,622.0
+British Columbia,August,2017,306.0
+British Columbia,September,2017,115.0
+British Columbia,October,2017,64.0
+British Columbia,November,2017,4.0
+British Columbia,December,2017,
+Manitoba,January,2017,
+Manitoba,February,2017,
+Manitoba,March,2017,
+Manitoba,April,2017,8.0
+Manitoba,May,2017,43.0
+Manitoba,June,2017,27.0
+Manitoba,July,2017,142.0
+Manitoba,August,2017,298.0
+Manitoba,September,2017,33.0
+Manitoba,October,2017,15.0
+Manitoba,November,2017,
+Manitoba,December,2017,
+New Brunswick,March,2017,
+New Brunswick,April,2017,16.0
+New Brunswick,May,2017,25.0
+New Brunswick,June,2017,16.0
+New Brunswick,July,2017,39.0
+New Brunswick,August,2017,79.0
+New Brunswick,September,2017,35.0
+New Brunswick,October,2017,33.0
+New Brunswick,November,2017,2.0
+New Brunswick,December,2017,
+Newfoundland and Labrador,January,2017,
+Newfoundland and Labrador,March,2017,
+Newfoundland and Labrador,April,2017,
+Newfoundland and Labrador,May,2017,18.0
+Newfoundland and Labrador,June,2017,22.0
+Newfoundland and Labrador,July,2017,20.0
+Newfoundland and Labrador,August,2017,8.0
+Newfoundland and Labrador,September,2017,4.0
+Newfoundland and Labrador,October,2017,4.0
+Newfoundland and Labrador,November,2017,6.0
+Newfoundland and Labrador,December,2017,
+Northwest Territories,January,2017,
+Northwest Territories,February,2017,
+Northwest Territories,April,2017,
+Northwest Territories,May,2017,22.0
+Northwest Territories,June,2017,33.0
+Northwest Territories,July,2017,123.0
+Northwest Territories,August,2017,77.0
+Northwest Territories,September,2017,13.0
+Northwest Territories,October,2017,
+Northwest Territories,November,2017,
+Northwest Territories,December,2017,
+Nova Scotia,January,2017,
+Nova Scotia,March,2017,
+Nova Scotia,April,2017,82.0
+Nova Scotia,May,2017,44.0
+Nova Scotia,June,2017,11.0
+Nova Scotia,July,2017,12.0
+Nova Scotia,August,2017,15.0
+Nova Scotia,September,2017,7.0
+Nova Scotia,October,2017,5.0
+Nova Scotia,November,2017,1.0
+Ontario,January,2017,
+Ontario,February,2017,1.0
+Ontario,March,2017,4.0
+Ontario,April,2017,23.0
+Ontario,May,2017,46.0
+Ontario,June,2017,40.0
+Ontario,July,2017,230.0
+Ontario,August,2017,369.0
+Ontario,September,2017,38.0
+Ontario,October,2017,30.0
+Ontario,November,2017,
+Ontario,December,2017,
+Prince Edward Island,January,2017,0.0
+Prince Edward Island,February,2017,0.0
+Prince Edward Island,March,2017,0.0
+Prince Edward Island,April,2017,0.0
+Prince Edward Island,May,2017,0.0
+Prince Edward Island,June,2017,0.0
+Prince Edward Island,July,2017,0.0
+Prince Edward Island,August,2017,0.0
+Prince Edward Island,September,2017,0.0
+Prince Edward Island,October,2017,0.0
+Prince Edward Island,November,2017,0.0
+Prince Edward Island,December,2017,0.0
+Quebec,February,2017,1.0
+Quebec,March,2017,
+Quebec,April,2017,25.0
+Quebec,May,2017,33.0
+Quebec,June,2017,78.0
+Quebec,July,2017,88.0
+Quebec,August,2017,57.0
+Quebec,September,2017,16.0
+Quebec,October,2017,22.0
+Quebec,November,2017,2.0
+Quebec,December,2017,
+Saskatchewan,January,2017,
+Saskatchewan,February,2017,
+Saskatchewan,March,2017,1.0
+Saskatchewan,April,2017,16.0
+Saskatchewan,May,2017,76.0
+Saskatchewan,June,2017,15.0
+Saskatchewan,July,2017,72.0
+Saskatchewan,August,2017,138.0
+Saskatchewan,September,2017,37.0
+Saskatchewan,October,2017,13.0
+Saskatchewan,November,2017,
+Saskatchewan,December,2017,
+Yukon,January,2017,
+Yukon,March,2017,
+Yukon,April,2017,3.0
+Yukon,May,2017,9.0
+Yukon,June,2017,45.0
+Yukon,July,2017,32.0
+Yukon,August,2017,25.0
+Yukon,September,2017,1.0
+Yukon,October,2017,
+Yukon,November,2017,
+Yukon,December,2017,
+Alberta,January,2018,4.0
+Alberta,February,2018,
+Alberta,March,2018,19.0
+Alberta,April,2018,97.0
+Alberta,May,2018,454.0
+Alberta,June,2018,337.0
+Alberta,July,2018,166.0
+Alberta,August,2018,178.0
+Alberta,September,2018,62.0
+Alberta,October,2018,53.0
+Alberta,November,2018,9.0
+Alberta,December,2018,3.0
+British Columbia,January,2018,1.0
+British Columbia,February,2018,
+British Columbia,March,2018,14.0
+British Columbia,April,2018,51.0
+British Columbia,May,2018,178.0
+British Columbia,June,2018,327.0
+British Columbia,July,2018,684.0
+British Columbia,August,2018,766.0
+British Columbia,September,2018,52.0
+British Columbia,October,2018,45.0
+British Columbia,November,2018,2.0
+British Columbia,December,2018,2.0
+Manitoba,January,2018,
+Manitoba,February,2018,
+Manitoba,March,2018,
+Manitoba,April,2018,33.0
+Manitoba,May,2018,176.0
+Manitoba,June,2018,97.0
+Manitoba,July,2018,108.0
+Manitoba,August,2018,54.0
+Manitoba,September,2018,15.0
+Manitoba,October,2018,
+Manitoba,November,2018,
+Manitoba,December,2018,
+New Brunswick,March,2018,
+New Brunswick,April,2018,37.0
+New Brunswick,May,2018,124.0
+New Brunswick,June,2018,34.0
+New Brunswick,July,2018,40.0
+New Brunswick,August,2018,15.0
+New Brunswick,September,2018,31.0
+New Brunswick,October,2018,4.0
+New Brunswick,November,2018,
+New Brunswick,December,2018,
+Newfoundland and Labrador,January,2018,
+Newfoundland and Labrador,March,2018,
+Newfoundland and Labrador,April,2018,12.0
+Newfoundland and Labrador,May,2018,41.0
+Newfoundland and Labrador,June,2018,18.0
+Newfoundland and Labrador,July,2018,19.0
+Newfoundland and Labrador,August,2018,24.0
+Newfoundland and Labrador,September,2018,14.0
+Newfoundland and Labrador,October,2018,3.0
+Newfoundland and Labrador,November,2018,
+Newfoundland and Labrador,December,2018,
+Northwest Territories,January,2018,
+Northwest Territories,February,2018,
+Northwest Territories,April,2018,
+Northwest Territories,May,2018,4.0
+Northwest Territories,June,2018,14.0
+Northwest Territories,July,2018,35.0
+Northwest Territories,August,2018,7.0
+Northwest Territories,September,2018,2.0
+Northwest Territories,October,2018,
+Northwest Territories,November,2018,1.0
+Northwest Territories,December,2018,
+Nova Scotia,January,2018,
+Nova Scotia,March,2018,2.0
+Nova Scotia,April,2018,51.0
+Nova Scotia,May,2018,54.0
+Nova Scotia,June,2018,26.0
+Nova Scotia,July,2018,24.0
+Nova Scotia,August,2018,17.0
+Nova Scotia,September,2018,22.0
+Nova Scotia,October,2018,
+Nova Scotia,November,2018,
+Ontario,January,2018,
+Ontario,February,2018,
+Ontario,March,2018,5.0
+Ontario,April,2018,18.0
+Ontario,May,2018,191.0
+Ontario,June,2018,245.0
+Ontario,July,2018,524.0
+Ontario,August,2018,300.0
+Ontario,September,2018,55.0
+Ontario,October,2018,
+Ontario,November,2018,
+Ontario,December,2018,1.0
+Prince Edward Island,January,2018,
+Prince Edward Island,February,2018,
+Prince Edward Island,March,2018,
+Prince Edward Island,April,2018,
+Prince Edward Island,May,2018,
+Prince Edward Island,June,2018,
+Prince Edward Island,July,2018,
+Prince Edward Island,August,2018,
+Prince Edward Island,September,2018,
+Prince Edward Island,October,2018,
+Prince Edward Island,November,2018,
+Prince Edward Island,December,2018,
+Quebec,February,2018,
+Quebec,March,2018,
+Quebec,April,2018,12.0
+Quebec,May,2018,190.0
+Quebec,June,2018,124.0
+Quebec,July,2018,201.0
+Quebec,August,2018,38.0
+Quebec,September,2018,18.0
+Quebec,October,2018,13.0
+Quebec,November,2018,1.0
+Quebec,December,2018,
+Saskatchewan,January,2018,
+Saskatchewan,February,2018,
+Saskatchewan,March,2018,
+Saskatchewan,April,2018,50.0
+Saskatchewan,May,2018,178.0
+Saskatchewan,June,2018,125.0
+Saskatchewan,July,2018,61.0
+Saskatchewan,August,2018,30.0
+Saskatchewan,September,2018,1.0
+Saskatchewan,October,2018,7.0
+Saskatchewan,November,2018,
+Saskatchewan,December,2018,
+Yukon,January,2018,
+Yukon,March,2018,
+Yukon,April,2018,1.0
+Yukon,May,2018,6.0
+Yukon,June,2018,11.0
+Yukon,July,2018,21.0
+Yukon,August,2018,11.0
+Yukon,September,2018,1.0
+Yukon,October,2018,
+Yukon,November,2018,
+Yukon,December,2018,
+Alberta,January,2019,17.0
+Alberta,February,2019,1.0
+Alberta,March,2019,34.0
+Alberta,April,2019,188.0
+Alberta,May,2019,315.0
+Alberta,June,2019,180.0
+Alberta,July,2019,219.0
+Alberta,August,2019,78.0
+Alberta,September,2019,30.0
+Alberta,October,2019,17.0
+Alberta,November,2019,1.0
+Alberta,December,2019,1.0
+British Columbia,January,2019,
+British Columbia,February,2019,1.0
+British Columbia,March,2019,27.0
+British Columbia,April,2019,87.0
+British Columbia,May,2019,135.0
+British Columbia,June,2019,194.0
+British Columbia,July,2019,155.0
+British Columbia,August,2019,126.0
+British Columbia,September,2019,95.0
+British Columbia,October,2019,16.0
+British Columbia,November,2019,7.0
+British Columbia,December,2019,
+Manitoba,January,2019,
+Manitoba,February,2019,
+Manitoba,March,2019,
+Manitoba,April,2019,21.0
+Manitoba,May,2019,81.0
+Manitoba,June,2019,60.0
+Manitoba,July,2019,86.0
+Manitoba,August,2019,35.0
+Manitoba,September,2019,1.0
+Manitoba,October,2019,
+Manitoba,November,2019,
+Manitoba,December,2019,
+New Brunswick,March,2019,
+New Brunswick,April,2019,12.0
+New Brunswick,May,2019,88.0
+New Brunswick,June,2019,19.0
+New Brunswick,July,2019,21.0
+New Brunswick,August,2019,32.0
+New Brunswick,September,2019,5.0
+New Brunswick,October,2019,6.0
+New Brunswick,November,2019,
+New Brunswick,December,2019,
+Newfoundland and Labrador,January,2019,
+Newfoundland and Labrador,March,2019,6.0
+Newfoundland and Labrador,April,2019,1.0
+Newfoundland and Labrador,May,2019,44.0
+Newfoundland and Labrador,June,2019,8.0
+Newfoundland and Labrador,July,2019,11.0
+Newfoundland and Labrador,August,2019,16.0
+Newfoundland and Labrador,September,2019,11.0
+Newfoundland and Labrador,October,2019,2.0
+Newfoundland and Labrador,November,2019,
+Newfoundland and Labrador,December,2019,
+Northwest Territories,January,2019,
+Northwest Territories,February,2019,
+Northwest Territories,April,2019,6.0
+Northwest Territories,May,2019,8.0
+Northwest Territories,June,2019,32.0
+Northwest Territories,July,2019,88.0
+Northwest Territories,August,2019,11.0
+Northwest Territories,September,2019,
+Northwest Territories,October,2019,1.0
+Northwest Territories,November,2019,1.0
+Northwest Territories,December,2019,
+Nova Scotia,January,2019,
+Nova Scotia,March,2019,17.0
+Nova Scotia,April,2019,16.0
+Nova Scotia,May,2019,45.0
+Nova Scotia,June,2019,13.0
+Nova Scotia,July,2019,7.0
+Nova Scotia,August,2019,34.0
+Nova Scotia,September,2019,9.0
+Nova Scotia,October,2019,2.0
+Nova Scotia,November,2019,
+Ontario,January,2019,
+Ontario,February,2019,
+Ontario,March,2019,2.0
+Ontario,April,2019,19.0
+Ontario,May,2019,58.0
+Ontario,June,2019,103.0
+Ontario,July,2019,152.0
+Ontario,August,2019,193.0
+Ontario,September,2019,10.0
+Ontario,October,2019,4.0
+Ontario,November,2019,
+Ontario,December,2019,
+Prince Edward Island,January,2019,
+Prince Edward Island,February,2019,
+Prince Edward Island,March,2019,
+Prince Edward Island,April,2019,
+Prince Edward Island,May,2019,
+Prince Edward Island,June,2019,
+Prince Edward Island,July,2019,
+Prince Edward Island,August,2019,
+Prince Edward Island,September,2019,
+Prince Edward Island,October,2019,
+Prince Edward Island,November,2019,
+Prince Edward Island,December,2019,
+Quebec,February,2019,
+Quebec,March,2019,
+Quebec,April,2019,3.0
+Quebec,May,2019,54.0
+Quebec,June,2019,59.0
+Quebec,July,2019,120.0
+Quebec,August,2019,96.0
+Quebec,September,2019,21.0
+Quebec,October,2019,9.0
+Quebec,November,2019,
+Quebec,December,2019,
+Saskatchewan,January,2019,1.0
+Saskatchewan,February,2019,
+Saskatchewan,March,2019,
+Saskatchewan,April,2019,41.0
+Saskatchewan,May,2019,73.0
+Saskatchewan,June,2019,59.0
+Saskatchewan,July,2019,58.0
+Saskatchewan,August,2019,14.0
+Saskatchewan,September,2019,2.0
+Saskatchewan,October,2019,3.0
+Saskatchewan,November,2019,2.0
+Saskatchewan,December,2019,5.0
+Yukon,January,2019,
+Yukon,March,2019,
+Yukon,April,2019,4.0
+Yukon,May,2019,25.0
+Yukon,June,2019,18.0
+Yukon,July,2019,64.0
+Yukon,August,2019,4.0
+Yukon,September,2019,3.0
+Yukon,October,2019,
+Yukon,November,2019,
+Yukon,December,2019,
+Alberta,January,2020,1.0
+Alberta,February,2020,1.0
+Alberta,March,2020,4.0
+Alberta,April,2020,68.0
+Alberta,May,2020,209.0
+Alberta,June,2020,83.0
+Alberta,July,2020,78.0
+Alberta,August,2020,208.0
+Alberta,September,2020,82.0
+Alberta,October,2020,49.0
+Alberta,November,2020,9.0
+Alberta,December,2020,8.0
+British Columbia,January,2020,
+British Columbia,February,2020,
+British Columbia,March,2020,19.0
+British Columbia,April,2020,92.0
+British Columbia,May,2020,66.0
+British Columbia,June,2020,31.0
+British Columbia,July,2020,115.0
+British Columbia,August,2020,283.0
+British Columbia,September,2020,62.0
+British Columbia,October,2020,13.0
+British Columbia,November,2020,2.0
+British Columbia,December,2020,1.0
+Manitoba,January,2020,
+Manitoba,February,2020,
+Manitoba,March,2020,
+Manitoba,April,2020,11.0
+Manitoba,May,2020,38.0
+Manitoba,June,2020,24.0
+Manitoba,July,2020,41.0
+Manitoba,August,2020,36.0
+Manitoba,September,2020,4.0
+Manitoba,October,2020,1.0
+Manitoba,November,2020,
+Manitoba,December,2020,
+New Brunswick,March,2020,
+New Brunswick,April,2020,100.0
+New Brunswick,May,2020,127.0
+New Brunswick,June,2020,72.0
+New Brunswick,July,2020,27.0
+New Brunswick,August,2020,64.0
+New Brunswick,September,2020,49.0
+New Brunswick,October,2020,22.0
+New Brunswick,November,2020,5.0
+New Brunswick,December,2020,
+Newfoundland and Labrador,January,2020,
+Newfoundland and Labrador,March,2020,
+Newfoundland and Labrador,April,2020,12.0
+Newfoundland and Labrador,May,2020,17.0
+Newfoundland and Labrador,June,2020,6.0
+Newfoundland and Labrador,July,2020,25.0
+Newfoundland and Labrador,August,2020,27.0
+Newfoundland and Labrador,September,2020,5.0
+Newfoundland and Labrador,October,2020,
+Newfoundland and Labrador,November,2020,4.0
+Newfoundland and Labrador,December,2020,1.0
+Northwest Territories,January,2020,
+Northwest Territories,February,2020,
+Northwest Territories,April,2020,
+Northwest Territories,May,2020,1.0
+Northwest Territories,June,2020,47.0
+Northwest Territories,July,2020,15.0
+Northwest Territories,August,2020,7.0
+Northwest Territories,September,2020,
+Northwest Territories,October,2020,
+Northwest Territories,November,2020,
+Northwest Territories,December,2020,
+Nova Scotia,January,2020,
+Nova Scotia,March,2020,5.0
+Nova Scotia,April,2020,38.0
+Nova Scotia,May,2020,50.0
+Nova Scotia,June,2020,22.0
+Nova Scotia,July,2020,11.0
+Nova Scotia,August,2020,43.0
+Nova Scotia,September,2020,5.0
+Nova Scotia,October,2020,4.0
+Nova Scotia,November,2020,
+Ontario,January,2020,
+Ontario,February,2020,
+Ontario,March,2020,2.0
+Ontario,April,2020,22.0
+Ontario,May,2020,86.0
+Ontario,June,2020,70.0
+Ontario,July,2020,303.0
+Ontario,August,2020,115.0
+Ontario,September,2020,13.0
+Ontario,October,2020,3.0
+Ontario,November,2020,
+Ontario,December,2020,
+Prince Edward Island,January,2020,
+Prince Edward Island,February,2020,
+Prince Edward Island,March,2020,
+Prince Edward Island,April,2020,
+Prince Edward Island,May,2020,
+Prince Edward Island,June,2020,
+Prince Edward Island,July,2020,
+Prince Edward Island,August,2020,
+Prince Edward Island,September,2020,
+Prince Edward Island,October,2020,
+Prince Edward Island,November,2020,
+Prince Edward Island,December,2020,
+Quebec,February,2020,
+Quebec,March,2020,2.0
+Quebec,April,2020,81.0
+Quebec,May,2020,277.0
+Quebec,June,2020,174.0
+Quebec,July,2020,105.0
+Quebec,August,2020,36.0
+Quebec,September,2020,27.0
+Quebec,October,2020,3.0
+Quebec,November,2020,7.0
+Quebec,December,2020,
+Saskatchewan,January,2020,1.0
+Saskatchewan,February,2020,2.0
+Saskatchewan,March,2020,2.0
+Saskatchewan,April,2020,12.0
+Saskatchewan,May,2020,49.0
+Saskatchewan,June,2020,35.0
+Saskatchewan,July,2020,26.0
+Saskatchewan,August,2020,31.0
+Saskatchewan,September,2020,27.0
+Saskatchewan,October,2020,8.0
+Saskatchewan,November,2020,8.0
+Saskatchewan,December,2020,
+Yukon,January,2020,
+Yukon,March,2020,
+Yukon,April,2020,
+Yukon,May,2020,7.0
+Yukon,June,2020,10.0
+Yukon,July,2020,4.0
+Yukon,August,2020,1.0
+Yukon,September,2020,2.0
+Yukon,October,2020,
+Yukon,November,2020,
+Yukon,December,2020,
+Alberta,January,2021,8.0
+Alberta,February,2021,1.0
+Alberta,March,2021,34.0
+Alberta,April,2021,153.0
+Alberta,May,2021,282.0
+Alberta,June,2021,189.0
+Alberta,July,2021,396.0
+Alberta,August,2021,175.0
+Alberta,September,2021,94.0
+Alberta,October,2021,66.0
+Alberta,November,2021,22.0
+Alberta,December,2021,6.0
+British Columbia,January,2021,2.0
+British Columbia,February,2021,
+British Columbia,March,2021,21.0
+British Columbia,April,2021,145.0
+British Columbia,May,2021,110.0
+British Columbia,June,2021,255.0
+British Columbia,July,2021,784.0
+British Columbia,August,2021,263.0
+British Columbia,September,2021,53.0
+British Columbia,October,2021,24.0
+British Columbia,November,2021,4.0
+British Columbia,December,2021,2.0
+Manitoba,January,2021,
+Manitoba,February,2021,
+Manitoba,March,2021,3.0
+Manitoba,April,2021,22.0
+Manitoba,May,2021,59.0
+Manitoba,June,2021,40.0
+Manitoba,July,2021,275.0
+Manitoba,August,2021,56.0
+Manitoba,September,2021,19.0
+Manitoba,October,2021,22.0
+Manitoba,November,2021,1.0
+Manitoba,December,2021,
+New Brunswick,March,2021,3.0
+New Brunswick,April,2021,52.0
+New Brunswick,May,2021,58.0
+New Brunswick,June,2021,30.0
+New Brunswick,July,2021,7.0
+New Brunswick,August,2021,17.0
+New Brunswick,September,2021,6.0
+New Brunswick,October,2021,6.0
+New Brunswick,November,2021,
+New Brunswick,December,2021,
+Newfoundland and Labrador,January,2021,
+Newfoundland and Labrador,March,2021,2.0
+Newfoundland and Labrador,April,2021,6.0
+Newfoundland and Labrador,May,2021,21.0
+Newfoundland and Labrador,June,2021,16.0
+Newfoundland and Labrador,July,2021,15.0
+Newfoundland and Labrador,August,2021,22.0
+Newfoundland and Labrador,September,2021,5.0
+Newfoundland and Labrador,October,2021,
+Newfoundland and Labrador,November,2021,2.0
+Newfoundland and Labrador,December,2021,
+Northwest Territories,January,2021,
+Northwest Territories,February,2021,
+Northwest Territories,April,2021,
+Northwest Territories,May,2021,2.0
+Northwest Territories,June,2021,37.0
+Northwest Territories,July,2021,100.0
+Northwest Territories,August,2021,11.0
+Northwest Territories,September,2021,
+Northwest Territories,October,2021,
+Northwest Territories,November,2021,
+Northwest Territories,December,2021,
+Nova Scotia,January,2021,
+Nova Scotia,March,2021,7.0
+Nova Scotia,April,2021,45.0
+Nova Scotia,May,2021,30.0
+Nova Scotia,June,2021,27.0
+Nova Scotia,July,2021,1.0
+Nova Scotia,August,2021,2.0
+Nova Scotia,September,2021,1.0
+Nova Scotia,October,2021,
+Nova Scotia,November,2021,
+Ontario,January,2021,
+Ontario,February,2021,
+Ontario,March,2021,15.0
+Ontario,April,2021,29.0
+Ontario,May,2021,116.0
+Ontario,June,2021,332.0
+Ontario,July,2021,572.0
+Ontario,August,2021,123.0
+Ontario,September,2021,16.0
+Ontario,October,2021,3.0
+Ontario,November,2021,
+Ontario,December,2021,
+Prince Edward Island,January,2021,
+Prince Edward Island,February,2021,
+Prince Edward Island,March,2021,
+Prince Edward Island,April,2021,
+Prince Edward Island,May,2021,
+Prince Edward Island,June,2021,
+Prince Edward Island,July,2021,
+Prince Edward Island,August,2021,
+Prince Edward Island,September,2021,
+Prince Edward Island,October,2021,
+Prince Edward Island,November,2021,
+Prince Edward Island,December,2021,
+Quebec,February,2021,
+Quebec,March,2021,1.0
+Quebec,April,2021,115.0
+Quebec,May,2021,165.0
+Quebec,June,2021,162.0
+Quebec,July,2021,37.0
+Quebec,August,2021,93.0
+Quebec,September,2021,37.0
+Quebec,October,2021,12.0
+Quebec,November,2021,7.0
+Quebec,December,2021,
+Saskatchewan,January,2021,
+Saskatchewan,February,2021,
+Saskatchewan,March,2021,2.0
+Saskatchewan,April,2021,51.0
+Saskatchewan,May,2021,85.0
+Saskatchewan,June,2021,65.0
+Saskatchewan,July,2021,303.0
+Saskatchewan,August,2021,92.0
+Saskatchewan,September,2021,16.0
+Saskatchewan,October,2021,26.0
+Saskatchewan,November,2021,1.0
+Saskatchewan,December,2021,1.0
+Yukon,January,2021,
+Yukon,March,2021,
+Yukon,April,2021,1.0
+Yukon,May,2021,3.0
+Yukon,June,2021,28.0
+Yukon,July,2021,70.0
+Yukon,August,2021,12.0
+Yukon,September,2021,
+Yukon,October,2021,
+Yukon,November,2021,
+Yukon,December,2021,
+Alberta,January,2022,1.0
+Alberta,February,2022,6.0
+Alberta,March,2022,21.0
+Alberta,April,2022,132.0
+Alberta,May,2022,226.0
+Alberta,June,2022,153.0
+Alberta,July,2022,272.0
+Alberta,August,2022,284.0
+Alberta,September,2022,120.0
+Alberta,October,2022,135.0
+Alberta,November,2022,18.0
+Alberta,December,2022,4.0
+British Columbia,January,2022,
+British Columbia,February,2022,2.0
+British Columbia,March,2022,14.0
+British Columbia,April,2022,81.0
+British Columbia,May,2022,57.0
+British Columbia,June,2022,73.0
+British Columbia,July,2022,279.0
+British Columbia,August,2022,935.0
+British Columbia,September,2022,192.0
+British Columbia,October,2022,169.0
+British Columbia,November,2022,15.0
+British Columbia,December,2022,1.0
+Manitoba,January,2022,
+Manitoba,February,2022,
+Manitoba,March,2022,
+Manitoba,April,2022,1.0
+Manitoba,May,2022,6.0
+Manitoba,June,2022,21.0
+Manitoba,July,2022,89.0
+Manitoba,August,2022,70.0
+Manitoba,September,2022,36.0
+Manitoba,October,2022,4.0
+Manitoba,November,2022,
+Manitoba,December,2022,
+New Brunswick,March,2022,1.0
+New Brunswick,April,2022,36.0
+New Brunswick,May,2022,99.0
+New Brunswick,June,2022,13.0
+New Brunswick,July,2022,15.0
+New Brunswick,August,2022,12.0
+New Brunswick,September,2022,11.0
+New Brunswick,October,2022,9.0
+New Brunswick,November,2022,17.0
+New Brunswick,December,2022,1.0
+Newfoundland and Labrador,January,2022,
+Newfoundland and Labrador,March,2022,
+Newfoundland and Labrador,April,2022,2.0
+Newfoundland and Labrador,May,2022,27.0
+Newfoundland and Labrador,June,2022,19.0
+Newfoundland and Labrador,July,2022,34.0
+Newfoundland and Labrador,August,2022,13.0
+Newfoundland and Labrador,September,2022,10.0
+Newfoundland and Labrador,October,2022,15.0
+Newfoundland and Labrador,November,2022,3.0
+Newfoundland and Labrador,December,2022,
+Northwest Territories,January,2022,
+Northwest Territories,February,2022,
+Northwest Territories,April,2022,
+Northwest Territories,May,2022,7.0
+Northwest Territories,June,2022,71.0
+Northwest Territories,July,2022,118.0
+Northwest Territories,August,2022,63.0
+Northwest Territories,September,2022,6.0
+Northwest Territories,October,2022,6.0
+Northwest Territories,November,2022,2.0
+Northwest Territories,December,2022,1.0
+Nova Scotia,January,2022,
+Nova Scotia,March,2022,
+Nova Scotia,April,2022,13.0
+Nova Scotia,May,2022,58.0
+Nova Scotia,June,2022,7.0
+Nova Scotia,July,2022,32.0
+Nova Scotia,August,2022,10.0
+Nova Scotia,September,2022,30.0
+Nova Scotia,October,2022,2.0
+Nova Scotia,November,2022,
+Ontario,January,2022,
+Ontario,February,2022,
+Ontario,March,2022,2.0
+Ontario,April,2022,5.0
+Ontario,May,2022,72.0
+Ontario,June,2022,32.0
+Ontario,July,2022,63.0
+Ontario,August,2022,63.0
+Ontario,September,2022,28.0
+Ontario,October,2022,9.0
+Ontario,November,2022,7.0
+Ontario,December,2022,
+Prince Edward Island,January,2022,
+Prince Edward Island,February,2022,
+Prince Edward Island,March,2022,
+Prince Edward Island,April,2022,
+Prince Edward Island,May,2022,
+Prince Edward Island,June,2022,
+Prince Edward Island,July,2022,
+Prince Edward Island,August,2022,
+Prince Edward Island,September,2022,
+Prince Edward Island,October,2022,
+Prince Edward Island,November,2022,
+Prince Edward Island,December,2022,
+Quebec,February,2022,
+Quebec,March,2022,
+Quebec,April,2022,37.0
+Quebec,May,2022,219.0
+Quebec,June,2022,21.0
+Quebec,July,2022,49.0
+Quebec,August,2022,51.0
+Quebec,September,2022,24.0
+Quebec,October,2022,16.0
+Quebec,November,2022,35.0
+Quebec,December,2022,1.0
+Saskatchewan,January,2022,
+Saskatchewan,February,2022,
+Saskatchewan,March,2022,2.0
+Saskatchewan,April,2022,11.0
+Saskatchewan,May,2022,90.0
+Saskatchewan,June,2022,71.0
+Saskatchewan,July,2022,131.0
+Saskatchewan,August,2022,71.0
+Saskatchewan,September,2022,49.0
+Saskatchewan,October,2022,25.0
+Saskatchewan,November,2022,
+Saskatchewan,December,2022,
+Yukon,January,2022,
+Yukon,March,2022,
+Yukon,April,2022,
+Yukon,May,2022,
+Yukon,June,2022,
+Yukon,July,2022,
+Yukon,August,2022,
+Yukon,September,2022,
+Yukon,October,2022,
+Yukon,November,2022,
+Yukon,December,2022,
+Alberta,January,2023,
+Alberta,February,2023,
+Alberta,March,2023,
+Alberta,April,2023,
+Alberta,May,2023,
+Alberta,June,2023,
+Alberta,July,2023,
+Alberta,August,2023,
+Alberta,September,2023,
+Alberta,October,2023,
+Alberta,November,2023,
+Alberta,December,2023,
+British Columbia,January,2023,
+British Columbia,February,2023,
+British Columbia,March,2023,
+British Columbia,April,2023,
+British Columbia,May,2023,
+British Columbia,June,2023,
+British Columbia,July,2023,
+British Columbia,August,2023,
+British Columbia,September,2023,
+British Columbia,October,2023,
+British Columbia,November,2023,
+British Columbia,December,2023,
+Manitoba,January,2023,
+Manitoba,February,2023,
+Manitoba,March,2023,
+Manitoba,April,2023,
+Manitoba,May,2023,
+Manitoba,June,2023,
+Manitoba,July,2023,
+Manitoba,August,2023,
+Manitoba,September,2023,
+Manitoba,October,2023,
+Manitoba,November,2023,
+Manitoba,December,2023,
+New Brunswick,March,2023,
+New Brunswick,April,2023,
+New Brunswick,May,2023,
+New Brunswick,June,2023,
+New Brunswick,July,2023,
+New Brunswick,August,2023,
+New Brunswick,September,2023,
+New Brunswick,October,2023,
+New Brunswick,November,2023,
+New Brunswick,December,2023,
+Newfoundland and Labrador,January,2023,
+Newfoundland and Labrador,March,2023,
+Newfoundland and Labrador,April,2023,
+Newfoundland and Labrador,May,2023,
+Newfoundland and Labrador,June,2023,
+Newfoundland and Labrador,July,2023,
+Newfoundland and Labrador,August,2023,
+Newfoundland and Labrador,September,2023,
+Newfoundland and Labrador,October,2023,
+Newfoundland and Labrador,November,2023,
+Newfoundland and Labrador,December,2023,
+Northwest Territories,January,2023,
+Northwest Territories,February,2023,
+Northwest Territories,April,2023,
+Northwest Territories,May,2023,
+Northwest Territories,June,2023,
+Northwest Territories,July,2023,
+Northwest Territories,August,2023,
+Northwest Territories,September,2023,
+Northwest Territories,October,2023,
+Northwest Territories,November,2023,
+Northwest Territories,December,2023,
+Nova Scotia,January,2023,
+Nova Scotia,March,2023,
+Nova Scotia,April,2023,
+Nova Scotia,May,2023,
+Nova Scotia,June,2023,
+Nova Scotia,July,2023,
+Nova Scotia,August,2023,
+Nova Scotia,September,2023,
+Nova Scotia,October,2023,
+Nova Scotia,November,2023,
+Ontario,January,2023,
+Ontario,February,2023,
+Ontario,March,2023,
+Ontario,April,2023,
+Ontario,May,2023,
+Ontario,June,2023,
+Ontario,July,2023,
+Ontario,August,2023,
+Ontario,September,2023,
+Ontario,October,2023,
+Ontario,November,2023,
+Ontario,December,2023,
+Prince Edward Island,January,2023,
+Prince Edward Island,February,2023,
+Prince Edward Island,March,2023,
+Prince Edward Island,April,2023,
+Prince Edward Island,May,2023,
+Prince Edward Island,June,2023,
+Prince Edward Island,July,2023,
+Prince Edward Island,August,2023,
+Prince Edward Island,September,2023,
+Prince Edward Island,October,2023,
+Prince Edward Island,November,2023,
+Prince Edward Island,December,2023,
+Quebec,February,2023,
+Quebec,March,2023,
+Quebec,April,2023,
+Quebec,May,2023,
+Quebec,June,2023,
+Quebec,July,2023,
+Quebec,August,2023,
+Quebec,September,2023,
+Quebec,October,2023,
+Quebec,November,2023,
+Quebec,December,2023,
+Saskatchewan,January,2023,
+Saskatchewan,February,2023,
+Saskatchewan,March,2023,
+Saskatchewan,April,2023,
+Saskatchewan,May,2023,
+Saskatchewan,June,2023,
+Saskatchewan,July,2023,
+Saskatchewan,August,2023,
+Saskatchewan,September,2023,
+Saskatchewan,October,2023,
+Saskatchewan,November,2023,
+Saskatchewan,December,2023,
+Yukon,January,2023,
+Yukon,March,2023,
+Yukon,April,2023,
+Yukon,May,2023,
+Yukon,June,2023,
+Yukon,July,2023,
+Yukon,August,2023,
+Yukon,September,2023,
+Yukon,October,2023,
+Yukon,November,2023,
+Yukon,December,2023,
