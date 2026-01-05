@@ -8,6 +8,10 @@ from retry_requests import retry
 import joblib
 
 from fastapi import FastAPI
+
+# Historie einmal laden
+def load_history_bc():
+    return pd.read_csv("fires_history_bc.csv")
 app = FastAPI()
 
 # --- Modell-Artefakte beim Serverstart laden ---
@@ -113,9 +117,10 @@ reg_cols = [
 def build_region_features(jurisdiction):
     return {"REG_British_Columbia": 1}
 
+#Historie laden
+df_history = load_history_bc()
 
 # Finalisierung
-
 def build_model_input(
     target_date,
     daily_weather_df,
@@ -133,16 +138,6 @@ def build_model_input(
     return X_pred
 
 
-def load_history_bc():
-    df = pd.DataFrame({
-        "Year": [2025, 2025, 2025],
-        "Month": [10, 11, 12],
-        "Jurisdiction": ["British Columbia"] * 3,
-        "Number_fires": [12, 5, 2]  # Dummy-Werte
-    })
-    return df
-
-
 if __name__ == "__main__":
     # 1) Wetter holen (10 Tage)
     daily_df = fetch_weather_daily(
@@ -151,9 +146,6 @@ if __name__ == "__main__":
         start_date="2026-01-01",
         end_date="2026-01-10"
     )
-
-    # 2) Historie laden (Dummy)
-    df_history = load_history_bc()
 
     # 3) Model-Input bauen
     X_pred = build_model_input(
@@ -168,7 +160,12 @@ if __name__ == "__main__":
     print("\nNaNs:")
     print(X_pred.isna().sum())
 
-    # --- Feature-Reihenfolge erzwingen ---
+    # Fehlende Spalten ergänzen
+    for col in training_features:
+        if col not in X_pred.columns:
+            X_pred[col] = 0
+
+    # Exakte Reihenfolge erzwingen
     X_pred = X_pred[training_features]
 
     # --- Imputer anwenden ---
