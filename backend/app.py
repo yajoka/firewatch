@@ -7,10 +7,13 @@ import requests_cache
 from retry_requests import retry
 import joblib
 from fastapi import FastAPI
+from provinces import PROVINCES
 
 # Historie einmal laden
-def load_history_bc():
-    return pd.read_csv("fires_history_bc_clean.csv")
+def load_history():
+    return pd.read_csv("fires_history_all_clean.csv")
+
+df_history = load_history()
 
 app = FastAPI()
 
@@ -73,24 +76,6 @@ def fetch_weather_daily_single(lat, lon, start_date, end_date):
 
     return df
 
-def fetch_weather_daily_bc(start_date, end_date):
-    dfs = []
-
-    for c in BC_COORDS:
-        df = fetch_weather_daily_single(
-            lat=c["lat"],
-            lon=c["lon"],
-            start_date=start_date,
-            end_date=end_date
-        )
-        dfs.append(df)
-
-    # Stack & Mittelwert pro Tag
-    df_all = pd.concat(dfs)
-    df_mean = df_all.groupby(df_all.index).mean()
-
-    return df_mean
-
 def build_weather_features(daily_df):
     return {
         "temperature_2m_mean (°C)": daily_df["temperature_2m_mean"].mean(),
@@ -98,18 +83,23 @@ def build_weather_features(daily_df):
         "et0_fao_evapotranspiration (mm)": daily_df["et0_fao_evapotranspiration"].mean(),
     }
 
+@app.get("/debug-weather")
+def debug_weather(
+    province: str = "British Columbia",
+    days: int = 10
+):
+    province_cfg = PROVINCES[province]
 
-@app.get("/debug-weather")
-@app.get("/debug-weather")
-def debug_weather(days: int = 10):
-    daily_df = fetch_weather_daily_bc(
+    daily_df = fetch_weather_daily_province(
+        coords=province_cfg["coords"],
         start_date=date.today().isoformat(),
         end_date=(date.today() + timedelta(days=days)).isoformat()
     )
 
     return {
+        "province": province,
         "days": days,
-        "weather_preview": daily_df.head().to_dict()
+        "weather_stats": daily_df.describe().to_dict()
     }
 
 
@@ -146,12 +136,12 @@ def build_history_features(df_history, jurisdiction):
         "RollSum_12": nf.tail(12).sum(),
     }
 
-reg_cols = [
-    "REG_British_Columbia"
-]
-
 def build_region_features(jurisdiction):
-    return {"REG_British Columbia": 1}
+    features = {col: 0 for col in training_features if col.startswith("REG_")}
+    key = f"REG_{jurisdiction}"
+    if key in features:
+        features[key] = 1
+    return features
 
 # Finalisierung
 def build_model_input(
@@ -170,28 +160,57 @@ def build_model_input(
     X_pred = pd.DataFrame([data])
     return X_pred
 
-#Historie laden
-df_history = load_history_bc()
-
 df_history["Year"] = df_history["Year"].astype(int)
 df_history["Month"] = df_history["Month"].astype(int)
 
+def fetch_weather_daily_province(coords, start_date, end_date):
+    """
+    Holt tägliche Wetterdaten für mehrere Koordinaten
+    und bildet den Mittelwert pro Tag.
+    """
+    dfs = []
+
+    for c in coords:
+        df = fetch_weather_daily_single(
+            lat=c["lat"],
+            lon=c["lon"],
+            start_date=start_date,
+            end_date=end_date
+        )
+        dfs.append(df)
+
+    # Alle Punkte untereinander stacken
+    df_all = pd.concat(dfs)
+
+    # Mittelwert pro Tag (Index = Tag)
+    df_mean = df_all.groupby(df_all.index).mean()
+
+    return df_mean
 #Frontend Integration
 @app.get("/predict")
-def predict(days: int = 10):
-    daily_df = fetch_weather_daily_bc(
+def predict(
+    province: str = "British Columbia",
+    days: int = 10
+):
+    # 🔹 Provinz-Konfiguration holen
+    province_cfg = PROVINCES[province]
+
+    # 🔹 Wetterdaten (Multi-Point!)
+    daily_df = fetch_weather_daily_province(
+        coords=province_cfg["coords"],
         start_date=date.today().isoformat(),
         end_date=(date.today() + timedelta(days=days)).isoformat()
     )
 
+    # 🔹 Model-Input bauen
     X_pred = build_model_input(
         target_date=date.today(),
         daily_weather_df=daily_df,
         df_history=df_history,
-        jurisdiction="British Columbia"
+        jurisdiction=province_cfg["jurisdiction"]
     )
 
-    # Alignment
+    # 🔹 Feature-Alignment
     for col in training_features:
         if col not in X_pred.columns:
             X_pred[col] = 0
@@ -201,93 +220,14 @@ def predict(days: int = 10):
     if imputer is not None:
         X_pred[:] = imputer.transform(X_pred)
 
+    # 🔹 Vorhersage
     monthly_pred = float(model.predict(X_pred)[0])
     scaled_pred = monthly_pred * (days / 30)
 
     return {
-        "jurisdiction": "British Columbia",
+        "province": province,
         "days": days,
         "monthly_prediction": round(monthly_pred, 1),
         "days_prediction": round(scaled_pred, 1)
     }
 
-if __name__ == "__main__":
-    # 1) Wetter holen (10 Tage)
-    daily_df = fetch_weather_daily_bc(
-        start_date="2026-01-01",
-        end_date="2026-01-10"
-    )
-
-    # 3) Model-Input bauen
-    X_pred = build_model_input(
-        target_date=date(2026, 1, 21),
-        daily_weather_df=daily_df,
-        df_history=df_history,
-        jurisdiction="British Columbia"
-    )
-
-    X_pred = X_pred.drop(columns=["REG_British_Columbia"], errors="ignore")
-
-
-
-    print("\nCOLUMNS BEFORE ALIGNMENT:")
-    print(X_pred.columns.tolist())
-
-    print("\nTRAINING FEATURES:")
-    print(training_features)
-    # Fehlende Spalten ergänzen
-    missing = set(training_features) - set(X_pred.columns)
-
-    for col in missing:
-        X_pred[col] = 0
-
-    print("\nCOLUMNS AFTER ALIGNMENT:")
-    print(X_pred.columns.tolist())
-
-    print("\nFINAL CHECK LAGS:")
-    print(X_pred[["Lag_1", "Lag_2", "Lag_3"]])
-
-    # Exakte Reihenfolge erzwingen
-    X_pred = X_pred[training_features]
-
-    print("\nBEFORE IMPUTER")
-    print(X_pred[["Lag_1", "Lag_2", "Lag_3"]])
-
-    # --- Imputer anwenden ---
-    if imputer is not None:
-        X_pred[:] = X_pred.where(~X_pred.isna(), imputer.transform(X_pred))
-
-    print("\nAFTER IMPUTER")
-    print(X_pred[["Lag_1", "Lag_2", "Lag_3"]])
-
-    print("\nFINAL MODEL INPUT – LAGS & ROLLING:")
-    print(
-        X_pred[[
-            "Lag_1", "Lag_2", "Lag_3",
-            "RollMean_3", "RollMean_6", "RollMean_12",
-            "RollSum_6", "RollSum_12"
-        ]]
-    )
-    print("\nNaNs:")
-    print(X_pred.isna().sum())
-
-    # --- Vorhersage ---
-    prediction = model.predict(X_pred)
-
-    # --- 10-Tage-Skalierung ---
-    days_in_month = 31
-    pred_10_days = prediction[0] * (10 / days_in_month)
-
-    print("\nMONATS-PROGNOSE:", prediction[0])
-    print("10-TAGE-PROGNOSE:", pred_10_days)
-
-    print("\nDEBUG WEATHER (BC MEAN):")
-    print(daily_df.describe())
-
-    df_single = fetch_weather_daily_single(
-        52.15, -122.15,
-        "2026-01-01",
-        "2026-01-10"
-    )
-    print("\nDEBUG WEATHER (SINGLE):")
-    print(df_single.describe())
