@@ -1,23 +1,27 @@
 from gettext import install
 import numpy as np
-from datetime import date
+from datetime import date, timedelta
 import openmeteo_requests
 import pandas as pd
 import requests_cache
 from retry_requests import retry
 import joblib
-
 from fastapi import FastAPI
 
 # Historie einmal laden
 def load_history_bc():
-    return pd.read_csv("fires_history_bc.csv")
+    return pd.read_csv("fires_history_bc_clean.csv")
+
 app = FastAPI()
 
 # --- Modell-Artefakte beim Serverstart laden ---
 model = joblib.load("xgboost_final_model.joblib")
 training_features = joblib.load("xgboost_features.joblib")
-imputer = joblib.load("imputer.joblib")
+try:
+    imputer = joblib.load("imputer.joblib")
+except FileNotFoundError:
+    imputer = None
+    print("⚠️ imputer.joblib nicht gefunden – Imputation wird übersprungen (nur ok, wenn Training ohne NaNs robust war)")
 
 
 def build_time_features(target_date):
@@ -34,6 +38,14 @@ def build_time_features(target_date):
 cache_session = requests_cache.CachedSession('.cache', expire_after=3600)
 retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
 openmeteo = openmeteo_requests.Client(session=retry_session)
+
+#Koordinaten für Durchschnittsbildung
+BC_COORDS = [
+    {"name": "Cariboo", "lat": 52.15, "lon": -122.15},
+    {"name": "Okanagan", "lat": 49.80, "lon": -119.60},
+    {"name": "Peace River", "lat": 56.30, "lon": -121.00},
+]
+
 
 def fetch_weather_daily(lat, lon, start_date, end_date):
     url = "https://api.open-meteo.com/v1/forecast"
@@ -84,6 +96,12 @@ def debug_weather():
 
 
 def build_history_features(df_history, jurisdiction):
+    df_j = df_history[df_history["Jurisdiction"] == jurisdiction]
+
+    # 🔍 DEBUG – HIER
+    print("\nDEBUG: letzte 15 historische Monate")
+    print(df_j.sort_values(["Year", "Month"]).tail(15))
+
     df = (
         df_history[df_history["Jurisdiction"] == jurisdiction]
         .sort_values(["Year", "Month"])
@@ -115,10 +133,7 @@ reg_cols = [
 ]
 
 def build_region_features(jurisdiction):
-    return {"REG_British_Columbia": 1}
-
-#Historie laden
-df_history = load_history_bc()
+    return {"REG_British Columbia": 1}
 
 # Finalisierung
 def build_model_input(
@@ -137,6 +152,48 @@ def build_model_input(
     X_pred = pd.DataFrame([data])
     return X_pred
 
+#Historie laden
+df_history = load_history_bc()
+
+df_history["Year"] = df_history["Year"].astype(int)
+df_history["Month"] = df_history["Month"].astype(int)
+
+#Frontend Integration
+@app.get("/predict")
+def predict(days: int = 10):
+    daily_df = fetch_weather_daily(
+        lat=52.15,
+        lon=-122.15,
+        start_date=date.today().isoformat(),
+        end_date=(date.today() + timedelta(days=days)).isoformat()
+    )
+
+    X_pred = build_model_input(
+        target_date=date.today(),
+        daily_weather_df=daily_df,
+        df_history=df_history,
+        jurisdiction="British Columbia"
+    )
+
+    # Alignment
+    for col in training_features:
+        if col not in X_pred.columns:
+            X_pred[col] = 0
+
+    X_pred = X_pred[training_features]
+
+    if imputer is not None:
+        X_pred[:] = imputer.transform(X_pred)
+
+    monthly_pred = float(model.predict(X_pred)[0])
+    scaled_pred = monthly_pred * (days / 30)
+
+    return {
+        "jurisdiction": "British Columbia",
+        "days": days,
+        "monthly_prediction": round(monthly_pred, 1),
+        "days_prediction": round(scaled_pred, 1)
+    }
 
 if __name__ == "__main__":
     # 1) Wetter holen (10 Tage)
@@ -155,21 +212,50 @@ if __name__ == "__main__":
         jurisdiction="British Columbia"
     )
 
-    print("\nFINAL MODEL INPUT")
-    print(X_pred)
-    print("\nNaNs:")
-    print(X_pred.isna().sum())
+    X_pred = X_pred.drop(columns=["REG_British_Columbia"], errors="ignore")
 
+
+
+    print("\nCOLUMNS BEFORE ALIGNMENT:")
+    print(X_pred.columns.tolist())
+
+    print("\nTRAINING FEATURES:")
+    print(training_features)
     # Fehlende Spalten ergänzen
-    for col in training_features:
-        if col not in X_pred.columns:
-            X_pred[col] = 0
+    missing = set(training_features) - set(X_pred.columns)
+
+    for col in missing:
+        X_pred[col] = 0
+
+    print("\nCOLUMNS AFTER ALIGNMENT:")
+    print(X_pred.columns.tolist())
+
+    print("\nFINAL CHECK LAGS:")
+    print(X_pred[["Lag_1", "Lag_2", "Lag_3"]])
 
     # Exakte Reihenfolge erzwingen
     X_pred = X_pred[training_features]
 
+    print("\nBEFORE IMPUTER")
+    print(X_pred[["Lag_1", "Lag_2", "Lag_3"]])
+
     # --- Imputer anwenden ---
-    X_pred[:] = imputer.transform(X_pred)
+    if imputer is not None:
+        X_pred[:] = X_pred.where(~X_pred.isna(), imputer.transform(X_pred))
+
+    print("\nAFTER IMPUTER")
+    print(X_pred[["Lag_1", "Lag_2", "Lag_3"]])
+
+    print("\nFINAL MODEL INPUT – LAGS & ROLLING:")
+    print(
+        X_pred[[
+            "Lag_1", "Lag_2", "Lag_3",
+            "RollMean_3", "RollMean_6", "RollMean_12",
+            "RollSum_6", "RollSum_12"
+        ]]
+    )
+    print("\nNaNs:")
+    print(X_pred.isna().sum())
 
     # --- Vorhersage ---
     prediction = model.predict(X_pred)
