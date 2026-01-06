@@ -1,0 +1,75 @@
+import streamlit as st
+import requests
+import pandas as pd
+
+# -------------------------------
+# Seitentitel
+# -------------------------------
+st.set_page_config(page_title="🔥 FireWatch Dashboard", layout="centered")
+st.title("🔥 FireWatch – Wildfire Prognose")
+st.markdown("Vorhersage der erwarteten Waldbrände in **British Columbia**")
+
+# -------------------------------
+# User Input
+# -------------------------------
+days = st.slider(
+    "Prognose-Zeitraum (Tage)",
+    min_value=5,
+    max_value=16,
+    value=10,
+    step=1
+)
+st.caption("ℹ️ Die Prognose ist aufgrund der Wetter-API auf maximal 16 Tage begrenzt.")
+# -------------------------------
+# API Call
+# -------------------------------
+if st.button("Prognose berechnen"):
+    try:
+        response = requests.get(
+            "http://127.0.0.1:8000/predict",
+            params={"days": days},
+            timeout=10
+        )
+        response.raise_for_status()
+        data = response.json()
+
+        # -------------------------------
+        # KPI Anzeige
+        # -------------------------------
+        st.subheader("📊 Prognose")
+
+        col1, col2 = st.columns(2)
+        col1.metric(
+            label=f"🔥 Erwartete Brände ({days} Tage)",
+            value=data["days_prediction"]
+        )
+        col2.metric(
+            label="📅 Monatliche Prognose",
+            value=data["monthly_prediction"]
+        )
+
+        # -------------------------------
+        # Diagramm
+        # -------------------------------
+        df_plot = pd.DataFrame({
+            "Zeitraum": ["10 Tage", "Monat"],
+            "Erwartete Brände": [
+                data["days_prediction"],
+                data["monthly_prediction"]
+            ]
+        })
+
+        st.subheader("📈 Vergleich")
+        st.bar_chart(df_plot.set_index("Zeitraum"))
+
+        # -------------------------------
+        # Karte (optional)
+        # -------------------------------
+        st.subheader("🗺️ Region")
+        st.map(pd.DataFrame({
+            "lat": [52.15],
+            "lon": [-122.15]
+        }))
+
+    except Exception as e:
+        st.error(f"Fehler beim Abrufen der Prognose: {e}")
