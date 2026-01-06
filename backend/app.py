@@ -47,7 +47,7 @@ BC_COORDS = [
 ]
 
 
-def fetch_weather_daily(lat, lon, start_date, end_date):
+def fetch_weather_daily_single(lat, lon, start_date, end_date):
     url = "https://api.open-meteo.com/v1/forecast"
     params = {
         "latitude": lat,
@@ -73,6 +73,24 @@ def fetch_weather_daily(lat, lon, start_date, end_date):
 
     return df
 
+def fetch_weather_daily_bc(start_date, end_date):
+    dfs = []
+
+    for c in BC_COORDS:
+        df = fetch_weather_daily_single(
+            lat=c["lat"],
+            lon=c["lon"],
+            start_date=start_date,
+            end_date=end_date
+        )
+        dfs.append(df)
+
+    # Stack & Mittelwert pro Tag
+    df_all = pd.concat(dfs)
+    df_mean = df_all.groupby(df_all.index).mean()
+
+    return df_mean
+
 def build_weather_features(daily_df):
     return {
         "temperature_2m_mean (°C)": daily_df["temperature_2m_mean"].mean(),
@@ -82,17 +100,17 @@ def build_weather_features(daily_df):
 
 
 @app.get("/debug-weather")
-def debug_weather():
-    daily_df = fetch_weather_daily(
-        lat=52.15,
-        lon=-122.15,
-        start_date="2026-01-01",
-        end_date="2026-01-10"
+@app.get("/debug-weather")
+def debug_weather(days: int = 10):
+    daily_df = fetch_weather_daily_bc(
+        start_date=date.today().isoformat(),
+        end_date=(date.today() + timedelta(days=days)).isoformat()
     )
 
-    weather_features = build_weather_features(daily_df)
-
-    return weather_features
+    return {
+        "days": days,
+        "weather_preview": daily_df.head().to_dict()
+    }
 
 
 def build_history_features(df_history, jurisdiction):
@@ -161,9 +179,7 @@ df_history["Month"] = df_history["Month"].astype(int)
 #Frontend Integration
 @app.get("/predict")
 def predict(days: int = 10):
-    daily_df = fetch_weather_daily(
-        lat=52.15,
-        lon=-122.15,
+    daily_df = fetch_weather_daily_bc(
         start_date=date.today().isoformat(),
         end_date=(date.today() + timedelta(days=days)).isoformat()
     )
@@ -197,9 +213,7 @@ def predict(days: int = 10):
 
 if __name__ == "__main__":
     # 1) Wetter holen (10 Tage)
-    daily_df = fetch_weather_daily(
-        lat=52.15,
-        lon=-122.15,
+    daily_df = fetch_weather_daily_bc(
         start_date="2026-01-01",
         end_date="2026-01-10"
     )
@@ -266,3 +280,14 @@ if __name__ == "__main__":
 
     print("\nMONATS-PROGNOSE:", prediction[0])
     print("10-TAGE-PROGNOSE:", pred_10_days)
+
+    print("\nDEBUG WEATHER (BC MEAN):")
+    print(daily_df.describe())
+
+    df_single = fetch_weather_daily_single(
+        52.15, -122.15,
+        "2026-01-01",
+        "2026-01-10"
+    )
+    print("\nDEBUG WEATHER (SINGLE):")
+    print(df_single.describe())

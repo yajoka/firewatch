@@ -65,11 +65,15 @@ if st.button("Prognose berechnen"):
         # -------------------------------
         # Karte (optional)
         # -------------------------------
-        st.subheader("🗺️ Region")
-        st.map(pd.DataFrame({
-            "lat": [52.15],
-            "lon": [-122.15]
-        }))
+        st.subheader("🗺️ Verwendete Wetter-Hotspots in British Columbia")
+
+        map_df = pd.DataFrame({
+            "Region": ["Cariboo", "Okanagan", "Peace River"],
+            "lat": [52.15, 49.80, 56.30],
+            "lon": [-122.15, -119.60, -121.00]
+        })
+
+        st.map(map_df)
 
     except Exception as e:
         st.error(f"Fehler beim Abrufen der Prognose: {e}")
