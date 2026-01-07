@@ -16,6 +16,6 @@ sleep 2
 # Frontend starten
 osascript <<EOF
 tell application "Terminal"
-    do script "cd \"$PROJECT_DIR/dashboard" && streamlit run dashboard/dashboard_risk.py"
+    do script "cd \"$PROJECT_DIR/dashboard\" && streamlit run dashboard_risk.py"
 end tell
 EOF
