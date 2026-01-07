@@ -10,7 +10,7 @@ from provinces import PROVINCES
 # =====================================================
 
 API_URL = "http://127.0.0.1:8000/predict"
-HISTORY_CSV = "../backend/fires_history_all_clean.csv"
+HISTORY_CSV = "../backend/fires_history_all_clean_fixed.csv"
 
 st.set_page_config(
     page_title="🔥 Firewatch – Monatsprognose",
@@ -108,24 +108,41 @@ df_hist_prov = df_history[
     (df_history["Month"] == current_month)
 ]
 
-mean_hist = df_hist_prov["Number_fires"].mean()
-median_hist = df_hist_prov["Number_fires"].median()
-p90 = np.percentile(df_hist_prov["Number_fires"], 90)
+if df_hist_prov.empty:
+    mean_hist = median_hist = p90 = None
+    hist_status = "no_data"
+else:
+    values = df_hist_prov["Number_fires"].values
+    mean_hist = float(np.mean(values))
+    median_hist = float(np.median(values))
+    p90 = float(np.percentile(values, 90)) if np.any(values > 0) else 0.0
+    hist_status = "ok"
 
 col1, col2, col3 = st.columns(3)
 
-col1.metric("📈 Historischer Mittelwert", round(mean_hist, 1))
-col2.metric("📊 Median", round(median_hist, 1))
-col3.metric("🔺 90. Perzentil", round(p90, 1))
+if hist_status == "no_data":
+    col1.metric("📈 Historischer Mittelwert", "–")
+    col2.metric("📊 Median", "–")
+    col3.metric("🔺 90. Perzentil", "–")
+    st.info(
+        "ℹ️ Für diese Provinz liegen für diesen Monat keine historischen Branddaten vor."
+    )
+else:
+    col1.metric("📈 Historischer Mittelwert", round(mean_hist, 1))
+    col2.metric("📊 Median", round(median_hist, 1))
+    col3.metric("🔺 90. Perzentil", round(p90, 1))
 
 # =====================================================
 # 🔹 Visualisierung
 # =====================================================
 
-st.line_chart(
-    df_hist_prov.set_index("Year")["Number_fires"],
-    height=300
-)
+if not df_hist_prov.empty:
+    st.line_chart(
+        df_hist_prov.set_index("Year")["Number_fires"],
+        height=300
+    )
+else:
+    st.caption("Keine historischen Daten für diesen Monat verfügbar.")
 
 st.caption(
     "Historische Anzahl an Bränden im gleichen Monat (alle Jahre)"
@@ -135,7 +152,9 @@ st.caption(
 # 🔹 Einordnung
 # =====================================================
 
-if monthly_prediction < mean_hist:
+if hist_status == "no_data":
+    level = "⚪ Keine historische Einordnung möglich"
+elif monthly_prediction < mean_hist:
     level = "🟢 Unterdurchschnittlich"
 elif monthly_prediction < p90:
     level = "🟠 Überdurchschnittlich"
@@ -143,14 +162,24 @@ else:
     level = "🔴 Sehr hoch"
 
 st.subheader("🧭 Einordnung")
-st.markdown(
-    f"""
+if hist_status == "no_data":
+    st.markdown(
+        f"""
+**Prognose:** {monthly_prediction} Brände  
+
+➡️ **Einstufung:** {level}  
+ℹ️ Für diesen Monat liegen keine historischen Vergleichsdaten vor.
+"""
+    )
+else:
+    st.markdown(
+        f"""
 **Prognose:** {monthly_prediction} Brände  
 **Historischer Mittelwert:** {mean_hist:.1f}  
 
 ➡️ **Einstufung:** {level}
 """
-)
+    )
 
 # =====================================================
 # 🔹 Karte – verwendete Koordinaten
