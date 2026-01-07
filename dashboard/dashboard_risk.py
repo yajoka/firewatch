@@ -1,106 +1,59 @@
 import streamlit as st
 import requests
-import pandas as pd
 from provinces import PROVINCES
 
 API_URL = "http://127.0.0.1:8000/risk"
 
-st.set_page_config(
-    page_title="🔥 Fire Risk Dashboard",
-    layout="wide"
-)
+st.set_page_config(page_title="🔥 Fire Risk Dashboard", layout="centered")
 
+st.title("🔥 Wildfire Risk Dashboard")
 
-
-# --------------------------------------------------
-# Sidebar
-# --------------------------------------------------
-st.sidebar.title("⚙️ Einstellungen")
-
-province = st.sidebar.selectbox(
+province = st.selectbox(
     "Provinz auswählen",
-    list(PROVINCES.keys())
+    list(PROVINCES.keys()),
+    index=0
 )
 
-days = st.sidebar.slider(
-    "Zeitraum (Tage)",
-    1, 16, 10
+days = st.slider(
+    "Prognosezeitraum (Tage)",
+    min_value=1,
+    max_value=16,
+    value=10
 )
 
-# --------------------------------------------------
-# API Call
-# --------------------------------------------------
-try:
-    r = requests.get(
-        API_URL,
-        params={"province": province, "days": days},
-        timeout=30
-    )
-    r.raise_for_status()
-    data = r.json()
-except Exception as e:
-    st.error(f"Fehler beim Abrufen der Prognose: {e}")
-    st.stop()
+if st.button("🔥 Risiko berechnen"):
+    try:
+        r = requests.get(
+            API_URL,
+            params={"province": province, "days": days},
+            timeout=30
+        )
+        r.raise_for_status()
+        data = r.json()
 
-# --------------------------------------------------
-# Header
-# --------------------------------------------------
-st.title("🔥 Fire Risk Dashboard – Kanada")
-st.caption(f"Aktuelle saisonale Risikoanalyse für **{province}**")
+        st.subheader(f"📍 {province}")
 
-# --------------------------------------------------
-# KPIs
-# --------------------------------------------------
-c1, c2, c3 = st.columns(3)
+        col1, col2, col3 = st.columns(3)
 
-c1.metric(
-    "🔥 Fire Index",
-    f"{data['fire_index']} / 100"
-)
+        col1.metric(
+            "🔥 Monatsprognose",
+            f"{data['monthly_prediction']} Brände"
+        )
 
-c2.metric(
-    "📊 Historischer Rang",
-    f"{data['percentile']} %"
-)
+        col2.metric(
+            "🔥 Fire Index",
+            f"{data['fire_index']} / 100"
+        )
 
-risk_labels = {
-    "low": "🟢 Niedrig",
-    "moderate": "🟡 Moderat",
-    "high": "🟠 Hoch",
-    "extreme": "🔴 Extrem",
-}
+        col3.metric(
+            "⚠️ Risiko-Level",
+            data["risk_level"].upper()
+        )
 
-c3.metric(
-    "⚠️ Risiko-Level",
-    risk_labels[data["risk_level"]]
-)
+        st.caption(
+            "Fire Index = Vergleich der Modellprognose "
+            "mit historischen Werten desselben Monats (30 Jahre)."
+        )
 
-# --------------------------------------------------
-# Erklärung
-# --------------------------------------------------
-with st.expander("ℹ️ Wie ist der Fire Index zu interpretieren?"):
-    st.markdown("""
-Der **Fire Index (0–100)** misst,  
-wie **ungewöhnlich brandfördernd** die aktuellen Wetterbedingungen sind –  
-**relativ zur historischen Saison** derselben Provinz.
-
-- **< 25** → ungewöhnlich ruhig  
-- **25–50** → saisonal normal  
-- **50–75** → erhöhtes Risiko  
-- **> 75** → historisch seltene Bedingungen  
-
-⚠️ **Risiko ≠ Anzahl der Brände**
-""")
-
-# --------------------------------------------------
-# Karte
-# --------------------------------------------------
-st.markdown("---")
-st.subheader(f"🗺️ Verwendete Wetter-Hotspots in {province}")
-
-coords_df = pd.DataFrame(PROVINCES[province]["coords"])
-st.map(coords_df.rename(columns={"lat": "latitude", "lon": "longitude"}))
-
-st.caption(
-    "Die Analyse basiert auf dem Mittelwert mehrerer feuerrelevanter Regionen pro Provinz."
-)
+    except Exception as e:
+        st.error(f"Fehler beim Abrufen der Prognose: {e}")
