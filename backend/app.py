@@ -20,12 +20,6 @@ app = FastAPI()
 # --- Modell-Artefakte beim Serverstart laden ---
 model = joblib.load("xgboost_final_model.joblib")
 training_features = joblib.load("xgboost_features.joblib")
-try:
-    imputer = joblib.load("imputer.joblib")
-except FileNotFoundError:
-    imputer = None
-    print("⚠️ imputer.joblib nicht gefunden – Imputation wird übersprungen (nur ok, wenn Training ohne NaNs robust war)")
-
 
 def build_time_features(target_date):
     year = target_date.year
@@ -102,38 +96,36 @@ def debug_weather(
         "weather_stats": daily_df.describe().to_dict()
     }
 
-
-def build_history_features(df_history, jurisdiction):
-    df_j = df_history[df_history["Jurisdiction"] == jurisdiction]
-
-    # 🔍 DEBUG – HIER
-    print("\nDEBUG: letzte 15 historische Monate")
-    print(df_j.sort_values(["Year", "Month"]).tail(15))
-
+def build_history_features(df_history, jurisdiction, target_month):
     df = (
         df_history[df_history["Jurisdiction"] == jurisdiction]
         .sort_values(["Year", "Month"])
-        .tail(12)   # max. Fenster
     )
 
-    nf = df["Number_fires"]
+    # 🔹 Winterlogik
+    if target_month in [12, 1, 2]:
+        df_season = df[df["Month"].isin([12, 1, 2])]
+    else:
+        df_season = df
+
+    df_season = df_season.tail(3)
+    nf = df_season["Number_fires"].values
+
+    if len(nf) < 3:
+        return {
+            "Lag_1": 0.0,
+            "Lag_2": 0.0,
+            "Lag_3": 0.0,
+            "RollMean_3": 0.0,
+            "RollSum_3": 0.0,
+        }
 
     return {
-        "Lag_1": nf.iloc[-1],
-        "Lag_2": nf.iloc[-2],
-        "Lag_3": nf.iloc[-3],
-
-        "RollMean_3": nf.tail(3).mean(),
-        "RollMean_6": nf.tail(6).mean(),
-        "RollMean_12": nf.tail(12).mean(),
-
-        "RollStd_3": nf.tail(3).std(),
-        "RollStd_6": nf.tail(6).std(),
-        "RollStd_12": nf.tail(12).std(),
-
-        "RollSum_3": nf.tail(3).sum(),
-        "RollSum_6": nf.tail(6).sum(),
-        "RollSum_12": nf.tail(12).sum(),
+        "Lag_1": float(nf[-1]),
+        "Lag_2": float(nf[-2]),
+        "Lag_3": float(nf[-3]),
+        "RollMean_3": float(np.mean(nf)),
+        "RollSum_3": float(np.sum(nf)),
     }
 
 def build_region_features(jurisdiction):
@@ -154,7 +146,13 @@ def build_model_input(
 
     data.update(build_time_features(target_date))
     data.update(build_weather_features(daily_weather_df))
-    data.update(build_history_features(df_history, jurisdiction))
+    data.update(
+        build_history_features(
+            df_history,
+            jurisdiction,
+            target_date.month
+        )
+    )
     data.update(build_region_features(jurisdiction))
 
     X_pred = pd.DataFrame([data])
@@ -216,9 +214,6 @@ def predict(
             X_pred[col] = 0
 
     X_pred = X_pred[training_features]
-
-    if imputer is not None:
-        X_pred[:] = imputer.transform(X_pred)
 
     # 🔹 Vorhersage
     monthly_pred = float(model.predict(X_pred)[0])
