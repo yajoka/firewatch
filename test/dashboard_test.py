@@ -7,26 +7,20 @@ import openmeteo_requests
 import requests_cache
 from retry_requests import retry
 
-# -----------------------------
-# 1) Dateien / Pfade
-# -----------------------------
 FINAL_DATA_PATH = "../data/final_data.csv"
-MODEL_PATH = "../models/xgboost_final_model_v3.joblib"
-FEATS_PATH = "../models/xgboost_features_v3.joblib"
+MODEL_PATH = "../models/xgboost_final_model.joblib"
+FEATS_PATH = "../models/xgboost_features.joblib"
 IMPUTER_PATH = "../backend/imputer.joblib"
 
-# -----------------------------
-# 2) Open-Meteo Setup
-# -----------------------------
+# ✅ Zielmonat festlegen
+TARGET_YEAR = 2026
+TARGET_MONTH = 1
+
 cache_session = requests_cache.CachedSession(".cache", expire_after=3600)
 retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
 openmeteo = openmeteo_requests.Client(session=retry_session)
 
-def next_month(y, m):
-    return (y + 1, 1) if m == 12 else (y, m + 1)
-
 def fetch_weather_last14d(lat, lon):
-    """Daily weather for last 14 days; return mean features."""
     end_d = date.today()
     start_d = (pd.Timestamp(end_d) - pd.Timedelta(days=14)).date()
 
@@ -109,11 +103,7 @@ def weather_lag1_from_last_row(last_row, training_features):
             out[col] = float(last_row.get(base, np.nan))
     return out
 
-# -----------------------------
-# 3) Main
-# -----------------------------
 def main():
-    # --- a) laden
     df = pd.read_csv(FINAL_DATA_PATH)
     df["Year"] = df["Year"].astype(int)
     df["Month"] = df["Month"].astype(int)
@@ -122,48 +112,48 @@ def main():
     feats = joblib.load(FEATS_PATH)
     imputer = joblib.load(IMPUTER_PATH)
 
-    # --- b) Einstellungen
     province = "British Columbia"
-    jurisdiction_raw = province  # in final_data.csv ist Jurisdiction_raw bei dir der Provinzname
-    lat, lon = 53.7267, -127.6476  # grob BC-Mittelpunkt (nur Demo)
+    jurisdiction_raw = province
 
-    # --- c) letzte historische Zeile pro Province
+    # Demo-Koordinate (besser: PROVINCES mapping nutzen)
+    lat, lon = 53.7267, -127.6476
+
     dfp = df[df["Jurisdiction_raw"] == jurisdiction_raw].sort_values(["Year", "Month"])
     if dfp.empty:
         raise ValueError("Keine Daten für diese Province in final_data.csv gefunden.")
 
-    last_row = dfp.iloc[-1]
-    last_year, last_month = int(last_row["Year"]), int(last_row["Month"])
-    pred_year, pred_month = next_month(last_year, last_month)
+    # ✅ History nur bis zum Vormonat des Zielmonats verwenden
+    cutoff = (TARGET_YEAR * 100 + TARGET_MONTH)
+    dfp_hist = dfp[(dfp["Year"] * 100 + dfp["Month"]) < cutoff].copy()
+    if dfp_hist["Number_fires"].dropna().empty:
+        raise ValueError("Keine historischen Brandwerte vor dem Zielmonat vorhanden.")
 
-    # --- d) Features bauen
+    last_row = dfp_hist.iloc[-1]
+
     data = {}
-    data.update(time_feats(pred_year, pred_month))
+    data.update(time_feats(TARGET_YEAR, TARGET_MONTH))
     data.update(region_onehot(jurisdiction_raw, feats))
-    data.update(build_fire_lag_rolling(dfp["Number_fires"]))
+    data.update(build_fire_lag_rolling(dfp_hist["Number_fires"]))
     data.update(fetch_weather_last14d(lat, lon))
     data.update(weather_lag1_from_last_row(last_row, feats))
 
     X = pd.DataFrame([data])
 
-    # fehlende Features auffüllen + Reihenfolge wie Training
     for c in feats:
         if c not in X.columns:
             X[c] = np.nan
     X = X[feats]
 
-    # Imputation
     num_cols = X.select_dtypes(include=["number"]).columns
     X.loc[:, num_cols] = imputer.transform(X.loc[:, num_cols])
 
-    # --- e) Vorhersage
     yhat = float(model.predict(X)[0])
 
     print("====================================")
-    print("1-Monat-Ahead Schätzung (mit Wetter)")
+    print("Forecast (fixer Zielmonat)")
     print("------------------------------------")
     print("Province:", province)
-    print("Forecast:", f"{pred_year}-{pred_month:02d}")
+    print("Target:", f"{TARGET_YEAR}-{TARGET_MONTH:02d}")
     print("Prediction (Number_fires):", round(yhat, 2))
     print("====================================")
 
