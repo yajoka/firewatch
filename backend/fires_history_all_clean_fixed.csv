@@ -1,0 +1,4753 @@
+Year,Month,Jurisdiction,Number_fires
+1990,1,Alberta,1
+1990,1,British Columbia,0
+1990,1,Manitoba,0
+1990,1,New Brunswick,0
+1990,1,Newfoundland and Labrador,0
+1990,1,Northwest Territories,0
+1990,1,Nova Scotia,0
+1990,1,Ontario,0
+1990,1,Prince Edward Island,0
+1990,1,Quebec,0
+1990,1,Saskatchewan,0
+1990,1,Yukon,0
+1990,2,Alberta,5
+1990,2,British Columbia,3
+1990,2,Manitoba,0
+1990,2,New Brunswick,0
+1990,2,Newfoundland and Labrador,0
+1990,2,Northwest Territories,0
+1990,2,Nova Scotia,0
+1990,2,Ontario,0
+1990,2,Prince Edward Island,0
+1990,2,Quebec,0
+1990,2,Saskatchewan,0
+1990,2,Yukon,0
+1990,3,Alberta,8
+1990,3,British Columbia,35
+1990,3,Manitoba,0
+1990,3,New Brunswick,1
+1990,3,Newfoundland and Labrador,2
+1990,3,Northwest Territories,0
+1990,3,Nova Scotia,34
+1990,3,Ontario,62
+1990,3,Prince Edward Island,0
+1990,3,Quebec,1
+1990,3,Saskatchewan,2
+1990,3,Yukon,0
+1990,4,Alberta,26
+1990,4,British Columbia,147
+1990,4,Manitoba,39
+1990,4,New Brunswick,42
+1990,4,Newfoundland and Labrador,5
+1990,4,Northwest Territories,0
+1990,4,Nova Scotia,89
+1990,4,Ontario,185
+1990,4,Prince Edward Island,7
+1990,4,Quebec,59
+1990,4,Saskatchewan,18
+1990,4,Yukon,3
+1990,5,Alberta,114
+1990,5,British Columbia,235
+1990,5,Manitoba,71
+1990,5,New Brunswick,71
+1990,5,Newfoundland and Labrador,19
+1990,5,Northwest Territories,10
+1990,5,Nova Scotia,134
+1990,5,Ontario,242
+1990,5,Prince Edward Island,13
+1990,5,Quebec,214
+1990,5,Saskatchewan,103
+1990,5,Yukon,15
+1990,6,Alberta,214
+1990,6,British Columbia,95
+1990,6,Manitoba,85
+1990,6,New Brunswick,100
+1990,6,Newfoundland and Labrador,36
+1990,6,Northwest Territories,98
+1990,6,Nova Scotia,58
+1990,6,Ontario,111
+1990,6,Prince Edward Island,8
+1990,6,Quebec,139
+1990,6,Saskatchewan,275
+1990,6,Yukon,19
+1990,7,Alberta,446
+1990,7,British Columbia,775
+1990,7,Manitoba,90
+1990,7,New Brunswick,114
+1990,7,Newfoundland and Labrador,29
+1990,7,Northwest Territories,113
+1990,7,Nova Scotia,74
+1990,7,Ontario,237
+1990,7,Prince Edward Island,6
+1990,7,Quebec,178
+1990,7,Saskatchewan,130
+1990,7,Yukon,69
+1990,8,Alberta,381
+1990,8,British Columbia,1563
+1990,8,Manitoba,176
+1990,8,New Brunswick,32
+1990,8,Newfoundland and Labrador,30
+1990,8,Northwest Territories,13
+1990,8,Nova Scotia,62
+1990,8,Ontario,543
+1990,8,Prince Edward Island,1
+1990,8,Quebec,138
+1990,8,Saskatchewan,314
+1990,8,Yukon,32
+1990,9,Alberta,117
+1990,9,British Columbia,336
+1990,9,Manitoba,51
+1990,9,New Brunswick,13
+1990,9,Newfoundland and Labrador,41
+1990,9,Northwest Territories,2
+1990,9,Nova Scotia,36
+1990,9,Ontario,185
+1990,9,Prince Edward Island,1
+1990,9,Quebec,118
+1990,9,Saskatchewan,45
+1990,9,Yukon,14
+1990,10,Alberta,34
+1990,10,British Columbia,60
+1990,10,Manitoba,36
+1990,10,New Brunswick,4
+1990,10,Newfoundland and Labrador,3
+1990,10,Northwest Territories,0
+1990,10,Nova Scotia,9
+1990,10,Ontario,31
+1990,10,Prince Edward Island,0
+1990,10,Quebec,4
+1990,10,Saskatchewan,10
+1990,10,Yukon,2
+1990,11,Alberta,16
+1990,11,British Columbia,6
+1990,11,Manitoba,13
+1990,11,New Brunswick,0
+1990,11,Newfoundland and Labrador,0
+1990,11,Northwest Territories,0
+1990,11,Nova Scotia,1
+1990,11,Ontario,16
+1990,11,Prince Edward Island,2
+1990,11,Quebec,0
+1990,11,Saskatchewan,0
+1990,11,Yukon,0
+1990,12,Alberta,4
+1990,12,British Columbia,0
+1990,12,Manitoba,1
+1990,12,New Brunswick,0
+1990,12,Newfoundland and Labrador,0
+1990,12,Northwest Territories,0
+1990,12,Nova Scotia,0
+1990,12,Ontario,0
+1990,12,Prince Edward Island,0
+1990,12,Quebec,0
+1990,12,Saskatchewan,0
+1990,12,Yukon,0
+1991,1,Alberta,9
+1991,1,British Columbia,2
+1991,1,Manitoba,5
+1991,1,New Brunswick,0
+1991,1,Newfoundland and Labrador,0
+1991,1,Northwest Territories,0
+1991,1,Nova Scotia,0
+1991,1,Ontario,0
+1991,1,Prince Edward Island,0
+1991,1,Quebec,0
+1991,1,Saskatchewan,2
+1991,1,Yukon,0
+1991,2,Alberta,4
+1991,2,British Columbia,5
+1991,2,Manitoba,3
+1991,2,New Brunswick,0
+1991,2,Newfoundland and Labrador,0
+1991,2,Northwest Territories,0
+1991,2,Nova Scotia,0
+1991,2,Ontario,0
+1991,2,Prince Edward Island,0
+1991,2,Quebec,0
+1991,2,Saskatchewan,0
+1991,2,Yukon,0
+1991,3,Alberta,8
+1991,3,British Columbia,25
+1991,3,Manitoba,12
+1991,3,New Brunswick,0
+1991,3,Newfoundland and Labrador,0
+1991,3,Northwest Territories,0
+1991,3,Nova Scotia,26
+1991,3,Ontario,12
+1991,3,Prince Edward Island,2
+1991,3,Quebec,1
+1991,3,Saskatchewan,1
+1991,3,Yukon,0
+1991,4,Alberta,111
+1991,4,British Columbia,204
+1991,4,Manitoba,109
+1991,4,New Brunswick,91
+1991,4,Newfoundland and Labrador,4
+1991,4,Northwest Territories,0
+1991,4,Nova Scotia,208
+1991,4,Ontario,210
+1991,4,Prince Edward Island,17
+1991,4,Quebec,64
+1991,4,Saskatchewan,79
+1991,4,Yukon,8
+1991,5,Alberta,201
+1991,5,British Columbia,193
+1991,5,Manitoba,75
+1991,5,New Brunswick,154
+1991,5,Newfoundland and Labrador,29
+1991,5,Northwest Territories,5
+1991,5,Nova Scotia,174
+1991,5,Ontario,231
+1991,5,Prince Edward Island,16
+1991,5,Quebec,220
+1991,5,Saskatchewan,127
+1991,5,Yukon,28
+1991,6,Alberta,114
+1991,6,British Columbia,291
+1991,6,Manitoba,77
+1991,6,New Brunswick,150
+1991,6,Newfoundland and Labrador,38
+1991,6,Northwest Territories,59
+1991,6,Nova Scotia,145
+1991,6,Ontario,415
+1991,6,Prince Edward Island,8
+1991,6,Quebec,408
+1991,6,Saskatchewan,75
+1991,6,Yukon,109
+1991,7,Alberta,125
+1991,7,British Columbia,296
+1991,7,Manitoba,142
+1991,7,New Brunswick,141
+1991,7,Newfoundland and Labrador,12
+1991,7,Northwest Territories,149
+1991,7,Nova Scotia,162
+1991,7,Ontario,586
+1991,7,Prince Edward Island,3
+1991,7,Quebec,318
+1991,7,Saskatchewan,111
+1991,7,Yukon,33
+1991,8,Alberta,239
+1991,8,British Columbia,573
+1991,8,Manitoba,222
+1991,8,New Brunswick,92
+1991,8,Newfoundland and Labrador,32
+1991,8,Northwest Territories,117
+1991,8,Nova Scotia,10
+1991,8,Ontario,944
+1991,8,Prince Edward Island,2
+1991,8,Quebec,162
+1991,8,Saskatchewan,272
+1991,8,Yukon,9
+1991,9,Alberta,54
+1991,9,British Columbia,172
+1991,9,Manitoba,21
+1991,9,New Brunswick,20
+1991,9,Newfoundland and Labrador,0
+1991,9,Northwest Territories,1
+1991,9,Nova Scotia,0
+1991,9,Ontario,138
+1991,9,Prince Edward Island,0
+1991,9,Quebec,32
+1991,9,Saskatchewan,48
+1991,9,Yukon,0
+1991,10,Alberta,66
+1991,10,British Columbia,248
+1991,10,Manitoba,6
+1991,10,New Brunswick,7
+1991,10,Newfoundland and Labrador,0
+1991,10,Northwest Territories,0
+1991,10,Nova Scotia,1
+1991,10,Ontario,11
+1991,10,Prince Edward Island,0
+1991,10,Quebec,6
+1991,10,Saskatchewan,31
+1991,10,Yukon,0
+1991,11,Alberta,6
+1991,11,British Columbia,5
+1991,11,Manitoba,0
+1991,11,New Brunswick,1
+1991,11,Newfoundland and Labrador,0
+1991,11,Northwest Territories,0
+1991,11,Nova Scotia,0
+1991,11,Ontario,12
+1991,11,Prince Edward Island,0
+1991,11,Quebec,5
+1991,11,Saskatchewan,14
+1991,11,Yukon,0
+1991,12,Alberta,7
+1991,12,British Columbia,0
+1991,12,Manitoba,0
+1991,12,New Brunswick,0
+1991,12,Newfoundland and Labrador,0
+1991,12,Northwest Territories,0
+1991,12,Nova Scotia,0
+1991,12,Ontario,1
+1991,12,Prince Edward Island,0
+1991,12,Quebec,0
+1991,12,Saskatchewan,2
+1991,12,Yukon,0
+1992,1,Alberta,14
+1992,1,British Columbia,6
+1992,1,Manitoba,0
+1992,1,New Brunswick,0
+1992,1,Newfoundland and Labrador,0
+1992,1,Northwest Territories,0
+1992,1,Nova Scotia,0
+1992,1,Ontario,0
+1992,1,Prince Edward Island,0
+1992,1,Quebec,0
+1992,1,Saskatchewan,0
+1992,1,Yukon,0
+1992,2,Alberta,11
+1992,2,British Columbia,2
+1992,2,Manitoba,1
+1992,2,New Brunswick,0
+1992,2,Newfoundland and Labrador,0
+1992,2,Northwest Territories,0
+1992,2,Nova Scotia,0
+1992,2,Ontario,0
+1992,2,Prince Edward Island,0
+1992,2,Quebec,0
+1992,2,Saskatchewan,0
+1992,2,Yukon,0
+1992,3,Alberta,61
+1992,3,British Columbia,70
+1992,3,Manitoba,1
+1992,3,New Brunswick,0
+1992,3,Newfoundland and Labrador,0
+1992,3,Northwest Territories,0
+1992,3,Nova Scotia,0
+1992,3,Ontario,2
+1992,3,Prince Edward Island,0
+1992,3,Quebec,0
+1992,3,Saskatchewan,3
+1992,3,Yukon,0
+1992,4,Alberta,110
+1992,4,British Columbia,155
+1992,4,Manitoba,7
+1992,4,New Brunswick,50
+1992,4,Newfoundland and Labrador,2
+1992,4,Northwest Territories,0
+1992,4,Nova Scotia,43
+1992,4,Ontario,58
+1992,4,Prince Edward Island,7
+1992,4,Quebec,44
+1992,4,Saskatchewan,50
+1992,4,Yukon,0
+1992,5,Alberta,91
+1992,5,British Columbia,243
+1992,5,Manitoba,76
+1992,5,New Brunswick,345
+1992,5,Newfoundland and Labrador,47
+1992,5,Northwest Territories,9
+1992,5,Nova Scotia,138
+1992,5,Ontario,347
+1992,5,Prince Edward Island,14
+1992,5,Quebec,405
+1992,5,Saskatchewan,103
+1992,5,Yukon,9
+1992,6,Alberta,147
+1992,6,British Columbia,705
+1992,6,Manitoba,45
+1992,6,New Brunswick,78
+1992,6,Newfoundland and Labrador,15
+1992,6,Northwest Territories,31
+1992,6,Nova Scotia,46
+1992,6,Ontario,380
+1992,6,Prince Edward Island,3
+1992,6,Quebec,180
+1992,6,Saskatchewan,151
+1992,6,Yukon,26
+1992,7,Alberta,226
+1992,7,British Columbia,493
+1992,7,Manitoba,57
+1992,7,New Brunswick,24
+1992,7,Newfoundland and Labrador,13
+1992,7,Northwest Territories,130
+1992,7,Nova Scotia,19
+1992,7,Ontario,60
+1992,7,Prince Edward Island,0
+1992,7,Quebec,54
+1992,7,Saskatchewan,150
+1992,7,Yukon,72
+1992,8,Alberta,339
+1992,8,British Columbia,1803
+1992,8,Manitoba,102
+1992,8,New Brunswick,42
+1992,8,Newfoundland and Labrador,26
+1992,8,Northwest Territories,100
+1992,8,Nova Scotia,18
+1992,8,Ontario,94
+1992,8,Prince Edward Island,0
+1992,8,Quebec,59
+1992,8,Saskatchewan,215
+1992,8,Yukon,9
+1992,9,Alberta,14
+1992,9,British Columbia,197
+1992,9,Manitoba,5
+1992,9,New Brunswick,23
+1992,9,Newfoundland and Labrador,3
+1992,9,Northwest Territories,15
+1992,9,Nova Scotia,19
+1992,9,Ontario,8
+1992,9,Prince Edward Island,2
+1992,9,Quebec,14
+1992,9,Saskatchewan,18
+1992,9,Yukon,0
+1992,10,Alberta,29
+1992,10,British Columbia,126
+1992,10,Manitoba,4
+1992,10,New Brunswick,14
+1992,10,Newfoundland and Labrador,0
+1992,10,Northwest Territories,0
+1992,10,Nova Scotia,13
+1992,10,Ontario,11
+1992,10,Prince Edward Island,1
+1992,10,Quebec,7
+1992,10,Saskatchewan,7
+1992,10,Yukon,0
+1992,11,Alberta,15
+1992,11,British Columbia,4
+1992,11,Manitoba,0
+1992,11,New Brunswick,0
+1992,11,Newfoundland and Labrador,0
+1992,11,Northwest Territories,0
+1992,11,Nova Scotia,0
+1992,11,Ontario,0
+1992,11,Prince Edward Island,0
+1992,11,Quebec,2
+1992,11,Saskatchewan,2
+1992,11,Yukon,0
+1992,12,Alberta,4
+1992,12,British Columbia,1
+1992,12,Manitoba,0
+1992,12,New Brunswick,0
+1992,12,Newfoundland and Labrador,0
+1992,12,Northwest Territories,0
+1992,12,Nova Scotia,0
+1992,12,Ontario,0
+1992,12,Prince Edward Island,0
+1992,12,Quebec,0
+1992,12,Saskatchewan,0
+1992,12,Yukon,0
+1993,1,Alberta,8
+1993,1,British Columbia,3
+1993,1,Manitoba,0
+1993,1,New Brunswick,0
+1993,1,Newfoundland and Labrador,0
+1993,1,Northwest Territories,0
+1993,1,Nova Scotia,0
+1993,1,Ontario,0
+1993,1,Prince Edward Island,0
+1993,1,Quebec,0
+1993,1,Saskatchewan,2
+1993,1,Yukon,0
+1993,2,Alberta,12
+1993,2,British Columbia,16
+1993,2,Manitoba,0
+1993,2,New Brunswick,0
+1993,2,Newfoundland and Labrador,0
+1993,2,Northwest Territories,0
+1993,2,Nova Scotia,0
+1993,2,Ontario,0
+1993,2,Prince Edward Island,0
+1993,2,Quebec,0
+1993,2,Saskatchewan,1
+1993,2,Yukon,0
+1993,3,Alberta,29
+1993,3,British Columbia,34
+1993,3,Manitoba,2
+1993,3,New Brunswick,0
+1993,3,Newfoundland and Labrador,0
+1993,3,Northwest Territories,0
+1993,3,Nova Scotia,0
+1993,3,Ontario,1
+1993,3,Prince Edward Island,0
+1993,3,Quebec,0
+1993,3,Saskatchewan,21
+1993,3,Yukon,0
+1993,4,Alberta,52
+1993,4,British Columbia,77
+1993,4,Manitoba,39
+1993,4,New Brunswick,60
+1993,4,Newfoundland and Labrador,1
+1993,4,Northwest Territories,0
+1993,4,Nova Scotia,78
+1993,4,Ontario,112
+1993,4,Prince Edward Island,0
+1993,4,Quebec,32
+1993,4,Saskatchewan,47
+1993,4,Yukon,1
+1993,5,Alberta,242
+1993,5,British Columbia,322
+1993,5,Manitoba,67
+1993,5,New Brunswick,195
+1993,5,Newfoundland and Labrador,13
+1993,5,Northwest Territories,13
+1993,5,Nova Scotia,110
+1993,5,Ontario,171
+1993,5,Prince Edward Island,26
+1993,5,Quebec,188
+1993,5,Saskatchewan,219
+1993,5,Yukon,21
+1993,6,Alberta,342
+1993,6,British Columbia,189
+1993,6,Manitoba,97
+1993,6,New Brunswick,40
+1993,6,Newfoundland and Labrador,24
+1993,6,Northwest Territories,175
+1993,6,Nova Scotia,20
+1993,6,Ontario,129
+1993,6,Prince Edward Island,2
+1993,6,Quebec,98
+1993,6,Saskatchewan,216
+1993,6,Yukon,45
+1993,7,Alberta,112
+1993,7,British Columbia,153
+1993,7,Manitoba,24
+1993,7,New Brunswick,32
+1993,7,Newfoundland and Labrador,5
+1993,7,Northwest Territories,249
+1993,7,Nova Scotia,21
+1993,7,Ontario,158
+1993,7,Prince Edward Island,0
+1993,7,Quebec,129
+1993,7,Saskatchewan,82
+1993,7,Yukon,48
+1993,8,Alberta,35
+1993,8,British Columbia,274
+1993,8,Manitoba,6
+1993,8,New Brunswick,72
+1993,8,Newfoundland and Labrador,13
+1993,8,Northwest Territories,30
+1993,8,Nova Scotia,43
+1993,8,Ontario,144
+1993,8,Prince Edward Island,0
+1993,8,Quebec,81
+1993,8,Saskatchewan,30
+1993,8,Yukon,10
+1993,9,Alberta,17
+1993,9,British Columbia,300
+1993,9,Manitoba,3
+1993,9,New Brunswick,28
+1993,9,Newfoundland and Labrador,5
+1993,9,Northwest Territories,4
+1993,9,Nova Scotia,26
+1993,9,Ontario,11
+1993,9,Prince Edward Island,1
+1993,9,Quebec,10
+1993,9,Saskatchewan,22
+1993,9,Yukon,10
+1993,10,Alberta,19
+1993,10,British Columbia,119
+1993,10,Manitoba,1
+1993,10,New Brunswick,3
+1993,10,Newfoundland and Labrador,4
+1993,10,Northwest Territories,0
+1993,10,Nova Scotia,4
+1993,10,Ontario,10
+1993,10,Prince Edward Island,0
+1993,10,Quebec,4
+1993,10,Saskatchewan,3
+1993,10,Yukon,1
+1993,11,Alberta,7
+1993,11,British Columbia,10
+1993,11,Manitoba,0
+1993,11,New Brunswick,0
+1993,11,Newfoundland and Labrador,0
+1993,11,Northwest Territories,0
+1993,11,Nova Scotia,0
+1993,11,Ontario,4
+1993,11,Prince Edward Island,0
+1993,11,Quebec,1
+1993,11,Saskatchewan,2
+1993,11,Yukon,0
+1993,12,Alberta,1
+1993,12,British Columbia,0
+1993,12,Manitoba,0
+1993,12,New Brunswick,0
+1993,12,Newfoundland and Labrador,0
+1993,12,Northwest Territories,2
+1993,12,Nova Scotia,0
+1993,12,Ontario,2
+1993,12,Prince Edward Island,0
+1993,12,Quebec,0
+1993,12,Saskatchewan,0
+1993,12,Yukon,0
+1994,1,Alberta,4
+1994,1,British Columbia,6
+1994,1,Manitoba,0
+1994,1,New Brunswick,0
+1994,1,Newfoundland and Labrador,0
+1994,1,Northwest Territories,2
+1994,1,Nova Scotia,0
+1994,1,Ontario,0
+1994,1,Prince Edward Island,0
+1994,1,Quebec,0
+1994,1,Saskatchewan,1
+1994,1,Yukon,0
+1994,2,Alberta,0
+1994,2,British Columbia,2
+1994,2,Manitoba,0
+1994,2,New Brunswick,0
+1994,2,Newfoundland and Labrador,0
+1994,2,Northwest Territories,1
+1994,2,Nova Scotia,0
+1994,2,Ontario,0
+1994,2,Prince Edward Island,0
+1994,2,Quebec,0
+1994,2,Saskatchewan,0
+1994,2,Yukon,0
+1994,3,Alberta,12
+1994,3,British Columbia,66
+1994,3,Manitoba,1
+1994,3,New Brunswick,0
+1994,3,Newfoundland and Labrador,0
+1994,3,Northwest Territories,0
+1994,3,Nova Scotia,1
+1994,3,Ontario,4
+1994,3,Prince Edward Island,0
+1994,3,Quebec,0
+1994,3,Saskatchewan,1
+1994,3,Yukon,0
+1994,4,Alberta,64
+1994,4,British Columbia,142
+1994,4,Manitoba,49
+1994,4,New Brunswick,41
+1994,4,Newfoundland and Labrador,3
+1994,4,Northwest Territories,1
+1994,4,Nova Scotia,63
+1994,4,Ontario,222
+1994,4,Prince Edward Island,12
+1994,4,Quebec,15
+1994,4,Saskatchewan,28
+1994,4,Yukon,5
+1994,5,Alberta,132
+1994,5,British Columbia,212
+1994,5,Manitoba,115
+1994,5,New Brunswick,89
+1994,5,Newfoundland and Labrador,15
+1994,5,Northwest Territories,37
+1994,5,Nova Scotia,33
+1994,5,Ontario,266
+1994,5,Prince Edward Island,3
+1994,5,Quebec,218
+1994,5,Saskatchewan,95
+1994,5,Yukon,16
+1994,6,Alberta,231
+1994,6,British Columbia,172
+1994,6,Manitoba,170
+1994,6,New Brunswick,37
+1994,6,Newfoundland and Labrador,35
+1994,6,Northwest Territories,185
+1994,6,Nova Scotia,28
+1994,6,Ontario,412
+1994,6,Prince Edward Island,3
+1994,6,Quebec,139
+1994,6,Saskatchewan,153
+1994,6,Yukon,47
+1994,7,Alberta,223
+1994,7,British Columbia,1030
+1994,7,Manitoba,82
+1994,7,New Brunswick,48
+1994,7,Newfoundland and Labrador,35
+1994,7,Northwest Territories,326
+1994,7,Nova Scotia,57
+1994,7,Ontario,59
+1994,7,Prince Edward Island,4
+1994,7,Quebec,27
+1994,7,Saskatchewan,74
+1994,7,Yukon,113
+1994,8,Alberta,118
+1994,8,British Columbia,2118
+1994,8,Manitoba,73
+1994,8,New Brunswick,104
+1994,8,Newfoundland and Labrador,35
+1994,8,Northwest Territories,78
+1994,8,Nova Scotia,23
+1994,8,Ontario,55
+1994,8,Prince Edward Island,7
+1994,8,Quebec,30
+1994,8,Saskatchewan,193
+1994,8,Yukon,73
+1994,9,Alberta,83
+1994,9,British Columbia,238
+1994,9,Manitoba,57
+1994,9,New Brunswick,40
+1994,9,Newfoundland and Labrador,5
+1994,9,Northwest Territories,13
+1994,9,Nova Scotia,22
+1994,9,Ontario,27
+1994,9,Prince Edward Island,3
+1994,9,Quebec,17
+1994,9,Saskatchewan,142
+1994,9,Yukon,1
+1994,10,Alberta,25
+1994,10,British Columbia,70
+1994,10,Manitoba,7
+1994,10,New Brunswick,137
+1994,10,Newfoundland and Labrador,1
+1994,10,Northwest Territories,8
+1994,10,Nova Scotia,22
+1994,10,Ontario,27
+1994,10,Prince Edward Island,4
+1994,10,Quebec,46
+1994,10,Saskatchewan,10
+1994,10,Yukon,0
+1994,11,Alberta,30
+1994,11,British Columbia,1
+1994,11,Manitoba,1
+1994,11,New Brunswick,22
+1994,11,Newfoundland and Labrador,0
+1994,11,Northwest Territories,1
+1994,11,Nova Scotia,14
+1994,11,Ontario,7
+1994,11,Prince Edward Island,7
+1994,11,Quebec,7
+1994,11,Saskatchewan,0
+1994,11,Yukon,0
+1994,12,Alberta,9
+1994,12,British Columbia,0
+1994,12,Manitoba,0
+1994,12,New Brunswick,0
+1994,12,Newfoundland and Labrador,0
+1994,12,Northwest Territories,1
+1994,12,Nova Scotia,0
+1994,12,Ontario,0
+1994,12,Prince Edward Island,0
+1994,12,Quebec,0
+1994,12,Saskatchewan,0
+1994,12,Yukon,0
+1995,1,Alberta,10
+1995,1,British Columbia,5
+1995,1,Manitoba,0
+1995,1,New Brunswick,0
+1995,1,Newfoundland and Labrador,0
+1995,1,Northwest Territories,0
+1995,1,Nova Scotia,0
+1995,1,Ontario,0
+1995,1,Prince Edward Island,0
+1995,1,Quebec,0
+1995,1,Saskatchewan,0
+1995,1,Yukon,0
+1995,2,Alberta,6
+1995,2,British Columbia,5
+1995,2,Manitoba,0
+1995,2,New Brunswick,0
+1995,2,Newfoundland and Labrador,0
+1995,2,Northwest Territories,0
+1995,2,Nova Scotia,0
+1995,2,Ontario,0
+1995,2,Prince Edward Island,0
+1995,2,Quebec,0
+1995,2,Saskatchewan,0
+1995,2,Yukon,0
+1995,3,Alberta,29
+1995,3,British Columbia,61
+1995,3,Manitoba,0
+1995,3,New Brunswick,0
+1995,3,Newfoundland and Labrador,0
+1995,3,Northwest Territories,0
+1995,3,Nova Scotia,28
+1995,3,Ontario,137
+1995,3,Prince Edward Island,0
+1995,3,Quebec,9
+1995,3,Saskatchewan,0
+1995,3,Yukon,1
+1995,4,Alberta,57
+1995,4,British Columbia,181
+1995,4,Manitoba,13
+1995,4,New Brunswick,28
+1995,4,Newfoundland and Labrador,3
+1995,4,Northwest Territories,1
+1995,4,Nova Scotia,80
+1995,4,Ontario,128
+1995,4,Prince Edward Island,0
+1995,4,Quebec,33
+1995,4,Saskatchewan,10
+1995,4,Yukon,4
+1995,5,Alberta,215
+1995,5,British Columbia,316
+1995,5,Manitoba,154
+1995,5,New Brunswick,71
+1995,5,Newfoundland and Labrador,23
+1995,5,Northwest Territories,24
+1995,5,Nova Scotia,145
+1995,5,Ontario,230
+1995,5,Prince Edward Island,11
+1995,5,Quebec,139
+1995,5,Saskatchewan,222
+1995,5,Yukon,31
+1995,6,Alberta,272
+1995,6,British Columbia,281
+1995,6,Manitoba,344
+1995,6,New Brunswick,116
+1995,6,Newfoundland and Labrador,20
+1995,6,Northwest Territories,79
+1995,6,Nova Scotia,49
+1995,6,Ontario,900
+1995,6,Prince Edward Island,2
+1995,6,Quebec,470
+1995,6,Saskatchewan,283
+1995,6,Yukon,80
+1995,7,Alberta,97
+1995,7,British Columbia,277
+1995,7,Manitoba,90
+1995,7,New Brunswick,89
+1995,7,Newfoundland and Labrador,14
+1995,7,Northwest Territories,56
+1995,7,Nova Scotia,26
+1995,7,Ontario,150
+1995,7,Prince Edward Island,3
+1995,7,Quebec,170
+1995,7,Saskatchewan,85
+1995,7,Yukon,22
+1995,8,Alberta,26
+1995,8,British Columbia,90
+1995,8,Manitoba,28
+1995,8,New Brunswick,156
+1995,8,Newfoundland and Labrador,23
+1995,8,Northwest Territories,47
+1995,8,Nova Scotia,36
+1995,8,Ontario,442
+1995,8,Prince Edward Island,7
+1995,8,Quebec,367
+1995,8,Saskatchewan,18
+1995,8,Yukon,6
+1995,9,Alberta,58
+1995,9,British Columbia,238
+1995,9,Manitoba,12
+1995,9,New Brunswick,74
+1995,9,Newfoundland and Labrador,3
+1995,9,Northwest Territories,7
+1995,9,Nova Scotia,37
+1995,9,Ontario,125
+1995,9,Prince Edward Island,4
+1995,9,Quebec,53
+1995,9,Saskatchewan,20
+1995,9,Yukon,2
+1995,10,Alberta,33
+1995,10,British Columbia,15
+1995,10,Manitoba,21
+1995,10,New Brunswick,11
+1995,10,Newfoundland and Labrador,0
+1995,10,Northwest Territories,1
+1995,10,Nova Scotia,4
+1995,10,Ontario,36
+1995,10,Prince Edward Island,2
+1995,10,Quebec,23
+1995,10,Saskatchewan,9
+1995,10,Yukon,0
+1995,11,Alberta,5
+1995,11,British Columbia,5
+1995,11,Manitoba,0
+1995,11,New Brunswick,2
+1995,11,Newfoundland and Labrador,0
+1995,11,Northwest Territories,3
+1995,11,Nova Scotia,2
+1995,11,Ontario,2
+1995,11,Prince Edward Island,0
+1995,11,Quebec,1
+1995,11,Saskatchewan,3
+1995,11,Yukon,1
+1995,12,Alberta,0
+1995,12,British Columbia,0
+1995,12,Manitoba,0
+1995,12,New Brunswick,0
+1995,12,Newfoundland and Labrador,0
+1995,12,Northwest Territories,0
+1995,12,Nova Scotia,0
+1995,12,Ontario,0
+1995,12,Prince Edward Island,0
+1995,12,Quebec,0
+1995,12,Saskatchewan,1
+1995,12,Yukon,0
+1996,1,Alberta,1
+1996,1,British Columbia,5
+1996,1,Manitoba,0
+1996,1,New Brunswick,0
+1996,1,Newfoundland and Labrador,0
+1996,1,Northwest Territories,0
+1996,1,Nova Scotia,0
+1996,1,Ontario,0
+1996,1,Prince Edward Island,0
+1996,1,Quebec,0
+1996,1,Saskatchewan,1
+1996,1,Yukon,0
+1996,2,Alberta,0
+1996,2,British Columbia,3
+1996,2,Manitoba,0
+1996,2,New Brunswick,0
+1996,2,Newfoundland and Labrador,0
+1996,2,Northwest Territories,0
+1996,2,Nova Scotia,0
+1996,2,Ontario,0
+1996,2,Prince Edward Island,0
+1996,2,Quebec,0
+1996,2,Saskatchewan,1
+1996,2,Yukon,0
+1996,3,Alberta,1
+1996,3,British Columbia,31
+1996,3,Manitoba,0
+1996,3,New Brunswick,1
+1996,3,Newfoundland and Labrador,0
+1996,3,Northwest Territories,0
+1996,3,Nova Scotia,55
+1996,3,Ontario,7
+1996,3,Prince Edward Island,0
+1996,3,Quebec,0
+1996,3,Saskatchewan,0
+1996,3,Yukon,2
+1996,4,Alberta,26
+1996,4,British Columbia,60
+1996,4,Manitoba,1
+1996,4,New Brunswick,26
+1996,4,Newfoundland and Labrador,13
+1996,4,Northwest Territories,1
+1996,4,Nova Scotia,65
+1996,4,Ontario,30
+1996,4,Prince Edward Island,0
+1996,4,Quebec,5
+1996,4,Saskatchewan,6
+1996,4,Yukon,2
+1996,5,Alberta,56
+1996,5,British Columbia,82
+1996,5,Manitoba,77
+1996,5,New Brunswick,75
+1996,5,Newfoundland and Labrador,23
+1996,5,Northwest Territories,11
+1996,5,Nova Scotia,66
+1996,5,Ontario,241
+1996,5,Prince Edward Island,0
+1996,5,Quebec,163
+1996,5,Saskatchewan,62
+1996,5,Yukon,19
+1996,6,Alberta,124
+1996,6,British Columbia,155
+1996,6,Manitoba,103
+1996,6,New Brunswick,129
+1996,6,Newfoundland and Labrador,12
+1996,6,Northwest Territories,182
+1996,6,Nova Scotia,45
+1996,6,Ontario,570
+1996,6,Prince Edward Island,0
+1996,6,Quebec,706
+1996,6,Saskatchewan,123
+1996,6,Yukon,72
+1996,7,Alberta,89
+1996,7,British Columbia,452
+1996,7,Manitoba,155
+1996,7,New Brunswick,11
+1996,7,Newfoundland and Labrador,4
+1996,7,Northwest Territories,134
+1996,7,Nova Scotia,9
+1996,7,Ontario,198
+1996,7,Prince Edward Island,0
+1996,7,Quebec,55
+1996,7,Saskatchewan,161
+1996,7,Yukon,44
+1996,8,Alberta,76
+1996,8,British Columbia,489
+1996,8,Manitoba,59
+1996,8,New Brunswick,74
+1996,8,Newfoundland and Labrador,48
+1996,8,Northwest Territories,22
+1996,8,Nova Scotia,20
+1996,8,Ontario,144
+1996,8,Prince Edward Island,0
+1996,8,Quebec,209
+1996,8,Saskatchewan,53
+1996,8,Yukon,7
+1996,9,Alberta,14
+1996,9,British Columbia,64
+1996,9,Manitoba,23
+1996,9,New Brunswick,37
+1996,9,Newfoundland and Labrador,9
+1996,9,Northwest Territories,0
+1996,9,Nova Scotia,7
+1996,9,Ontario,73
+1996,9,Prince Edward Island,0
+1996,9,Quebec,92
+1996,9,Saskatchewan,15
+1996,9,Yukon,3
+1996,10,Alberta,7
+1996,10,British Columbia,16
+1996,10,Manitoba,4
+1996,10,New Brunswick,13
+1996,10,Newfoundland and Labrador,2
+1996,10,Northwest Territories,0
+1996,10,Nova Scotia,3
+1996,10,Ontario,11
+1996,10,Prince Edward Island,0
+1996,10,Quebec,19
+1996,10,Saskatchewan,3
+1996,10,Yukon,0
+1996,11,Alberta,2
+1996,11,British Columbia,1
+1996,11,Manitoba,0
+1996,11,New Brunswick,1
+1996,11,Newfoundland and Labrador,0
+1996,11,Northwest Territories,0
+1996,11,Nova Scotia,0
+1996,11,Ontario,0
+1996,11,Prince Edward Island,0
+1996,11,Quebec,1
+1996,11,Saskatchewan,0
+1996,11,Yukon,0
+1996,12,Alberta,2
+1996,12,British Columbia,2
+1996,12,Manitoba,0
+1996,12,New Brunswick,0
+1996,12,Newfoundland and Labrador,0
+1996,12,Northwest Territories,0
+1996,12,Nova Scotia,0
+1996,12,Ontario,0
+1996,12,Prince Edward Island,0
+1996,12,Quebec,0
+1996,12,Saskatchewan,0
+1996,12,Yukon,0
+1997,1,Alberta,1
+1997,1,British Columbia,0
+1997,1,Manitoba,0
+1997,1,New Brunswick,0
+1997,1,Newfoundland and Labrador,0
+1997,1,Northwest Territories,0
+1997,1,Nova Scotia,0
+1997,1,Ontario,0
+1997,1,Prince Edward Island,0
+1997,1,Quebec,0
+1997,1,Saskatchewan,0
+1997,1,Yukon,0
+1997,2,Alberta,0
+1997,2,British Columbia,2
+1997,2,Manitoba,0
+1997,2,New Brunswick,0
+1997,2,Newfoundland and Labrador,0
+1997,2,Northwest Territories,0
+1997,2,Nova Scotia,0
+1997,2,Ontario,0
+1997,2,Prince Edward Island,0
+1997,2,Quebec,0
+1997,2,Saskatchewan,0
+1997,2,Yukon,0
+1997,3,Alberta,4
+1997,3,British Columbia,6
+1997,3,Manitoba,0
+1997,3,New Brunswick,0
+1997,3,Newfoundland and Labrador,0
+1997,3,Northwest Territories,0
+1997,3,Nova Scotia,1
+1997,3,Ontario,0
+1997,3,Prince Edward Island,0
+1997,3,Quebec,0
+1997,3,Saskatchewan,0
+1997,3,Yukon,0
+1997,4,Alberta,24
+1997,4,British Columbia,86
+1997,4,Manitoba,8
+1997,4,New Brunswick,16
+1997,4,Newfoundland and Labrador,0
+1997,4,Northwest Territories,0
+1997,4,Nova Scotia,44
+1997,4,Ontario,136
+1997,4,Prince Edward Island,2
+1997,4,Quebec,21
+1997,4,Saskatchewan,10
+1997,4,Yukon,0
+1997,5,Alberta,120
+1997,5,British Columbia,131
+1997,5,Manitoba,83
+1997,5,New Brunswick,72
+1997,5,Newfoundland and Labrador,15
+1997,5,Northwest Territories,1
+1997,5,Nova Scotia,77
+1997,5,Ontario,180
+1997,5,Prince Edward Island,20
+1997,5,Quebec,63
+1997,5,Saskatchewan,92
+1997,5,Yukon,23
+1997,6,Alberta,34
+1997,6,British Columbia,95
+1997,6,Manitoba,87
+1997,6,New Brunswick,68
+1997,6,Newfoundland and Labrador,25
+1997,6,Northwest Territories,17
+1997,6,Nova Scotia,35
+1997,6,Ontario,425
+1997,6,Prince Edward Island,7
+1997,6,Quebec,436
+1997,6,Saskatchewan,52
+1997,6,Yukon,34
+1997,7,Alberta,148
+1997,7,British Columbia,172
+1997,7,Manitoba,102
+1997,7,New Brunswick,77
+1997,7,Newfoundland and Labrador,26
+1997,7,Northwest Territories,74
+1997,7,Nova Scotia,108
+1997,7,Ontario,371
+1997,7,Prince Edward Island,2
+1997,7,Quebec,143
+1997,7,Saskatchewan,150
+1997,7,Yukon,37
+1997,8,Alberta,79
+1997,8,British Columbia,514
+1997,8,Manitoba,83
+1997,8,New Brunswick,75
+1997,8,Newfoundland and Labrador,11
+1997,8,Northwest Territories,10
+1997,8,Nova Scotia,59
+1997,8,Ontario,423
+1997,8,Prince Edward Island,2
+1997,8,Quebec,146
+1997,8,Saskatchewan,168
+1997,8,Yukon,13
+1997,9,Alberta,17
+1997,9,British Columbia,162
+1997,9,Manitoba,8
+1997,9,New Brunswick,13
+1997,9,Newfoundland and Labrador,1
+1997,9,Northwest Territories,3
+1997,9,Nova Scotia,16
+1997,9,Ontario,90
+1997,9,Prince Edward Island,0
+1997,9,Quebec,22
+1997,9,Saskatchewan,15
+1997,9,Yukon,3
+1997,10,Alberta,3
+1997,10,British Columbia,3
+1997,10,Manitoba,1
+1997,10,New Brunswick,45
+1997,10,Newfoundland and Labrador,0
+1997,10,Northwest Territories,0
+1997,10,Nova Scotia,30
+1997,10,Ontario,18
+1997,10,Prince Edward Island,1
+1997,10,Quebec,44
+1997,10,Saskatchewan,2
+1997,10,Yukon,2
+1997,11,Alberta,1
+1997,11,British Columbia,3
+1997,11,Manitoba,0
+1997,11,New Brunswick,2
+1997,11,Newfoundland and Labrador,0
+1997,11,Northwest Territories,0
+1997,11,Nova Scotia,0
+1997,11,Ontario,1
+1997,11,Prince Edward Island,0
+1997,11,Quebec,1
+1997,11,Saskatchewan,0
+1997,11,Yukon,0
+1997,12,Alberta,32
+1997,12,British Columbia,2
+1997,12,Manitoba,0
+1997,12,New Brunswick,0
+1997,12,Newfoundland and Labrador,0
+1997,12,Northwest Territories,0
+1997,12,Nova Scotia,0
+1997,12,Ontario,0
+1997,12,Prince Edward Island,0
+1997,12,Quebec,0
+1997,12,Saskatchewan,0
+1997,12,Yukon,0
+1998,1,Alberta,0
+1998,1,British Columbia,3
+1998,1,Manitoba,0
+1998,1,New Brunswick,0
+1998,1,Newfoundland and Labrador,0
+1998,1,Northwest Territories,0
+1998,1,Nova Scotia,0
+1998,1,Ontario,0
+1998,1,Prince Edward Island,0
+1998,1,Quebec,0
+1998,1,Saskatchewan,0
+1998,1,Yukon,0
+1998,2,Alberta,0
+1998,2,British Columbia,3
+1998,2,Manitoba,0
+1998,2,New Brunswick,0
+1998,2,Newfoundland and Labrador,0
+1998,2,Northwest Territories,0
+1998,2,Nova Scotia,0
+1998,2,Ontario,0
+1998,2,Prince Edward Island,0
+1998,2,Quebec,0
+1998,2,Saskatchewan,0
+1998,2,Yukon,0
+1998,3,Alberta,2
+1998,3,British Columbia,24
+1998,3,Manitoba,0
+1998,3,New Brunswick,0
+1998,3,Newfoundland and Labrador,0
+1998,3,Northwest Territories,0
+1998,3,Nova Scotia,20
+1998,3,Ontario,11
+1998,3,Prince Edward Island,0
+1998,3,Quebec,0
+1998,3,Saskatchewan,0
+1998,3,Yukon,0
+1998,4,Alberta,152
+1998,4,British Columbia,148
+1998,4,Manitoba,110
+1998,4,New Brunswick,67
+1998,4,Newfoundland and Labrador,1
+1998,4,Northwest Territories,0
+1998,4,Nova Scotia,86
+1998,4,Ontario,207
+1998,4,Prince Edward Island,1
+1998,4,Quebec,115
+1998,4,Saskatchewan,107
+1998,4,Yukon,2
+1998,5,Alberta,412
+1998,5,British Columbia,259
+1998,5,Manitoba,51
+1998,5,New Brunswick,61
+1998,5,Newfoundland and Labrador,94
+1998,5,Northwest Territories,24
+1998,5,Nova Scotia,91
+1998,5,Ontario,463
+1998,5,Prince Edward Island,14
+1998,5,Quebec,279
+1998,5,Saskatchewan,292
+1998,5,Yukon,44
+1998,6,Alberta,273
+1998,6,British Columbia,143
+1998,6,Manitoba,52
+1998,6,New Brunswick,29
+1998,6,Newfoundland and Labrador,55
+1998,6,Northwest Territories,76
+1998,6,Nova Scotia,45
+1998,6,Ontario,254
+1998,6,Prince Edward Island,2
+1998,6,Quebec,112
+1998,6,Saskatchewan,216
+1998,6,Yukon,36
+1998,7,Alberta,196
+1998,7,British Columbia,674
+1998,7,Manitoba,136
+1998,7,New Brunswick,44
+1998,7,Newfoundland and Labrador,11
+1998,7,Northwest Territories,228
+1998,7,Nova Scotia,19
+1998,7,Ontario,710
+1998,7,Prince Edward Island,3
+1998,7,Quebec,106
+1998,7,Saskatchewan,355
+1998,7,Yukon,73
+1998,8,Alberta,540
+1998,8,British Columbia,870
+1998,8,Manitoba,106
+1998,8,New Brunswick,73
+1998,8,Newfoundland and Labrador,18
+1998,8,Northwest Territories,69
+1998,8,Nova Scotia,61
+1998,8,Ontario,477
+1998,8,Prince Edward Island,6
+1998,8,Quebec,171
+1998,8,Saskatchewan,220
+1998,8,Yukon,35
+1998,9,Alberta,84
+1998,9,British Columbia,473
+1998,9,Manitoba,50
+1998,9,New Brunswick,5
+1998,9,Newfoundland and Labrador,0
+1998,9,Northwest Territories,2
+1998,9,Nova Scotia,8
+1998,9,Ontario,127
+1998,9,Prince Edward Island,0
+1998,9,Quebec,34
+1998,9,Saskatchewan,71
+1998,9,Yukon,7
+1998,10,Alberta,60
+1998,10,British Columbia,44
+1998,10,Manitoba,1
+1998,10,New Brunswick,7
+1998,10,Newfoundland and Labrador,1
+1998,10,Northwest Territories,0
+1998,10,Nova Scotia,16
+1998,10,Ontario,32
+1998,10,Prince Edward Island,1
+1998,10,Quebec,29
+1998,10,Saskatchewan,6
+1998,10,Yukon,0
+1998,11,Alberta,10
+1998,11,British Columbia,4
+1998,11,Manitoba,1
+1998,11,New Brunswick,2
+1998,11,Newfoundland and Labrador,0
+1998,11,Northwest Territories,0
+1998,11,Nova Scotia,0
+1998,11,Ontario,8
+1998,11,Prince Edward Island,0
+1998,11,Quebec,8
+1998,11,Saskatchewan,0
+1998,11,Yukon,0
+1998,12,Alberta,9
+1998,12,British Columbia,0
+1998,12,Manitoba,0
+1998,12,New Brunswick,0
+1998,12,Newfoundland and Labrador,0
+1998,12,Northwest Territories,0
+1998,12,Nova Scotia,0
+1998,12,Ontario,2
+1998,12,Prince Edward Island,0
+1998,12,Quebec,0
+1998,12,Saskatchewan,1
+1998,12,Yukon,0
+1999,1,Alberta,4
+1999,1,British Columbia,0
+1999,1,Manitoba,2
+1999,1,New Brunswick,0
+1999,1,Newfoundland and Labrador,0
+1999,1,Northwest Territories,0
+1999,1,Nova Scotia,0
+1999,1,Ontario,0
+1999,1,Prince Edward Island,0
+1999,1,Quebec,0
+1999,1,Saskatchewan,0
+1999,1,Yukon,0
+1999,2,Alberta,0
+1999,2,British Columbia,2
+1999,2,Manitoba,0
+1999,2,New Brunswick,0
+1999,2,Newfoundland and Labrador,0
+1999,2,Northwest Territories,0
+1999,2,Nova Scotia,0
+1999,2,Ontario,1
+1999,2,Prince Edward Island,0
+1999,2,Quebec,0
+1999,2,Saskatchewan,0
+1999,2,Yukon,0
+1999,3,Alberta,6
+1999,3,British Columbia,8
+1999,3,Manitoba,0
+1999,3,New Brunswick,0
+1999,3,Newfoundland and Labrador,5
+1999,3,Northwest Territories,0
+1999,3,Nova Scotia,23
+1999,3,Ontario,6
+1999,3,Prince Edward Island,1
+1999,3,Quebec,0
+1999,3,Saskatchewan,1
+1999,3,Yukon,0
+1999,4,Alberta,133
+1999,4,British Columbia,92
+1999,4,Manitoba,133
+1999,4,New Brunswick,55
+1999,4,Newfoundland and Labrador,10
+1999,4,Northwest Territories,1
+1999,4,Nova Scotia,78
+1999,4,Ontario,146
+1999,4,Prince Edward Island,2
+1999,4,Quebec,92
+1999,4,Saskatchewan,51
+1999,4,Yukon,2
+1999,5,Alberta,121
+1999,5,British Columbia,83
+1999,5,Manitoba,104
+1999,5,New Brunswick,180
+1999,5,Newfoundland and Labrador,66
+1999,5,Northwest Territories,3
+1999,5,Nova Scotia,129
+1999,5,Ontario,234
+1999,5,Prince Edward Island,13
+1999,5,Quebec,311
+1999,5,Saskatchewan,100
+1999,5,Yukon,10
+1999,6,Alberta,213
+1999,6,British Columbia,118
+1999,6,Manitoba,115
+1999,6,New Brunswick,210
+1999,6,Newfoundland and Labrador,66
+1999,6,Northwest Territories,70
+1999,6,Nova Scotia,97
+1999,6,Ontario,154
+1999,6,Prince Edward Island,3
+1999,6,Quebec,197
+1999,6,Saskatchewan,158
+1999,6,Yukon,49
+1999,7,Alberta,280
+1999,7,British Columbia,168
+1999,7,Manitoba,125
+1999,7,New Brunswick,80
+1999,7,Newfoundland and Labrador,20
+1999,7,Northwest Territories,39
+1999,7,Nova Scotia,89
+1999,7,Ontario,217
+1999,7,Prince Edward Island,6
+1999,7,Quebec,140
+1999,7,Saskatchewan,252
+1999,7,Yukon,36
+1999,8,Alberta,427
+1999,8,British Columbia,522
+1999,8,Manitoba,112
+1999,8,New Brunswick,40
+1999,8,Newfoundland and Labrador,10
+1999,8,Northwest Territories,53
+1999,8,Nova Scotia,24
+1999,8,Ontario,196
+1999,8,Prince Edward Island,0
+1999,8,Quebec,165
+1999,8,Saskatchewan,158
+1999,8,Yukon,61
+1999,9,Alberta,46
+1999,9,British Columbia,109
+1999,9,Manitoba,17
+1999,9,New Brunswick,31
+1999,9,Newfoundland and Labrador,10
+1999,9,Northwest Territories,6
+1999,9,Nova Scotia,14
+1999,9,Ontario,64
+1999,9,Prince Edward Island,6
+1999,9,Quebec,120
+1999,9,Saskatchewan,6
+1999,9,Yukon,1
+1999,10,Alberta,84
+1999,10,British Columbia,82
+1999,10,Manitoba,5
+1999,10,New Brunswick,3
+1999,10,Newfoundland and Labrador,1
+1999,10,Northwest Territories,0
+1999,10,Nova Scotia,3
+1999,10,Ontario,4
+1999,10,Prince Edward Island,2
+1999,10,Quebec,5
+1999,10,Saskatchewan,7
+1999,10,Yukon,0
+1999,11,Alberta,29
+1999,11,British Columbia,6
+1999,11,Manitoba,0
+1999,11,New Brunswick,7
+1999,11,Newfoundland and Labrador,0
+1999,11,Northwest Territories,0
+1999,11,Nova Scotia,7
+1999,11,Ontario,3
+1999,11,Prince Edward Island,1
+1999,11,Quebec,7
+1999,11,Saskatchewan,7
+1999,11,Yukon,0
+1999,12,Alberta,28
+1999,12,British Columbia,8
+1999,12,Manitoba,0
+1999,12,New Brunswick,1
+1999,12,Newfoundland and Labrador,0
+1999,12,Northwest Territories,0
+1999,12,Nova Scotia,0
+1999,12,Ontario,0
+1999,12,Prince Edward Island,0
+1999,12,Quebec,0
+1999,12,Saskatchewan,0
+1999,12,Yukon,0
+2000,1,Alberta,9
+2000,1,British Columbia,0
+2000,1,Manitoba,0
+2000,1,New Brunswick,0
+2000,1,Newfoundland and Labrador,0
+2000,1,Northwest Territories,0
+2000,1,Nova Scotia,0
+2000,1,Ontario,0
+2000,1,Prince Edward Island,0
+2000,1,Quebec,0
+2000,1,Saskatchewan,1
+2000,1,Yukon,0
+2000,2,Alberta,8
+2000,2,British Columbia,3
+2000,2,Manitoba,0
+2000,2,New Brunswick,0
+2000,2,Newfoundland and Labrador,0
+2000,2,Northwest Territories,0
+2000,2,Nova Scotia,0
+2000,2,Ontario,1
+2000,2,Prince Edward Island,0
+2000,2,Quebec,0
+2000,2,Saskatchewan,0
+2000,2,Yukon,0
+2000,3,Alberta,30
+2000,3,British Columbia,17
+2000,3,Manitoba,1
+2000,3,New Brunswick,1
+2000,3,Newfoundland and Labrador,0
+2000,3,Northwest Territories,0
+2000,3,Nova Scotia,4
+2000,3,Ontario,17
+2000,3,Prince Edward Island,0
+2000,3,Quebec,1
+2000,3,Saskatchewan,4
+2000,3,Yukon,0
+2000,4,Alberta,139
+2000,4,British Columbia,157
+2000,4,Manitoba,1
+2000,4,New Brunswick,31
+2000,4,Newfoundland and Labrador,14
+2000,4,Northwest Territories,0
+2000,4,Nova Scotia,19
+2000,4,Ontario,99
+2000,4,Prince Edward Island,0
+2000,4,Quebec,80
+2000,4,Saskatchewan,46
+2000,4,Yukon,0
+2000,5,Alberta,112
+2000,5,British Columbia,82
+2000,5,Manitoba,1
+2000,5,New Brunswick,73
+2000,5,Newfoundland and Labrador,34
+2000,5,Northwest Territories,5
+2000,5,Nova Scotia,57
+2000,5,Ontario,88
+2000,5,Prince Edward Island,0
+2000,5,Quebec,100
+2000,5,Saskatchewan,72
+2000,5,Yukon,8
+2000,6,Alberta,261
+2000,6,British Columbia,129
+2000,6,Manitoba,0
+2000,6,New Brunswick,77
+2000,6,Newfoundland and Labrador,44
+2000,6,Northwest Territories,90
+2000,6,Nova Scotia,51
+2000,6,Ontario,44
+2000,6,Prince Edward Island,0
+2000,6,Quebec,74
+2000,6,Saskatchewan,137
+2000,6,Yukon,36
+2000,7,Alberta,197
+2000,7,British Columbia,399
+2000,7,Manitoba,0
+2000,7,New Brunswick,40
+2000,7,Newfoundland and Labrador,9
+2000,7,Northwest Territories,144
+2000,7,Nova Scotia,25
+2000,7,Ontario,117
+2000,7,Prince Edward Island,0
+2000,7,Quebec,137
+2000,7,Saskatchewan,89
+2000,7,Yukon,3
+2000,8,Alberta,74
+2000,8,British Columbia,618
+2000,8,Manitoba,0
+2000,8,New Brunswick,46
+2000,8,Newfoundland and Labrador,15
+2000,8,Northwest Territories,36
+2000,8,Nova Scotia,29
+2000,8,Ontario,156
+2000,8,Prince Edward Island,0
+2000,8,Quebec,52
+2000,8,Saskatchewan,46
+2000,8,Yukon,0
+2000,9,Alberta,12
+2000,9,British Columbia,86
+2000,9,Manitoba,0
+2000,9,New Brunswick,44
+2000,9,Newfoundland and Labrador,7
+2000,9,Northwest Territories,0
+2000,9,Nova Scotia,18
+2000,9,Ontario,38
+2000,9,Prince Edward Island,0
+2000,9,Quebec,44
+2000,9,Saskatchewan,15
+2000,9,Yukon,0
+2000,10,Alberta,16
+2000,10,British Columbia,51
+2000,10,Manitoba,1
+2000,10,New Brunswick,30
+2000,10,Newfoundland and Labrador,1
+2000,10,Northwest Territories,0
+2000,10,Nova Scotia,8
+2000,10,Ontario,83
+2000,10,Prince Edward Island,0
+2000,10,Quebec,25
+2000,10,Saskatchewan,11
+2000,10,Yukon,0
+2000,11,Alberta,5
+2000,11,British Columbia,8
+2000,11,Manitoba,0
+2000,11,New Brunswick,0
+2000,11,Newfoundland and Labrador,0
+2000,11,Northwest Territories,0
+2000,11,Nova Scotia,1
+2000,11,Ontario,7
+2000,11,Prince Edward Island,0
+2000,11,Quebec,4
+2000,11,Saskatchewan,0
+2000,11,Yukon,0
+2000,12,Alberta,1
+2000,12,British Columbia,1
+2000,12,Manitoba,0
+2000,12,New Brunswick,0
+2000,12,Newfoundland and Labrador,0
+2000,12,Northwest Territories,0
+2000,12,Nova Scotia,0
+2000,12,Ontario,0
+2000,12,Prince Edward Island,0
+2000,12,Quebec,0
+2000,12,Saskatchewan,0
+2000,12,Yukon,0
+2001,1,Alberta,4
+2001,1,British Columbia,6
+2001,1,Manitoba,0
+2001,1,New Brunswick,0
+2001,1,Newfoundland and Labrador,1
+2001,1,Northwest Territories,0
+2001,1,Nova Scotia,0
+2001,1,Ontario,1
+2001,1,Prince Edward Island,0
+2001,1,Quebec,0
+2001,1,Saskatchewan,4
+2001,1,Yukon,0
+2001,2,Alberta,2
+2001,2,British Columbia,1
+2001,2,Manitoba,0
+2001,2,New Brunswick,0
+2001,2,Newfoundland and Labrador,0
+2001,2,Northwest Territories,0
+2001,2,Nova Scotia,0
+2001,2,Ontario,0
+2001,2,Prince Edward Island,0
+2001,2,Quebec,0
+2001,2,Saskatchewan,1
+2001,2,Yukon,0
+2001,3,Alberta,28
+2001,3,British Columbia,30
+2001,3,Manitoba,0
+2001,3,New Brunswick,0
+2001,3,Newfoundland and Labrador,0
+2001,3,Northwest Territories,0
+2001,3,Nova Scotia,4
+2001,3,Ontario,1
+2001,3,Prince Edward Island,0
+2001,3,Quebec,0
+2001,3,Saskatchewan,3
+2001,3,Yukon,0
+2001,4,Alberta,79
+2001,4,British Columbia,130
+2001,4,Manitoba,1
+2001,4,New Brunswick,36
+2001,4,Newfoundland and Labrador,0
+2001,4,Northwest Territories,0
+2001,4,Nova Scotia,36
+2001,4,Ontario,52
+2001,4,Prince Edward Island,0
+2001,4,Quebec,98
+2001,4,Saskatchewan,121
+2001,4,Yukon,1
+2001,5,Alberta,292
+2001,5,British Columbia,257
+2001,5,Manitoba,3
+2001,5,New Brunswick,169
+2001,5,Newfoundland and Labrador,30
+2001,5,Northwest Territories,0
+2001,5,Nova Scotia,139
+2001,5,Ontario,115
+2001,5,Prince Edward Island,7
+2001,5,Quebec,296
+2001,5,Saskatchewan,158
+2001,5,Yukon,8
+2001,6,Alberta,184
+2001,6,British Columbia,98
+2001,6,Manitoba,0
+2001,6,New Brunswick,43
+2001,6,Newfoundland and Labrador,36
+2001,6,Northwest Territories,49
+2001,6,Nova Scotia,31
+2001,6,Ontario,267
+2001,6,Prince Edward Island,3
+2001,6,Quebec,127
+2001,6,Saskatchewan,200
+2001,6,Yukon,30
+2001,7,Alberta,201
+2001,7,British Columbia,329
+2001,7,Manitoba,0
+2001,7,New Brunswick,47
+2001,7,Newfoundland and Labrador,34
+2001,7,Northwest Territories,71
+2001,7,Nova Scotia,67
+2001,7,Ontario,373
+2001,7,Prince Edward Island,6
+2001,7,Quebec,109
+2001,7,Saskatchewan,116
+2001,7,Yukon,20
+2001,8,Alberta,91
+2001,8,British Columbia,262
+2001,8,Manitoba,0
+2001,8,New Brunswick,116
+2001,8,Newfoundland and Labrador,63
+2001,8,Northwest Territories,6
+2001,8,Nova Scotia,129
+2001,8,Ontario,666
+2001,8,Prince Edward Island,13
+2001,8,Quebec,324
+2001,8,Saskatchewan,154
+2001,8,Yukon,9
+2001,9,Alberta,55
+2001,9,British Columbia,135
+2001,9,Manitoba,1
+2001,9,New Brunswick,53
+2001,9,Newfoundland and Labrador,10
+2001,9,Northwest Territories,2
+2001,9,Nova Scotia,47
+2001,9,Ontario,109
+2001,9,Prince Edward Island,6
+2001,9,Quebec,41
+2001,9,Saskatchewan,74
+2001,9,Yukon,0
+2001,10,Alberta,56
+2001,10,British Columbia,59
+2001,10,Manitoba,1
+2001,10,New Brunswick,29
+2001,10,Newfoundland and Labrador,5
+2001,10,Northwest Territories,0
+2001,10,Nova Scotia,28
+2001,10,Ontario,10
+2001,10,Prince Edward Island,10
+2001,10,Quebec,8
+2001,10,Saskatchewan,44
+2001,10,Yukon,0
+2001,11,Alberta,22
+2001,11,British Columbia,13
+2001,11,Manitoba,0
+2001,11,New Brunswick,3
+2001,11,Newfoundland and Labrador,0
+2001,11,Northwest Territories,0
+2001,11,Nova Scotia,8
+2001,11,Ontario,2
+2001,11,Prince Edward Island,1
+2001,11,Quebec,2
+2001,11,Saskatchewan,0
+2001,11,Yukon,0
+2001,12,Alberta,10
+2001,12,British Columbia,0
+2001,12,Manitoba,0
+2001,12,New Brunswick,0
+2001,12,Newfoundland and Labrador,1
+2001,12,Northwest Territories,0
+2001,12,Nova Scotia,0
+2001,12,Ontario,0
+2001,12,Prince Edward Island,0
+2001,12,Quebec,0
+2001,12,Saskatchewan,0
+2001,12,Yukon,0
+2002,1,Alberta,10
+2002,1,British Columbia,3
+2002,1,Manitoba,0
+2002,1,New Brunswick,0
+2002,1,Newfoundland and Labrador,0
+2002,1,Northwest Territories,0
+2002,1,Nova Scotia,0
+2002,1,Ontario,0
+2002,1,Prince Edward Island,0
+2002,1,Quebec,0
+2002,1,Saskatchewan,2
+2002,1,Yukon,0
+2002,2,Alberta,4
+2002,2,British Columbia,3
+2002,2,Manitoba,0
+2002,2,New Brunswick,0
+2002,2,Newfoundland and Labrador,0
+2002,2,Northwest Territories,0
+2002,2,Nova Scotia,0
+2002,2,Ontario,0
+2002,2,Prince Edward Island,0
+2002,2,Quebec,1
+2002,2,Saskatchewan,3
+2002,2,Yukon,0
+2002,3,Alberta,3
+2002,3,British Columbia,5
+2002,3,Manitoba,0
+2002,3,New Brunswick,0
+2002,3,Newfoundland and Labrador,0
+2002,3,Northwest Territories,0
+2002,3,Nova Scotia,5
+2002,3,Ontario,1
+2002,3,Prince Edward Island,0
+2002,3,Quebec,1
+2002,3,Saskatchewan,3
+2002,3,Yukon,0
+2002,4,Alberta,35
+2002,4,British Columbia,140
+2002,4,Manitoba,1
+2002,4,New Brunswick,31
+2002,4,Newfoundland and Labrador,5
+2002,4,Northwest Territories,0
+2002,4,Nova Scotia,23
+2002,4,Ontario,26
+2002,4,Prince Edward Island,2
+2002,4,Quebec,53
+2002,4,Saskatchewan,35
+2002,4,Yukon,0
+2002,5,Alberta,264
+2002,5,British Columbia,161
+2002,5,Manitoba,4
+2002,5,New Brunswick,97
+2002,5,Newfoundland and Labrador,30
+2002,5,Northwest Territories,2
+2002,5,Nova Scotia,111
+2002,5,Ontario,105
+2002,5,Prince Edward Island,13
+2002,5,Quebec,128
+2002,5,Saskatchewan,292
+2002,5,Yukon,17
+2002,6,Alberta,588
+2002,6,British Columbia,245
+2002,6,Manitoba,0
+2002,6,New Brunswick,42
+2002,6,Newfoundland and Labrador,24
+2002,6,Northwest Territories,38
+2002,6,Nova Scotia,31
+2002,6,Ontario,85
+2002,6,Prince Edward Island,0
+2002,6,Quebec,84
+2002,6,Saskatchewan,345
+2002,6,Yukon,30
+2002,7,Alberta,358
+2002,7,British Columbia,410
+2002,7,Manitoba,0
+2002,7,New Brunswick,37
+2002,7,Newfoundland and Labrador,13
+2002,7,Northwest Territories,41
+2002,7,Nova Scotia,26
+2002,7,Ontario,536
+2002,7,Prince Edward Island,6
+2002,7,Quebec,249
+2002,7,Saskatchewan,183
+2002,7,Yukon,19
+2002,8,Alberta,122
+2002,8,British Columbia,596
+2002,8,Manitoba,0
+2002,8,New Brunswick,76
+2002,8,Newfoundland and Labrador,14
+2002,8,Northwest Territories,4
+2002,8,Nova Scotia,55
+2002,8,Ontario,212
+2002,8,Prince Edward Island,4
+2002,8,Quebec,166
+2002,8,Saskatchewan,21
+2002,8,Yukon,4
+2002,9,Alberta,60
+2002,9,British Columbia,108
+2002,9,Manitoba,0
+2002,9,New Brunswick,22
+2002,9,Newfoundland and Labrador,6
+2002,9,Northwest Territories,0
+2002,9,Nova Scotia,18
+2002,9,Ontario,188
+2002,9,Prince Edward Island,3
+2002,9,Quebec,205
+2002,9,Saskatchewan,5
+2002,9,Yukon,0
+2002,10,Alberta,22
+2002,10,British Columbia,86
+2002,10,Manitoba,0
+2002,10,New Brunswick,10
+2002,10,Newfoundland and Labrador,1
+2002,10,Northwest Territories,0
+2002,10,Nova Scotia,0
+2002,10,Ontario,8
+2002,10,Prince Edward Island,1
+2002,10,Quebec,11
+2002,10,Saskatchewan,2
+2002,10,Yukon,0
+2002,11,Alberta,21
+2002,11,British Columbia,32
+2002,11,Manitoba,0
+2002,11,New Brunswick,2
+2002,11,Newfoundland and Labrador,0
+2002,11,Northwest Territories,0
+2002,11,Nova Scotia,1
+2002,11,Ontario,1
+2002,11,Prince Edward Island,0
+2002,11,Quebec,1
+2002,11,Saskatchewan,0
+2002,11,Yukon,0
+2002,12,Alberta,6
+2002,12,British Columbia,6
+2002,12,Manitoba,0
+2002,12,New Brunswick,0
+2002,12,Newfoundland and Labrador,0
+2002,12,Northwest Territories,0
+2002,12,Nova Scotia,0
+2002,12,Ontario,0
+2002,12,Prince Edward Island,0
+2002,12,Quebec,0
+2002,12,Saskatchewan,0
+2002,12,Yukon,0
+2003,1,Alberta,14
+2003,1,British Columbia,5
+2003,1,Manitoba,0
+2003,1,New Brunswick,0
+2003,1,Newfoundland and Labrador,0
+2003,1,Northwest Territories,0
+2003,1,Nova Scotia,0
+2003,1,Ontario,28
+2003,1,Prince Edward Island,0
+2003,1,Quebec,0
+2003,1,Saskatchewan,0
+2003,1,Yukon,0
+2003,2,Alberta,4
+2003,2,British Columbia,3
+2003,2,Manitoba,0
+2003,2,New Brunswick,0
+2003,2,Newfoundland and Labrador,0
+2003,2,Northwest Territories,0
+2003,2,Nova Scotia,0
+2003,2,Ontario,25
+2003,2,Prince Edward Island,0
+2003,2,Quebec,0
+2003,2,Saskatchewan,0
+2003,2,Yukon,0
+2003,3,Alberta,1
+2003,3,British Columbia,19
+2003,3,Manitoba,0
+2003,3,New Brunswick,0
+2003,3,Newfoundland and Labrador,0
+2003,3,Northwest Territories,0
+2003,3,Nova Scotia,2
+2003,3,Ontario,37
+2003,3,Prince Edward Island,0
+2003,3,Quebec,0
+2003,3,Saskatchewan,0
+2003,3,Yukon,0
+2003,4,Alberta,34
+2003,4,British Columbia,99
+2003,4,Manitoba,1
+2003,4,New Brunswick,18
+2003,4,Newfoundland and Labrador,2
+2003,4,Northwest Territories,0
+2003,4,Nova Scotia,75
+2003,4,Ontario,95
+2003,4,Prince Edward Island,2
+2003,4,Quebec,39
+2003,4,Saskatchewan,48
+2003,4,Yukon,3
+2003,5,Alberta,267
+2003,5,British Columbia,144
+2003,5,Manitoba,0
+2003,5,New Brunswick,89
+2003,5,Newfoundland and Labrador,32
+2003,5,Northwest Territories,6
+2003,5,Nova Scotia,100
+2003,5,Ontario,121
+2003,5,Prince Edward Island,7
+2003,5,Quebec,254
+2003,5,Saskatchewan,135
+2003,5,Yukon,13
+2003,6,Alberta,215
+2003,6,British Columbia,272
+2003,6,Manitoba,0
+2003,6,New Brunswick,38
+2003,6,Newfoundland and Labrador,45
+2003,6,Northwest Territories,48
+2003,6,Nova Scotia,28
+2003,6,Ontario,288
+2003,6,Prince Edward Island,0
+2003,6,Quebec,193
+2003,6,Saskatchewan,73
+2003,6,Yukon,30
+2003,7,Alberta,328
+2003,7,British Columbia,562
+2003,7,Manitoba,0
+2003,7,New Brunswick,29
+2003,7,Newfoundland and Labrador,6
+2003,7,Northwest Territories,86
+2003,7,Nova Scotia,30
+2003,7,Ontario,133
+2003,7,Prince Edward Island,0
+2003,7,Quebec,78
+2003,7,Saskatchewan,221
+2003,7,Yukon,20
+2003,8,Alberta,257
+2003,8,British Columbia,1132
+2003,8,Manitoba,1
+2003,8,New Brunswick,26
+2003,8,Newfoundland and Labrador,16
+2003,8,Northwest Territories,19
+2003,8,Nova Scotia,16
+2003,8,Ontario,204
+2003,8,Prince Edward Island,1
+2003,8,Quebec,91
+2003,8,Saskatchewan,146
+2003,8,Yukon,4
+2003,9,Alberta,59
+2003,9,British Columbia,198
+2003,9,Manitoba,0
+2003,9,New Brunswick,27
+2003,9,Newfoundland and Labrador,21
+2003,9,Northwest Territories,1
+2003,9,Nova Scotia,13
+2003,9,Ontario,31
+2003,9,Prince Edward Island,2
+2003,9,Quebec,53
+2003,9,Saskatchewan,15
+2003,9,Yukon,2
+2003,10,Alberta,57
+2003,10,British Columbia,40
+2003,10,Manitoba,0
+2003,10,New Brunswick,3
+2003,10,Newfoundland and Labrador,3
+2003,10,Northwest Territories,0
+2003,10,Nova Scotia,8
+2003,10,Ontario,18
+2003,10,Prince Edward Island,1
+2003,10,Quebec,12
+2003,10,Saskatchewan,20
+2003,10,Yukon,0
+2003,11,Alberta,14
+2003,11,British Columbia,16
+2003,11,Manitoba,0
+2003,11,New Brunswick,0
+2003,11,Newfoundland and Labrador,1
+2003,11,Northwest Territories,0
+2003,11,Nova Scotia,0
+2003,11,Ontario,23
+2003,11,Prince Edward Island,1
+2003,11,Quebec,0
+2003,11,Saskatchewan,0
+2003,11,Yukon,5
+2003,12,Alberta,7
+2003,12,British Columbia,0
+2003,12,Manitoba,0
+2003,12,New Brunswick,0
+2003,12,Newfoundland and Labrador,0
+2003,12,Northwest Territories,0
+2003,12,Nova Scotia,0
+2003,12,Ontario,40
+2003,12,Prince Edward Island,0
+2003,12,Quebec,0
+2003,12,Saskatchewan,0
+2003,12,Yukon,0
+2004,1,Alberta,3
+2004,1,British Columbia,0
+2004,1,Manitoba,0
+2004,1,New Brunswick,0
+2004,1,Newfoundland and Labrador,0
+2004,1,Northwest Territories,0
+2004,1,Nova Scotia,0
+2004,1,Ontario,0
+2004,1,Prince Edward Island,0
+2004,1,Quebec,0
+2004,1,Saskatchewan,0
+2004,1,Yukon,0
+2004,2,Alberta,3
+2004,2,British Columbia,2
+2004,2,Manitoba,0
+2004,2,New Brunswick,0
+2004,2,Newfoundland and Labrador,0
+2004,2,Northwest Territories,0
+2004,2,Nova Scotia,0
+2004,2,Ontario,0
+2004,2,Prince Edward Island,0
+2004,2,Quebec,0
+2004,2,Saskatchewan,2
+2004,2,Yukon,0
+2004,3,Alberta,9
+2004,3,British Columbia,43
+2004,3,Manitoba,0
+2004,3,New Brunswick,0
+2004,3,Newfoundland and Labrador,0
+2004,3,Northwest Territories,0
+2004,3,Nova Scotia,0
+2004,3,Ontario,0
+2004,3,Prince Edward Island,0
+2004,3,Quebec,0
+2004,3,Saskatchewan,1
+2004,3,Yukon,0
+2004,4,Alberta,230
+2004,4,British Columbia,178
+2004,4,Manitoba,7
+2004,4,New Brunswick,57
+2004,4,Newfoundland and Labrador,1
+2004,4,Northwest Territories,0
+2004,4,Nova Scotia,31
+2004,4,Ontario,34
+2004,4,Prince Edward Island,1
+2004,4,Quebec,32
+2004,4,Saskatchewan,19
+2004,4,Yukon,0
+2004,5,Alberta,300
+2004,5,British Columbia,132
+2004,5,Manitoba,8
+2004,5,New Brunswick,118
+2004,5,Newfoundland and Labrador,66
+2004,5,Northwest Territories,3
+2004,5,Nova Scotia,137
+2004,5,Ontario,64
+2004,5,Prince Edward Island,14
+2004,5,Quebec,82
+2004,5,Saskatchewan,80
+2004,5,Yukon,5
+2004,6,Alberta,283
+2004,6,British Columbia,637
+2004,6,Manitoba,2
+2004,6,New Brunswick,41
+2004,6,Newfoundland and Labrador,16
+2004,6,Northwest Territories,51
+2004,6,Nova Scotia,52
+2004,6,Ontario,79
+2004,6,Prince Edward Island,3
+2004,6,Quebec,77
+2004,6,Saskatchewan,26
+2004,6,Yukon,138
+2004,7,Alberta,658
+2004,7,British Columbia,630
+2004,7,Manitoba,35
+2004,7,New Brunswick,14
+2004,7,Newfoundland and Labrador,14
+2004,7,Northwest Territories,206
+2004,7,Nova Scotia,11
+2004,7,Ontario,101
+2004,7,Prince Edward Island,0
+2004,7,Quebec,39
+2004,7,Saskatchewan,166
+2004,7,Yukon,100
+2004,8,Alberta,122
+2004,8,British Columbia,719
+2004,8,Manitoba,2
+2004,8,New Brunswick,11
+2004,8,Newfoundland and Labrador,23
+2004,8,Northwest Territories,27
+2004,8,Nova Scotia,15
+2004,8,Ontario,99
+2004,8,Prince Edward Island,1
+2004,8,Quebec,26
+2004,8,Saskatchewan,31
+2004,8,Yukon,33
+2004,9,Alberta,43
+2004,9,British Columbia,38
+2004,9,Manitoba,0
+2004,9,New Brunswick,8
+2004,9,Newfoundland and Labrador,3
+2004,9,Northwest Territories,9
+2004,9,Nova Scotia,8
+2004,9,Ontario,40
+2004,9,Prince Edward Island,0
+2004,9,Quebec,36
+2004,9,Saskatchewan,3
+2004,9,Yukon,5
+2004,10,Alberta,27
+2004,10,British Columbia,36
+2004,10,Manitoba,0
+2004,10,New Brunswick,6
+2004,10,Newfoundland and Labrador,1
+2004,10,Northwest Territories,2
+2004,10,Nova Scotia,4
+2004,10,Ontario,18
+2004,10,Prince Edward Island,1
+2004,10,Quebec,29
+2004,10,Saskatchewan,3
+2004,10,Yukon,1
+2004,11,Alberta,3
+2004,11,British Columbia,2
+2004,11,Manitoba,0
+2004,11,New Brunswick,1
+2004,11,Newfoundland and Labrador,0
+2004,11,Northwest Territories,1
+2004,11,Nova Scotia,1
+2004,11,Ontario,0
+2004,11,Prince Edward Island,0
+2004,11,Quebec,1
+2004,11,Saskatchewan,1
+2004,11,Yukon,0
+2004,12,Alberta,2
+2004,12,British Columbia,1
+2004,12,Manitoba,0
+2004,12,New Brunswick,0
+2004,12,Newfoundland and Labrador,0
+2004,12,Northwest Territories,0
+2004,12,Nova Scotia,0
+2004,12,Ontario,0
+2004,12,Prince Edward Island,0
+2004,12,Quebec,0
+2004,12,Saskatchewan,0
+2004,12,Yukon,0
+2005,1,Alberta,4
+2005,1,British Columbia,2
+2005,1,Manitoba,0
+2005,1,New Brunswick,0
+2005,1,Newfoundland and Labrador,0
+2005,1,Northwest Territories,0
+2005,1,Nova Scotia,0
+2005,1,Ontario,0
+2005,1,Prince Edward Island,0
+2005,1,Quebec,0
+2005,1,Saskatchewan,0
+2005,1,Yukon,0
+2005,2,Alberta,8
+2005,2,British Columbia,9
+2005,2,Manitoba,0
+2005,2,New Brunswick,0
+2005,2,Newfoundland and Labrador,0
+2005,2,Northwest Territories,0
+2005,2,Nova Scotia,0
+2005,2,Ontario,0
+2005,2,Prince Edward Island,0
+2005,2,Quebec,0
+2005,2,Saskatchewan,0
+2005,2,Yukon,0
+2005,3,Alberta,4
+2005,3,British Columbia,15
+2005,3,Manitoba,0
+2005,3,New Brunswick,0
+2005,3,Newfoundland and Labrador,0
+2005,3,Northwest Territories,0
+2005,3,Nova Scotia,3
+2005,3,Ontario,0
+2005,3,Prince Edward Island,0
+2005,3,Quebec,0
+2005,3,Saskatchewan,0
+2005,3,Yukon,0
+2005,4,Alberta,205
+2005,4,British Columbia,116
+2005,4,Manitoba,34
+2005,4,New Brunswick,137
+2005,4,Newfoundland and Labrador,6
+2005,4,Northwest Territories,0
+2005,4,Nova Scotia,155
+2005,4,Ontario,86
+2005,4,Prince Edward Island,8
+2005,4,Quebec,104
+2005,4,Saskatchewan,15
+2005,4,Yukon,1
+2005,5,Alberta,443
+2005,5,British Columbia,275
+2005,5,Manitoba,32
+2005,5,New Brunswick,41
+2005,5,Newfoundland and Labrador,34
+2005,5,Northwest Territories,15
+2005,5,Nova Scotia,12
+2005,5,Ontario,159
+2005,5,Prince Edward Island,1
+2005,5,Quebec,259
+2005,5,Saskatchewan,76
+2005,5,Yukon,12
+2005,6,Alberta,283
+2005,6,British Columbia,90
+2005,6,Manitoba,22
+2005,6,New Brunswick,39
+2005,6,Newfoundland and Labrador,31
+2005,6,Northwest Territories,43
+2005,6,Nova Scotia,39
+2005,6,Ontario,194
+2005,6,Prince Edward Island,1
+2005,6,Quebec,160
+2005,6,Saskatchewan,32
+2005,6,Yukon,45
+2005,7,Alberta,250
+2005,7,British Columbia,146
+2005,7,Manitoba,140
+2005,7,New Brunswick,29
+2005,7,Newfoundland and Labrador,23
+2005,7,Northwest Territories,194
+2005,7,Nova Scotia,15
+2005,7,Ontario,602
+2005,7,Prince Edward Island,0
+2005,7,Quebec,431
+2005,7,Saskatchewan,191
+2005,7,Yukon,20
+2005,8,Alberta,89
+2005,8,British Columbia,254
+2005,8,Manitoba,21
+2005,8,New Brunswick,49
+2005,8,Newfoundland and Labrador,14
+2005,8,Northwest Territories,5
+2005,8,Nova Scotia,41
+2005,8,Ontario,708
+2005,8,Prince Edward Island,1
+2005,8,Quebec,313
+2005,8,Saskatchewan,17
+2005,8,Yukon,4
+2005,9,Alberta,65
+2005,9,British Columbia,84
+2005,9,Manitoba,2
+2005,9,New Brunswick,12
+2005,9,Newfoundland and Labrador,7
+2005,9,Northwest Territories,3
+2005,9,Nova Scotia,22
+2005,9,Ontario,212
+2005,9,Prince Edward Island,0
+2005,9,Quebec,104
+2005,9,Saskatchewan,5
+2005,9,Yukon,1
+2005,10,Alberta,35
+2005,10,British Columbia,8
+2005,10,Manitoba,3
+2005,10,New Brunswick,1
+2005,10,Newfoundland and Labrador,0
+2005,10,Northwest Territories,1
+2005,10,Nova Scotia,2
+2005,10,Ontario,14
+2005,10,Prince Edward Island,0
+2005,10,Quebec,3
+2005,10,Saskatchewan,2
+2005,10,Yukon,0
+2005,11,Alberta,30
+2005,11,British Columbia,7
+2005,11,Manitoba,0
+2005,11,New Brunswick,1
+2005,11,Newfoundland and Labrador,0
+2005,11,Northwest Territories,0
+2005,11,Nova Scotia,0
+2005,11,Ontario,3
+2005,11,Prince Edward Island,1
+2005,11,Quebec,1
+2005,11,Saskatchewan,0
+2005,11,Yukon,0
+2005,12,Alberta,9
+2005,12,British Columbia,0
+2005,12,Manitoba,0
+2005,12,New Brunswick,0
+2005,12,Newfoundland and Labrador,0
+2005,12,Northwest Territories,0
+2005,12,Nova Scotia,0
+2005,12,Ontario,0
+2005,12,Prince Edward Island,1
+2005,12,Quebec,0
+2005,12,Saskatchewan,0
+2005,12,Yukon,0
+2006,1,Alberta,22
+2006,1,British Columbia,3
+2006,1,Manitoba,0
+2006,1,New Brunswick,0
+2006,1,Newfoundland and Labrador,0
+2006,1,Northwest Territories,0
+2006,1,Nova Scotia,1
+2006,1,Ontario,1
+2006,1,Prince Edward Island,0
+2006,1,Quebec,0
+2006,1,Saskatchewan,11
+2006,1,Yukon,0
+2006,2,Alberta,19
+2006,2,British Columbia,3
+2006,2,Manitoba,0
+2006,2,New Brunswick,0
+2006,2,Newfoundland and Labrador,0
+2006,2,Northwest Territories,0
+2006,2,Nova Scotia,0
+2006,2,Ontario,0
+2006,2,Prince Edward Island,0
+2006,2,Quebec,0
+2006,2,Saskatchewan,19
+2006,2,Yukon,0
+2006,3,Alberta,50
+2006,3,British Columbia,9
+2006,3,Manitoba,0
+2006,3,New Brunswick,19
+2006,3,Newfoundland and Labrador,0
+2006,3,Northwest Territories,0
+2006,3,Nova Scotia,87
+2006,3,Ontario,3
+2006,3,Prince Edward Island,9
+2006,3,Quebec,1
+2006,3,Saskatchewan,7
+2006,3,Yukon,0
+2006,4,Alberta,355
+2006,4,British Columbia,176
+2006,4,Manitoba,45
+2006,4,New Brunswick,154
+2006,4,Newfoundland and Labrador,6
+2006,4,Northwest Territories,0
+2006,4,Nova Scotia,69
+2006,4,Ontario,83
+2006,4,Prince Edward Island,10
+2006,4,Quebec,92
+2006,4,Saskatchewan,79
+2006,4,Yukon,1
+2006,5,Alberta,399
+2006,5,British Columbia,203
+2006,5,Manitoba,26
+2006,5,New Brunswick,64
+2006,5,Newfoundland and Labrador,33
+2006,5,Northwest Territories,1
+2006,5,Nova Scotia,29
+2006,5,Ontario,150
+2006,5,Prince Edward Island,13
+2006,5,Quebec,106
+2006,5,Saskatchewan,60
+2006,5,Yukon,3
+2006,6,Alberta,354
+2006,6,British Columbia,233
+2006,6,Manitoba,237
+2006,6,New Brunswick,9
+2006,6,Newfoundland and Labrador,5
+2006,6,Northwest Territories,34
+2006,6,Nova Scotia,1
+2006,6,Ontario,273
+2006,6,Prince Edward Island,2
+2006,6,Quebec,256
+2006,6,Saskatchewan,204
+2006,6,Yukon,32
+2006,7,Alberta,546
+2006,7,British Columbia,1086
+2006,7,Manitoba,172
+2006,7,New Brunswick,33
+2006,7,Newfoundland and Labrador,9
+2006,7,Northwest Territories,59
+2006,7,Nova Scotia,6
+2006,7,Ontario,597
+2006,7,Prince Edward Island,0
+2006,7,Quebec,129
+2006,7,Saskatchewan,77
+2006,7,Yukon,36
+2006,8,Alberta,154
+2006,8,British Columbia,507
+2006,8,Manitoba,116
+2006,8,New Brunswick,22
+2006,8,Newfoundland and Labrador,7
+2006,8,Northwest Territories,63
+2006,8,Nova Scotia,10
+2006,8,Ontario,503
+2006,8,Prince Edward Island,1
+2006,8,Quebec,49
+2006,8,Saskatchewan,41
+2006,8,Yukon,5
+2006,9,Alberta,141
+2006,9,British Columbia,285
+2006,9,Manitoba,81
+2006,9,New Brunswick,8
+2006,9,Newfoundland and Labrador,3
+2006,9,Northwest Territories,9
+2006,9,Nova Scotia,12
+2006,9,Ontario,660
+2006,9,Prince Edward Island,0
+2006,9,Quebec,42
+2006,9,Saskatchewan,10
+2006,9,Yukon,2
+2006,10,Alberta,56
+2006,10,British Columbia,80
+2006,10,Manitoba,6
+2006,10,New Brunswick,1
+2006,10,Newfoundland and Labrador,0
+2006,10,Northwest Territories,1
+2006,10,Nova Scotia,1
+2006,10,Ontario,19
+2006,10,Prince Edward Island,0
+2006,10,Quebec,8
+2006,10,Saskatchewan,3
+2006,10,Yukon,1
+2006,11,Alberta,6
+2006,11,British Columbia,2
+2006,11,Manitoba,1
+2006,11,New Brunswick,0
+2006,11,Newfoundland and Labrador,0
+2006,11,Northwest Territories,0
+2006,11,Nova Scotia,0
+2006,11,Ontario,2
+2006,11,Prince Edward Island,1
+2006,11,Quebec,1
+2006,11,Saskatchewan,5
+2006,11,Yukon,0
+2006,12,Alberta,5
+2006,12,British Columbia,0
+2006,12,Manitoba,0
+2006,12,New Brunswick,0
+2006,12,Newfoundland and Labrador,0
+2006,12,Northwest Territories,0
+2006,12,Nova Scotia,0
+2006,12,Ontario,0
+2006,12,Prince Edward Island,0
+2006,12,Quebec,0
+2006,12,Saskatchewan,9
+2006,12,Yukon,0
+2007,1,Alberta,6
+2007,1,British Columbia,2
+2007,1,Manitoba,0
+2007,1,New Brunswick,0
+2007,1,Newfoundland and Labrador,0
+2007,1,Northwest Territories,0
+2007,1,Nova Scotia,0
+2007,1,Ontario,0
+2007,1,Prince Edward Island,0
+2007,1,Quebec,0
+2007,1,Saskatchewan,0
+2007,1,Yukon,0
+2007,2,Alberta,3
+2007,2,British Columbia,2
+2007,2,Manitoba,0
+2007,2,New Brunswick,0
+2007,2,Newfoundland and Labrador,0
+2007,2,Northwest Territories,0
+2007,2,Nova Scotia,0
+2007,2,Ontario,2
+2007,2,Prince Edward Island,1
+2007,2,Quebec,0
+2007,2,Saskatchewan,0
+2007,2,Yukon,0
+2007,3,Alberta,9
+2007,3,British Columbia,17
+2007,3,Manitoba,0
+2007,3,New Brunswick,1
+2007,3,Newfoundland and Labrador,0
+2007,3,Northwest Territories,0
+2007,3,Nova Scotia,18
+2007,3,Ontario,15
+2007,3,Prince Edward Island,0
+2007,3,Quebec,0
+2007,3,Saskatchewan,0
+2007,3,Yukon,0
+2007,4,Alberta,129
+2007,4,British Columbia,76
+2007,4,Manitoba,38
+2007,4,New Brunswick,68
+2007,4,Newfoundland and Labrador,2
+2007,4,Northwest Territories,0
+2007,4,Nova Scotia,148
+2007,4,Ontario,105
+2007,4,Prince Edward Island,4
+2007,4,Quebec,37
+2007,4,Saskatchewan,44
+2007,4,Yukon,1
+2007,5,Alberta,238
+2007,5,British Columbia,159
+2007,5,Manitoba,53
+2007,5,New Brunswick,130
+2007,5,Newfoundland and Labrador,19
+2007,5,Northwest Territories,2
+2007,5,Nova Scotia,165
+2007,5,Ontario,235
+2007,5,Prince Edward Island,4
+2007,5,Quebec,271
+2007,5,Saskatchewan,78
+2007,5,Yukon,10
+2007,6,Alberta,264
+2007,6,British Columbia,109
+2007,6,Manitoba,71
+2007,6,New Brunswick,31
+2007,6,Newfoundland and Labrador,17
+2007,6,Northwest Territories,79
+2007,6,Nova Scotia,16
+2007,6,Ontario,92
+2007,6,Prince Edward Island,0
+2007,6,Quebec,319
+2007,6,Saskatchewan,76
+2007,6,Yukon,50
+2007,7,Alberta,410
+2007,7,British Columbia,624
+2007,7,Manitoba,161
+2007,7,New Brunswick,21
+2007,7,Newfoundland and Labrador,10
+2007,7,Northwest Territories,89
+2007,7,Nova Scotia,15
+2007,7,Ontario,201
+2007,7,Prince Edward Island,0
+2007,7,Quebec,63
+2007,7,Saskatchewan,124
+2007,7,Yukon,25
+2007,8,Alberta,163
+2007,8,British Columbia,518
+2007,8,Manitoba,50
+2007,8,New Brunswick,33
+2007,8,Newfoundland and Labrador,1
+2007,8,Northwest Territories,14
+2007,8,Nova Scotia,19
+2007,8,Ontario,423
+2007,8,Prince Edward Island,0
+2007,8,Quebec,192
+2007,8,Saskatchewan,47
+2007,8,Yukon,15
+2007,9,Alberta,66
+2007,9,British Columbia,111
+2007,9,Manitoba,9
+2007,9,New Brunswick,15
+2007,9,Newfoundland and Labrador,6
+2007,9,Northwest Territories,0
+2007,9,Nova Scotia,2
+2007,9,Ontario,49
+2007,9,Prince Edward Island,0
+2007,9,Quebec,26
+2007,9,Saskatchewan,3
+2007,9,Yukon,0
+2007,10,Alberta,59
+2007,10,British Columbia,18
+2007,10,Manitoba,1
+2007,10,New Brunswick,17
+2007,10,Newfoundland and Labrador,0
+2007,10,Northwest Territories,0
+2007,10,Nova Scotia,3
+2007,10,Ontario,5
+2007,10,Prince Edward Island,0
+2007,10,Quebec,28
+2007,10,Saskatchewan,2
+2007,10,Yukon,10
+2007,11,Alberta,26
+2007,11,British Columbia,4
+2007,11,Manitoba,0
+2007,11,New Brunswick,2
+2007,11,Newfoundland and Labrador,0
+2007,11,Northwest Territories,0
+2007,11,Nova Scotia,1
+2007,11,Ontario,1
+2007,11,Prince Edward Island,0
+2007,11,Quebec,3
+2007,11,Saskatchewan,0
+2007,11,Yukon,0
+2007,12,Alberta,5
+2007,12,British Columbia,1
+2007,12,Manitoba,0
+2007,12,New Brunswick,0
+2007,12,Newfoundland and Labrador,0
+2007,12,Northwest Territories,0
+2007,12,Nova Scotia,0
+2007,12,Ontario,0
+2007,12,Prince Edward Island,0
+2007,12,Quebec,0
+2007,12,Saskatchewan,0
+2007,12,Yukon,0
+2008,1,Alberta,12
+2008,1,British Columbia,1
+2008,1,Manitoba,0
+2008,1,New Brunswick,0
+2008,1,Newfoundland and Labrador,0
+2008,1,Northwest Territories,0
+2008,1,Nova Scotia,0
+2008,1,Ontario,0
+2008,1,Prince Edward Island,0
+2008,1,Quebec,0
+2008,1,Saskatchewan,1
+2008,1,Yukon,0
+2008,2,Alberta,4
+2008,2,British Columbia,2
+2008,2,Manitoba,0
+2008,2,New Brunswick,0
+2008,2,Newfoundland and Labrador,0
+2008,2,Northwest Territories,0
+2008,2,Nova Scotia,0
+2008,2,Ontario,0
+2008,2,Prince Edward Island,0
+2008,2,Quebec,0
+2008,2,Saskatchewan,0
+2008,2,Yukon,0
+2008,3,Alberta,20
+2008,3,British Columbia,13
+2008,3,Manitoba,0
+2008,3,New Brunswick,0
+2008,3,Newfoundland and Labrador,0
+2008,3,Northwest Territories,0
+2008,3,Nova Scotia,2
+2008,3,Ontario,0
+2008,3,Prince Edward Island,0
+2008,3,Quebec,0
+2008,3,Saskatchewan,0
+2008,3,Yukon,0
+2008,4,Alberta,103
+2008,4,British Columbia,117
+2008,4,Manitoba,18
+2008,4,New Brunswick,14
+2008,4,Newfoundland and Labrador,2
+2008,4,Northwest Territories,0
+2008,4,Nova Scotia,136
+2008,4,Ontario,29
+2008,4,Prince Edward Island,0
+2008,4,Quebec,33
+2008,4,Saskatchewan,28
+2008,4,Yukon,0
+2008,5,Alberta,438
+2008,5,British Columbia,161
+2008,5,Manitoba,154
+2008,5,New Brunswick,81
+2008,5,Newfoundland and Labrador,33
+2008,5,Northwest Territories,8
+2008,5,Nova Scotia,45
+2008,5,Ontario,79
+2008,5,Prince Edward Island,0
+2008,5,Quebec,77
+2008,5,Saskatchewan,161
+2008,5,Yukon,11
+2008,6,Alberta,342
+2008,6,British Columbia,170
+2008,6,Manitoba,123
+2008,6,New Brunswick,13
+2008,6,Newfoundland and Labrador,8
+2008,6,Northwest Territories,61
+2008,6,Nova Scotia,37
+2008,6,Ontario,34
+2008,6,Prince Edward Island,0
+2008,6,Quebec,36
+2008,6,Saskatchewan,265
+2008,6,Yukon,40
+2008,7,Alberta,414
+2008,7,British Columbia,596
+2008,7,Manitoba,40
+2008,7,New Brunswick,33
+2008,7,Newfoundland and Labrador,14
+2008,7,Northwest Territories,85
+2008,7,Nova Scotia,19
+2008,7,Ontario,35
+2008,7,Prince Edward Island,4
+2008,7,Quebec,18
+2008,7,Saskatchewan,98
+2008,7,Yukon,6
+2008,8,Alberta,221
+2008,8,British Columbia,780
+2008,8,Manitoba,54
+2008,8,New Brunswick,14
+2008,8,Newfoundland and Labrador,2
+2008,8,Northwest Territories,86
+2008,8,Nova Scotia,2
+2008,8,Ontario,132
+2008,8,Prince Edward Island,0
+2008,8,Quebec,35
+2008,8,Saskatchewan,31
+2008,8,Yukon,10
+2008,9,Alberta,75
+2008,9,British Columbia,122
+2008,9,Manitoba,6
+2008,9,New Brunswick,11
+2008,9,Newfoundland and Labrador,7
+2008,9,Northwest Territories,0
+2008,9,Nova Scotia,3
+2008,9,Ontario,23
+2008,9,Prince Edward Island,0
+2008,9,Quebec,12
+2008,9,Saskatchewan,7
+2008,9,Yukon,2
+2008,10,Alberta,87
+2008,10,British Columbia,66
+2008,10,Manitoba,2
+2008,10,New Brunswick,2
+2008,10,Newfoundland and Labrador,6
+2008,10,Northwest Territories,0
+2008,10,Nova Scotia,2
+2008,10,Ontario,9
+2008,10,Prince Edward Island,0
+2008,10,Quebec,9
+2008,10,Saskatchewan,12
+2008,10,Yukon,1
+2008,11,Alberta,23
+2008,11,British Columbia,7
+2008,11,Manitoba,0
+2008,11,New Brunswick,0
+2008,11,Newfoundland and Labrador,0
+2008,11,Northwest Territories,0
+2008,11,Nova Scotia,1
+2008,11,Ontario,1
+2008,11,Prince Edward Island,0
+2008,11,Quebec,2
+2008,11,Saskatchewan,0
+2008,11,Yukon,0
+2008,12,Alberta,4
+2008,12,British Columbia,3
+2008,12,Manitoba,0
+2008,12,New Brunswick,0
+2008,12,Newfoundland and Labrador,0
+2008,12,Northwest Territories,0
+2008,12,Nova Scotia,0
+2008,12,Ontario,0
+2008,12,Prince Edward Island,0
+2008,12,Quebec,0
+2008,12,Saskatchewan,0
+2008,12,Yukon,6
+2009,1,Alberta,8
+2009,1,British Columbia,8
+2009,1,Manitoba,0
+2009,1,New Brunswick,0
+2009,1,Newfoundland and Labrador,0
+2009,1,Northwest Territories,1
+2009,1,Nova Scotia,0
+2009,1,Ontario,1
+2009,1,Prince Edward Island,0
+2009,1,Quebec,0
+2009,1,Saskatchewan,1
+2009,1,Yukon,0
+2009,2,Alberta,11
+2009,2,British Columbia,7
+2009,2,Manitoba,0
+2009,2,New Brunswick,0
+2009,2,Newfoundland and Labrador,0
+2009,2,Northwest Territories,1
+2009,2,Nova Scotia,0
+2009,2,Ontario,0
+2009,2,Prince Edward Island,0
+2009,2,Quebec,0
+2009,2,Saskatchewan,0
+2009,2,Yukon,0
+2009,3,Alberta,5
+2009,3,British Columbia,19
+2009,3,Manitoba,0
+2009,3,New Brunswick,0
+2009,3,Newfoundland and Labrador,1
+2009,3,Northwest Territories,0
+2009,3,Nova Scotia,4
+2009,3,Ontario,0
+2009,3,Prince Edward Island,0
+2009,3,Quebec,1
+2009,3,Saskatchewan,0
+2009,3,Yukon,0
+2009,4,Alberta,127
+2009,4,British Columbia,165
+2009,4,Manitoba,2
+2009,4,New Brunswick,54
+2009,4,Newfoundland and Labrador,26
+2009,4,Northwest Territories,1
+2009,4,Nova Scotia,104
+2009,4,Ontario,24
+2009,4,Prince Edward Island,3
+2009,4,Quebec,105
+2009,4,Saskatchewan,59
+2009,4,Yukon,0
+2009,5,Alberta,493
+2009,5,British Columbia,197
+2009,5,Manitoba,35
+2009,5,New Brunswick,88
+2009,5,Newfoundland and Labrador,52
+2009,5,Northwest Territories,4
+2009,5,Nova Scotia,46
+2009,5,Ontario,110
+2009,5,Prince Edward Island,5
+2009,5,Quebec,94
+2009,5,Saskatchewan,193
+2009,5,Yukon,9
+2009,6,Alberta,454
+2009,6,British Columbia,459
+2009,6,Manitoba,72
+2009,6,New Brunswick,11
+2009,6,Newfoundland and Labrador,27
+2009,6,Northwest Territories,15
+2009,6,Nova Scotia,8
+2009,6,Ontario,140
+2009,6,Prince Edward Island,0
+2009,6,Quebec,195
+2009,6,Saskatchewan,201
+2009,6,Yukon,30
+2009,7,Alberta,170
+2009,7,British Columbia,1191
+2009,7,Manitoba,21
+2009,7,New Brunswick,3
+2009,7,Newfoundland and Labrador,29
+2009,7,Northwest Territories,10
+2009,7,Nova Scotia,7
+2009,7,Ontario,42
+2009,7,Prince Edward Island,0
+2009,7,Quebec,21
+2009,7,Saskatchewan,14
+2009,7,Yukon,60
+2009,8,Alberta,179
+2009,8,British Columbia,632
+2009,8,Manitoba,11
+2009,8,New Brunswick,18
+2009,8,Newfoundland and Labrador,4
+2009,8,Northwest Territories,13
+2009,8,Nova Scotia,14
+2009,8,Ontario,20
+2009,8,Prince Edward Island,0
+2009,8,Quebec,26
+2009,8,Saskatchewan,17
+2009,8,Yukon,16
+2009,9,Alberta,174
+2009,9,British Columbia,337
+2009,9,Manitoba,26
+2009,9,New Brunswick,17
+2009,9,Newfoundland and Labrador,8
+2009,9,Northwest Territories,1
+2009,9,Nova Scotia,7
+2009,9,Ontario,46
+2009,9,Prince Edward Island,0
+2009,9,Quebec,32
+2009,9,Saskatchewan,29
+2009,9,Yukon,0
+2009,10,Alberta,45
+2009,10,British Columbia,49
+2009,10,Manitoba,17
+2009,10,New Brunswick,3
+2009,10,Newfoundland and Labrador,0
+2009,10,Northwest Territories,0
+2009,10,Nova Scotia,0
+2009,10,Ontario,6
+2009,10,Prince Edward Island,0
+2009,10,Quebec,2
+2009,10,Saskatchewan,0
+2009,10,Yukon,0
+2009,11,Alberta,17
+2009,11,British Columbia,5
+2009,11,Manitoba,1
+2009,11,New Brunswick,3
+2009,11,Newfoundland and Labrador,0
+2009,11,Northwest Territories,0
+2009,11,Nova Scotia,0
+2009,11,Ontario,0
+2009,11,Prince Edward Island,0
+2009,11,Quebec,7
+2009,11,Saskatchewan,1
+2009,11,Yukon,0
+2009,12,Alberta,10
+2009,12,British Columbia,2
+2009,12,Manitoba,0
+2009,12,New Brunswick,0
+2009,12,Newfoundland and Labrador,0
+2009,12,Northwest Territories,0
+2009,12,Nova Scotia,0
+2009,12,Ontario,0
+2009,12,Prince Edward Island,0
+2009,12,Quebec,0
+2009,12,Saskatchewan,0
+2009,12,Yukon,3
+2010,1,Alberta,7
+2010,1,British Columbia,2
+2010,1,Manitoba,0
+2010,1,New Brunswick,0
+2010,1,Newfoundland and Labrador,0
+2010,1,Northwest Territories,0
+2010,1,Nova Scotia,0
+2010,1,Ontario,0
+2010,1,Prince Edward Island,0
+2010,1,Quebec,0
+2010,1,Saskatchewan,1
+2010,1,Yukon,1
+2010,2,Alberta,6
+2010,2,British Columbia,2
+2010,2,Manitoba,0
+2010,2,New Brunswick,0
+2010,2,Newfoundland and Labrador,0
+2010,2,Northwest Territories,0
+2010,2,Nova Scotia,0
+2010,2,Ontario,0
+2010,2,Prince Edward Island,0
+2010,2,Quebec,0
+2010,2,Saskatchewan,0
+2010,2,Yukon,0
+2010,3,Alberta,48
+2010,3,British Columbia,30
+2010,3,Manitoba,0
+2010,3,New Brunswick,3
+2010,3,Newfoundland and Labrador,2
+2010,3,Northwest Territories,0
+2010,3,Nova Scotia,59
+2010,3,Ontario,34
+2010,3,Prince Edward Island,0
+2010,3,Quebec,11
+2010,3,Saskatchewan,1
+2010,3,Yukon,0
+2010,4,Alberta,338
+2010,4,British Columbia,135
+2010,4,Manitoba,91
+2010,4,New Brunswick,47
+2010,4,Newfoundland and Labrador,7
+2010,4,Northwest Territories,0
+2010,4,Nova Scotia,114
+2010,4,Ontario,199
+2010,4,Prince Edward Island,1
+2010,4,Quebec,108
+2010,4,Saskatchewan,56
+2010,4,Yukon,0
+2010,5,Alberta,381
+2010,5,British Columbia,91
+2010,5,Manitoba,62
+2010,5,New Brunswick,52
+2010,5,Newfoundland and Labrador,5
+2010,5,Northwest Territories,5
+2010,5,Nova Scotia,63
+2010,5,Ontario,334
+2010,5,Prince Edward Island,3
+2010,5,Quebec,251
+2010,5,Saskatchewan,103
+2010,5,Yukon,20
+2010,6,Alberta,349
+2010,6,British Columbia,132
+2010,6,Manitoba,79
+2010,6,New Brunswick,7
+2010,6,Newfoundland and Labrador,4
+2010,6,Northwest Territories,81
+2010,6,Nova Scotia,9
+2010,6,Ontario,83
+2010,6,Prince Edward Island,0
+2010,6,Quebec,154
+2010,6,Saskatchewan,166
+2010,6,Yukon,38
+2010,7,Alberta,506
+2010,7,British Columbia,826
+2010,7,Manitoba,211
+2010,7,New Brunswick,14
+2010,7,Newfoundland and Labrador,4
+2010,7,Northwest Territories,121
+2010,7,Nova Scotia,0
+2010,7,Ontario,166
+2010,7,Prince Edward Island,0
+2010,7,Quebec,89
+2010,7,Saskatchewan,190
+2010,7,Yukon,18
+2010,8,Alberta,174
+2010,8,British Columbia,392
+2010,8,Manitoba,115
+2010,8,New Brunswick,42
+2010,8,Newfoundland and Labrador,11
+2010,8,Northwest Territories,13
+2010,8,Nova Scotia,0
+2010,8,Ontario,80
+2010,8,Prince Edward Island,0
+2010,8,Quebec,95
+2010,8,Saskatchewan,64
+2010,8,Yukon,10
+2010,9,Alberta,49
+2010,9,British Columbia,52
+2010,9,Manitoba,27
+2010,9,New Brunswick,11
+2010,9,Newfoundland and Labrador,6
+2010,9,Northwest Territories,4
+2010,9,Nova Scotia,0
+2010,9,Ontario,12
+2010,9,Prince Edward Island,0
+2010,9,Quebec,21
+2010,9,Saskatchewan,0
+2010,9,Yukon,0
+2010,10,Alberta,62
+2010,10,British Columbia,54
+2010,10,Manitoba,3
+2010,10,New Brunswick,2
+2010,10,Newfoundland and Labrador,3
+2010,10,Northwest Territories,0
+2010,10,Nova Scotia,0
+2010,10,Ontario,23
+2010,10,Prince Edward Island,0
+2010,10,Quebec,7
+2010,10,Saskatchewan,1
+2010,10,Yukon,2
+2010,11,Alberta,26
+2010,11,British Columbia,11
+2010,11,Manitoba,1
+2010,11,New Brunswick,1
+2010,11,Newfoundland and Labrador,1
+2010,11,Northwest Territories,0
+2010,11,Nova Scotia,5
+2010,11,Ontario,2
+2010,11,Prince Edward Island,0
+2010,11,Quebec,4
+2010,11,Saskatchewan,0
+2010,11,Yukon,0
+2010,12,Alberta,3
+2010,12,British Columbia,4
+2010,12,Manitoba,0
+2010,12,New Brunswick,0
+2010,12,Newfoundland and Labrador,0
+2010,12,Northwest Territories,0
+2010,12,Nova Scotia,0
+2010,12,Ontario,0
+2010,12,Prince Edward Island,0
+2010,12,Quebec,0
+2010,12,Saskatchewan,0
+2010,12,Yukon,0
+2011,1,Alberta,2
+2011,1,British Columbia,2
+2011,1,Manitoba,0
+2011,1,New Brunswick,0
+2011,1,Newfoundland and Labrador,0
+2011,1,Northwest Territories,0
+2011,1,Nova Scotia,0
+2011,1,Ontario,0
+2011,1,Prince Edward Island,0
+2011,1,Quebec,0
+2011,1,Saskatchewan,0
+2011,1,Yukon,0
+2011,2,Alberta,0
+2011,2,British Columbia,2
+2011,2,Manitoba,0
+2011,2,New Brunswick,0
+2011,2,Newfoundland and Labrador,0
+2011,2,Northwest Territories,0
+2011,2,Nova Scotia,0
+2011,2,Ontario,0
+2011,2,Prince Edward Island,0
+2011,2,Quebec,0
+2011,2,Saskatchewan,0
+2011,2,Yukon,0
+2011,3,Alberta,1
+2011,3,British Columbia,9
+2011,3,Manitoba,0
+2011,3,New Brunswick,0
+2011,3,Newfoundland and Labrador,0
+2011,3,Northwest Territories,0
+2011,3,Nova Scotia,20
+2011,3,Ontario,0
+2011,3,Prince Edward Island,0
+2011,3,Quebec,0
+2011,3,Saskatchewan,0
+2011,3,Yukon,0
+2011,4,Alberta,140
+2011,4,British Columbia,48
+2011,4,Manitoba,6
+2011,4,New Brunswick,23
+2011,4,Newfoundland and Labrador,2
+2011,4,Northwest Territories,0
+2011,4,Nova Scotia,62
+2011,4,Ontario,30
+2011,4,Prince Edward Island,2
+2011,4,Quebec,4
+2011,4,Saskatchewan,20
+2011,4,Yukon,1
+2011,5,Alberta,405
+2011,5,British Columbia,67
+2011,5,Manitoba,39
+2011,5,New Brunswick,25
+2011,5,Newfoundland and Labrador,14
+2011,5,Northwest Territories,14
+2011,5,Nova Scotia,9
+2011,5,Ontario,145
+2011,5,Prince Edward Island,1
+2011,5,Quebec,63
+2011,5,Saskatchewan,144
+2011,5,Yukon,24
+2011,6,Alberta,115
+2011,6,British Columbia,68
+2011,6,Manitoba,38
+2011,6,New Brunswick,7
+2011,6,Newfoundland and Labrador,5
+2011,6,Northwest Territories,78
+2011,6,Nova Scotia,6
+2011,6,Ontario,129
+2011,6,Prince Edward Island,0
+2011,6,Quebec,75
+2011,6,Saskatchewan,68
+2011,6,Yukon,13
+2011,7,Alberta,174
+2011,7,British Columbia,115
+2011,7,Manitoba,106
+2011,7,New Brunswick,11
+2011,7,Newfoundland and Labrador,5
+2011,7,Northwest Territories,85
+2011,7,Nova Scotia,8
+2011,7,Ontario,398
+2011,7,Prince Edward Island,0
+2011,7,Quebec,71
+2011,7,Saskatchewan,19
+2011,7,Yukon,14
+2011,8,Alberta,160
+2011,8,British Columbia,223
+2011,8,Manitoba,82
+2011,8,New Brunswick,1
+2011,8,Newfoundland and Labrador,9
+2011,8,Northwest Territories,22
+2011,8,Nova Scotia,7
+2011,8,Ontario,401
+2011,8,Prince Edward Island,0
+2011,8,Quebec,58
+2011,8,Saskatchewan,15
+2011,8,Yukon,1
+2011,9,Alberta,135
+2011,9,British Columbia,107
+2011,9,Manitoba,19
+2011,9,New Brunswick,0
+2011,9,Newfoundland and Labrador,5
+2011,9,Northwest Territories,2
+2011,9,Nova Scotia,2
+2011,9,Ontario,171
+2011,9,Prince Edward Island,1
+2011,9,Quebec,29
+2011,9,Saskatchewan,28
+2011,9,Yukon,3
+2011,10,Alberta,44
+2011,10,British Columbia,37
+2011,10,Manitoba,27
+2011,10,New Brunswick,0
+2011,10,Newfoundland and Labrador,0
+2011,10,Northwest Territories,0
+2011,10,Nova Scotia,0
+2011,10,Ontario,58
+2011,10,Prince Edward Island,0
+2011,10,Quebec,26
+2011,10,Saskatchewan,13
+2011,10,Yukon,0
+2011,11,Alberta,29
+2011,11,British Columbia,6
+2011,11,Manitoba,6
+2011,11,New Brunswick,0
+2011,11,Newfoundland and Labrador,0
+2011,11,Northwest Territories,0
+2011,11,Nova Scotia,0
+2011,11,Ontario,4
+2011,11,Prince Edward Island,0
+2011,11,Quebec,5
+2011,11,Saskatchewan,1
+2011,11,Yukon,0
+2011,12,Alberta,3
+2011,12,British Columbia,0
+2011,12,Manitoba,0
+2011,12,New Brunswick,0
+2011,12,Newfoundland and Labrador,0
+2011,12,Northwest Territories,0
+2011,12,Nova Scotia,0
+2011,12,Ontario,3
+2011,12,Prince Edward Island,0
+2011,12,Quebec,0
+2011,12,Saskatchewan,0
+2011,12,Yukon,0
+2012,1,Alberta,14
+2012,1,British Columbia,2
+2012,1,Manitoba,0
+2012,1,New Brunswick,0
+2012,1,Newfoundland and Labrador,0
+2012,1,Northwest Territories,0
+2012,1,Nova Scotia,0
+2012,1,Ontario,1
+2012,1,Prince Edward Island,0
+2012,1,Quebec,0
+2012,1,Saskatchewan,0
+2012,1,Yukon,0
+2012,2,Alberta,3
+2012,2,British Columbia,2
+2012,2,Manitoba,0
+2012,2,New Brunswick,0
+2012,2,Newfoundland and Labrador,0
+2012,2,Northwest Territories,0
+2012,2,Nova Scotia,0
+2012,2,Ontario,0
+2012,2,Prince Edward Island,0
+2012,2,Quebec,0
+2012,2,Saskatchewan,0
+2012,2,Yukon,0
+2012,3,Alberta,32
+2012,3,British Columbia,6
+2012,3,Manitoba,11
+2012,3,New Brunswick,8
+2012,3,Newfoundland and Labrador,1
+2012,3,Northwest Territories,0
+2012,3,Nova Scotia,72
+2012,3,Ontario,16
+2012,3,Prince Edward Island,0
+2012,3,Quebec,14
+2012,3,Saskatchewan,1
+2012,3,Yukon,0
+2012,4,Alberta,123
+2012,4,British Columbia,74
+2012,4,Manitoba,51
+2012,4,New Brunswick,189
+2012,4,Newfoundland and Labrador,20
+2012,4,Northwest Territories,0
+2012,4,Nova Scotia,157
+2012,4,Ontario,136
+2012,4,Prince Edward Island,2
+2012,4,Quebec,113
+2012,4,Saskatchewan,40
+2012,4,Yukon,0
+2012,5,Alberta,456
+2012,5,British Columbia,168
+2012,5,Manitoba,42
+2012,5,New Brunswick,49
+2012,5,Newfoundland and Labrador,14
+2012,5,Northwest Territories,12
+2012,5,Nova Scotia,35
+2012,5,Ontario,276
+2012,5,Prince Edward Island,3
+2012,5,Quebec,181
+2012,5,Saskatchewan,89
+2012,5,Yukon,4
+2012,6,Alberta,124
+2012,6,British Columbia,57
+2012,6,Manitoba,61
+2012,6,New Brunswick,22
+2012,6,Newfoundland and Labrador,31
+2012,6,Northwest Territories,76
+2012,6,Nova Scotia,22
+2012,6,Ontario,125
+2012,6,Prince Edward Island,1
+2012,6,Quebec,94
+2012,6,Saskatchewan,38
+2012,6,Yukon,74
+2012,7,Alberta,410
+2012,7,British Columbia,417
+2012,7,Manitoba,263
+2012,7,New Brunswick,26
+2012,7,Newfoundland and Labrador,36
+2012,7,Northwest Territories,148
+2012,7,Nova Scotia,32
+2012,7,Ontario,710
+2012,7,Prince Edward Island,1
+2012,7,Quebec,268
+2012,7,Saskatchewan,169
+2012,7,Yukon,29
+2012,8,Alberta,272
+2012,8,British Columbia,642
+2012,8,Manitoba,43
+2012,8,New Brunswick,28
+2012,8,Newfoundland and Labrador,9
+2012,8,Northwest Territories,43
+2012,8,Nova Scotia,26
+2012,8,Ontario,181
+2012,8,Prince Edward Island,1
+2012,8,Quebec,86
+2012,8,Saskatchewan,72
+2012,8,Yukon,19
+2012,9,Alberta,170
+2012,9,British Columbia,205
+2012,9,Manitoba,22
+2012,9,New Brunswick,12
+2012,9,Newfoundland and Labrador,4
+2012,9,Northwest Territories,10
+2012,9,Nova Scotia,9
+2012,9,Ontario,175
+2012,9,Prince Edward Island,0
+2012,9,Quebec,32
+2012,9,Saskatchewan,15
+2012,9,Yukon,1
+2012,10,Alberta,40
+2012,10,British Columbia,83
+2012,10,Manitoba,6
+2012,10,New Brunswick,3
+2012,10,Newfoundland and Labrador,0
+2012,10,Northwest Territories,0
+2012,10,Nova Scotia,0
+2012,10,Ontario,13
+2012,10,Prince Edward Island,0
+2012,10,Quebec,7
+2012,10,Saskatchewan,2
+2012,10,Yukon,0
+2012,11,Alberta,2
+2012,11,British Columbia,2
+2012,11,Manitoba,0
+2012,11,New Brunswick,1
+2012,11,Newfoundland and Labrador,0
+2012,11,Northwest Territories,0
+2012,11,Nova Scotia,0
+2012,11,Ontario,2
+2012,11,Prince Edward Island,0
+2012,11,Quebec,3
+2012,11,Saskatchewan,2
+2012,11,Yukon,0
+2012,12,Alberta,0
+2012,12,British Columbia,1
+2012,12,Manitoba,0
+2012,12,New Brunswick,0
+2012,12,Newfoundland and Labrador,0
+2012,12,Northwest Territories,0
+2012,12,Nova Scotia,0
+2012,12,Ontario,0
+2012,12,Prince Edward Island,0
+2012,12,Quebec,0
+2012,12,Saskatchewan,0
+2012,12,Yukon,0
+2013,1,Alberta,1
+2013,1,British Columbia,1
+2013,1,Manitoba,0
+2013,1,New Brunswick,0
+2013,1,Newfoundland and Labrador,0
+2013,1,Northwest Territories,0
+2013,1,Nova Scotia,0
+2013,1,Ontario,0
+2013,1,Prince Edward Island,0
+2013,1,Quebec,0
+2013,1,Saskatchewan,0
+2013,1,Yukon,0
+2013,2,Alberta,3
+2013,2,British Columbia,0
+2013,2,Manitoba,0
+2013,2,New Brunswick,0
+2013,2,Newfoundland and Labrador,0
+2013,2,Northwest Territories,0
+2013,2,Nova Scotia,0
+2013,2,Ontario,0
+2013,2,Prince Edward Island,0
+2013,2,Quebec,0
+2013,2,Saskatchewan,0
+2013,2,Yukon,0
+2013,3,Alberta,9
+2013,3,British Columbia,21
+2013,3,Manitoba,0
+2013,3,New Brunswick,3
+2013,3,Newfoundland and Labrador,0
+2013,3,Northwest Territories,0
+2013,3,Nova Scotia,3
+2013,3,Ontario,0
+2013,3,Prince Edward Island,0
+2013,3,Quebec,0
+2013,3,Saskatchewan,0
+2013,3,Yukon,0
+2013,4,Alberta,37
+2013,4,British Columbia,85
+2013,4,Manitoba,3
+2013,4,New Brunswick,176
+2013,4,Newfoundland and Labrador,7
+2013,4,Northwest Territories,0
+2013,4,Nova Scotia,59
+2013,4,Ontario,19
+2013,4,Prince Edward Island,4
+2013,4,Quebec,64
+2013,4,Saskatchewan,4
+2013,4,Yukon,0
+2013,5,Alberta,529
+2013,5,British Columbia,128
+2013,5,Manitoba,71
+2013,5,New Brunswick,123
+2013,5,Newfoundland and Labrador,21
+2013,5,Northwest Territories,4
+2013,5,Nova Scotia,85
+2013,5,Ontario,140
+2013,5,Prince Edward Island,1
+2013,5,Quebec,164
+2013,5,Saskatchewan,177
+2013,5,Yukon,7
+2013,6,Alberta,132
+2013,6,British Columbia,101
+2013,6,Manitoba,106
+2013,6,New Brunswick,7
+2013,6,Newfoundland and Labrador,10
+2013,6,Northwest Territories,152
+2013,6,Nova Scotia,2
+2013,6,Ontario,122
+2013,6,Prince Edward Island,1
+2013,6,Quebec,89
+2013,6,Saskatchewan,51
+2013,6,Yukon,100
+2013,7,Alberta,211
+2013,7,British Columbia,367
+2013,7,Manitoba,169
+2013,7,New Brunswick,34
+2013,7,Newfoundland and Labrador,22
+2013,7,Northwest Territories,77
+2013,7,Nova Scotia,6
+2013,7,Ontario,168
+2013,7,Prince Edward Island,1
+2013,7,Quebec,138
+2013,7,Saskatchewan,48
+2013,7,Yukon,29
+2013,8,Alberta,180
+2013,8,British Columbia,999
+2013,8,Manitoba,103
+2013,8,New Brunswick,7
+2013,8,Newfoundland and Labrador,7
+2013,8,Northwest Territories,19
+2013,8,Nova Scotia,17
+2013,8,Ontario,105
+2013,8,Prince Edward Island,1
+2013,8,Quebec,40
+2013,8,Saskatchewan,115
+2013,8,Yukon,39
+2013,9,Alberta,135
+2013,9,British Columbia,131
+2013,9,Manitoba,43
+2013,9,New Brunswick,0
+2013,9,Newfoundland and Labrador,0
+2013,9,Northwest Territories,5
+2013,9,Nova Scotia,2
+2013,9,Ontario,20
+2013,9,Prince Edward Island,0
+2013,9,Quebec,15
+2013,9,Saskatchewan,48
+2013,9,Yukon,2
+2013,10,Alberta,26
+2013,10,British Columbia,43
+2013,10,Manitoba,0
+2013,10,New Brunswick,3
+2013,10,Newfoundland and Labrador,2
+2013,10,Northwest Territories,0
+2013,10,Nova Scotia,0
+2013,10,Ontario,8
+2013,10,Prince Edward Island,0
+2013,10,Quebec,15
+2013,10,Saskatchewan,6
+2013,10,Yukon,0
+2013,11,Alberta,15
+2013,11,British Columbia,1
+2013,11,Manitoba,1
+2013,11,New Brunswick,0
+2013,11,Newfoundland and Labrador,0
+2013,11,Northwest Territories,0
+2013,11,Nova Scotia,0
+2013,11,Ontario,0
+2013,11,Prince Edward Island,0
+2013,11,Quebec,3
+2013,11,Saskatchewan,0
+2013,11,Yukon,0
+2013,12,Alberta,1
+2013,12,British Columbia,2
+2013,12,Manitoba,0
+2013,12,New Brunswick,0
+2013,12,Newfoundland and Labrador,0
+2013,12,Northwest Territories,0
+2013,12,Nova Scotia,0
+2013,12,Ontario,0
+2013,12,Prince Edward Island,0
+2013,12,Quebec,0
+2013,12,Saskatchewan,0
+2013,12,Yukon,0
+2014,1,Alberta,9
+2014,1,British Columbia,1
+2014,1,Manitoba,0
+2014,1,New Brunswick,0
+2014,1,Newfoundland and Labrador,0
+2014,1,Northwest Territories,0
+2014,1,Nova Scotia,0
+2014,1,Ontario,0
+2014,1,Prince Edward Island,0
+2014,1,Quebec,0
+2014,1,Saskatchewan,0
+2014,1,Yukon,0
+2014,2,Alberta,0
+2014,2,British Columbia,4
+2014,2,Manitoba,0
+2014,2,New Brunswick,0
+2014,2,Newfoundland and Labrador,0
+2014,2,Northwest Territories,0
+2014,2,Nova Scotia,0
+2014,2,Ontario,0
+2014,2,Prince Edward Island,0
+2014,2,Quebec,0
+2014,2,Saskatchewan,0
+2014,2,Yukon,0
+2014,3,Alberta,11
+2014,3,British Columbia,10
+2014,3,Manitoba,0
+2014,3,New Brunswick,0
+2014,3,Newfoundland and Labrador,0
+2014,3,Northwest Territories,0
+2014,3,Nova Scotia,1
+2014,3,Ontario,1
+2014,3,Prince Edward Island,0
+2014,3,Quebec,0
+2014,3,Saskatchewan,0
+2014,3,Yukon,0
+2014,4,Alberta,81
+2014,4,British Columbia,107
+2014,4,Manitoba,5
+2014,4,New Brunswick,39
+2014,4,Newfoundland and Labrador,0
+2014,4,Northwest Territories,1
+2014,4,Nova Scotia,41
+2014,4,Ontario,5
+2014,4,Prince Edward Island,0
+2014,4,Quebec,14
+2014,4,Saskatchewan,5
+2014,4,Yukon,1
+2014,5,Alberta,360
+2014,5,British Columbia,105
+2014,5,Manitoba,41
+2014,5,New Brunswick,79
+2014,5,Newfoundland and Labrador,0
+2014,5,Northwest Territories,4
+2014,5,Nova Scotia,71
+2014,5,Ontario,54
+2014,5,Prince Edward Island,1
+2014,5,Quebec,57
+2014,5,Saskatchewan,142
+2014,5,Yukon,4
+2014,6,Alberta,282
+2014,6,British Columbia,132
+2014,6,Manitoba,49
+2014,6,New Brunswick,20
+2014,6,Newfoundland and Labrador,0
+2014,6,Northwest Territories,118
+2014,6,Nova Scotia,23
+2014,6,Ontario,73
+2014,6,Prince Edward Island,2
+2014,6,Quebec,72
+2014,6,Saskatchewan,37
+2014,6,Yukon,14
+2014,7,Alberta,330
+2014,7,British Columbia,485
+2014,7,Manitoba,45
+2014,7,New Brunswick,16
+2014,7,Newfoundland and Labrador,0
+2014,7,Northwest Territories,188
+2014,7,Nova Scotia,13
+2014,7,Ontario,86
+2014,7,Prince Edward Island,0
+2014,7,Quebec,66
+2014,7,Saskatchewan,111
+2014,7,Yukon,10
+2014,8,Alberta,263
+2014,8,British Columbia,502
+2014,8,Manitoba,94
+2014,8,New Brunswick,12
+2014,8,Newfoundland and Labrador,0
+2014,8,Northwest Territories,77
+2014,8,Nova Scotia,10
+2014,8,Ontario,77
+2014,8,Prince Edward Island,0
+2014,8,Quebec,67
+2014,8,Saskatchewan,97
+2014,8,Yukon,5
+2014,9,Alberta,114
+2014,9,British Columbia,90
+2014,9,Manitoba,11
+2014,9,New Brunswick,9
+2014,9,Newfoundland and Labrador,1
+2014,9,Northwest Territories,0
+2014,9,Nova Scotia,8
+2014,9,Ontario,7
+2014,9,Prince Edward Island,1
+2014,9,Quebec,11
+2014,9,Saskatchewan,10
+2014,9,Yukon,0
+2014,10,Alberta,39
+2014,10,British Columbia,40
+2014,10,Manitoba,1
+2014,10,New Brunswick,5
+2014,10,Newfoundland and Labrador,0
+2014,10,Northwest Territories,0
+2014,10,Nova Scotia,5
+2014,10,Ontario,6
+2014,10,Prince Edward Island,0
+2014,10,Quebec,5
+2014,10,Saskatchewan,3
+2014,10,Yukon,0
+2014,11,Alberta,15
+2014,11,British Columbia,0
+2014,11,Manitoba,0
+2014,11,New Brunswick,0
+2014,11,Newfoundland and Labrador,0
+2014,11,Northwest Territories,0
+2014,11,Nova Scotia,0
+2014,11,Ontario,0
+2014,11,Prince Edward Island,0
+2014,11,Quebec,4
+2014,11,Saskatchewan,0
+2014,11,Yukon,0
+2014,12,Alberta,2
+2014,12,British Columbia,2
+2014,12,Manitoba,0
+2014,12,New Brunswick,0
+2014,12,Newfoundland and Labrador,0
+2014,12,Northwest Territories,0
+2014,12,Nova Scotia,0
+2014,12,Ontario,0
+2014,12,Prince Edward Island,0
+2014,12,Quebec,0
+2014,12,Saskatchewan,0
+2014,12,Yukon,0
+2015,1,Alberta,2
+2015,1,British Columbia,0
+2015,1,Manitoba,0
+2015,1,New Brunswick,0
+2015,1,Newfoundland and Labrador,0
+2015,1,Northwest Territories,0
+2015,1,Nova Scotia,0
+2015,1,Ontario,0
+2015,1,Prince Edward Island,0
+2015,1,Quebec,0
+2015,1,Saskatchewan,0
+2015,1,Yukon,0
+2015,2,Alberta,4
+2015,2,British Columbia,2
+2015,2,Manitoba,0
+2015,2,New Brunswick,0
+2015,2,Newfoundland and Labrador,0
+2015,2,Northwest Territories,0
+2015,2,Nova Scotia,0
+2015,2,Ontario,0
+2015,2,Prince Edward Island,0
+2015,2,Quebec,0
+2015,2,Saskatchewan,0
+2015,2,Yukon,0
+2015,3,Alberta,32
+2015,3,British Columbia,31
+2015,3,Manitoba,2
+2015,3,New Brunswick,0
+2015,3,Newfoundland and Labrador,0
+2015,3,Northwest Territories,0
+2015,3,Nova Scotia,0
+2015,3,Ontario,2
+2015,3,Prince Edward Island,0
+2015,3,Quebec,0
+2015,3,Saskatchewan,1
+2015,3,Yukon,0
+2015,4,Alberta,277
+2015,4,British Columbia,82
+2015,4,Manitoba,50
+2015,4,New Brunswick,3
+2015,4,Newfoundland and Labrador,0
+2015,4,Northwest Territories,0
+2015,4,Nova Scotia,1
+2015,4,Ontario,64
+2015,4,Prince Edward Island,0
+2015,4,Quebec,29
+2015,4,Saskatchewan,74
+2015,4,Yukon,0
+2015,5,Alberta,505
+2015,5,British Columbia,309
+2015,5,Manitoba,75
+2015,5,New Brunswick,165
+2015,5,Newfoundland and Labrador,2
+2015,5,Northwest Territories,60
+2015,5,Nova Scotia,204
+2015,5,Ontario,126
+2015,5,Prince Edward Island,0
+2015,5,Quebec,213
+2015,5,Saskatchewan,195
+2015,5,Yukon,95
+2015,6,Alberta,504
+2015,6,British Columbia,443
+2015,6,Manitoba,151
+2015,6,New Brunswick,3
+2015,6,Newfoundland and Labrador,21
+2015,6,Northwest Territories,125
+2015,6,Nova Scotia,6
+2015,6,Ontario,132
+2015,6,Prince Edward Island,0
+2015,6,Quebec,46
+2015,6,Saskatchewan,258
+2015,6,Yukon,83
+2015,7,Alberta,318
+2015,7,British Columbia,538
+2015,7,Manitoba,169
+2015,7,New Brunswick,22
+2015,7,Newfoundland and Labrador,0
+2015,7,Northwest Territories,41
+2015,7,Nova Scotia,12
+2015,7,Ontario,165
+2015,7,Prince Edward Island,0
+2015,7,Quebec,40
+2015,7,Saskatchewan,148
+2015,7,Yukon,5
+2015,8,Alberta,162
+2015,8,British Columbia,404
+2015,8,Manitoba,13
+2015,8,New Brunswick,11
+2015,8,Newfoundland and Labrador,4
+2015,8,Northwest Territories,27
+2015,8,Nova Scotia,8
+2015,8,Ontario,116
+2015,8,Prince Edward Island,0
+2015,8,Quebec,30
+2015,8,Saskatchewan,38
+2015,8,Yukon,2
+2015,9,Alberta,55
+2015,9,British Columbia,31
+2015,9,Manitoba,1
+2015,9,New Brunswick,15
+2015,9,Newfoundland and Labrador,0
+2015,9,Northwest Territories,0
+2015,9,Nova Scotia,18
+2015,9,Ontario,55
+2015,9,Prince Edward Island,0
+2015,9,Quebec,21
+2015,9,Saskatchewan,8
+2015,9,Yukon,1
+2015,10,Alberta,62
+2015,10,British Columbia,27
+2015,10,Manitoba,2
+2015,10,New Brunswick,3
+2015,10,Newfoundland and Labrador,0
+2015,10,Northwest Territories,0
+2015,10,Nova Scotia,0
+2015,10,Ontario,14
+2015,10,Prince Edward Island,0
+2015,10,Quebec,9
+2015,10,Saskatchewan,12
+2015,10,Yukon,0
+2015,11,Alberta,23
+2015,11,British Columbia,3
+2015,11,Manitoba,0
+2015,11,New Brunswick,0
+2015,11,Newfoundland and Labrador,0
+2015,11,Northwest Territories,4
+2015,11,Nova Scotia,0
+2015,11,Ontario,0
+2015,11,Prince Edward Island,0
+2015,11,Quebec,3
+2015,11,Saskatchewan,1
+2015,11,Yukon,0
+2015,12,Alberta,8
+2015,12,British Columbia,1
+2015,12,Manitoba,0
+2015,12,New Brunswick,0
+2015,12,Newfoundland and Labrador,0
+2015,12,Northwest Territories,0
+2015,12,Nova Scotia,0
+2015,12,Ontario,1
+2015,12,Prince Edward Island,0
+2015,12,Quebec,1
+2015,12,Saskatchewan,0
+2015,12,Yukon,0
+2016,1,Alberta,7
+2016,1,British Columbia,3
+2016,1,Manitoba,0
+2016,1,New Brunswick,0
+2016,1,Newfoundland and Labrador,0
+2016,1,Northwest Territories,0
+2016,1,Nova Scotia,0
+2016,1,Ontario,0
+2016,1,Prince Edward Island,0
+2016,1,Quebec,0
+2016,1,Saskatchewan,0
+2016,1,Yukon,0
+2016,2,Alberta,12
+2016,2,British Columbia,7
+2016,2,Manitoba,0
+2016,2,New Brunswick,0
+2016,2,Newfoundland and Labrador,0
+2016,2,Northwest Territories,0
+2016,2,Nova Scotia,0
+2016,2,Ontario,0
+2016,2,Prince Edward Island,0
+2016,2,Quebec,0
+2016,2,Saskatchewan,0
+2016,2,Yukon,0
+2016,3,Alberta,62
+2016,3,British Columbia,27
+2016,3,Manitoba,0
+2016,3,New Brunswick,0
+2016,3,Newfoundland and Labrador,0
+2016,3,Northwest Territories,0
+2016,3,Nova Scotia,1
+2016,3,Ontario,5
+2016,3,Prince Edward Island,0
+2016,3,Quebec,1
+2016,3,Saskatchewan,0
+2016,3,Yukon,0
+2016,4,Alberta,287
+2016,4,British Columbia,158
+2016,4,Manitoba,22
+2016,4,New Brunswick,151
+2016,4,Newfoundland and Labrador,0
+2016,4,Northwest Territories,0
+2016,4,Nova Scotia,104
+2016,4,Ontario,38
+2016,4,Prince Edward Island,5
+2016,4,Quebec,88
+2016,4,Saskatchewan,87
+2016,4,Yukon,2
+2016,5,Alberta,250
+2016,5,British Columbia,127
+2016,5,Manitoba,59
+2016,5,New Brunswick,55
+2016,5,Newfoundland and Labrador,1
+2016,5,Northwest Territories,3
+2016,5,Nova Scotia,59
+2016,5,Ontario,176
+2016,5,Prince Edward Island,2
+2016,5,Quebec,124
+2016,5,Saskatchewan,111
+2016,5,Yukon,8
+2016,6,Alberta,402
+2016,6,British Columbia,164
+2016,6,Manitoba,64
+2016,6,New Brunswick,25
+2016,6,Newfoundland and Labrador,0
+2016,6,Northwest Territories,58
+2016,6,Nova Scotia,28
+2016,6,Ontario,141
+2016,6,Prince Edward Island,0
+2016,6,Quebec,119
+2016,6,Saskatchewan,125
+2016,6,Yukon,15
+2016,7,Alberta,221
+2016,7,British Columbia,206
+2016,7,Manitoba,42
+2016,7,New Brunswick,10
+2016,7,Newfoundland and Labrador,14
+2016,7,Northwest Territories,112
+2016,7,Nova Scotia,15
+2016,7,Ontario,147
+2016,7,Prince Edward Island,0
+2016,7,Quebec,141
+2016,7,Saskatchewan,53
+2016,7,Yukon,19
+2016,8,Alberta,128
+2016,8,British Columbia,325
+2016,8,Manitoba,15
+2016,8,New Brunswick,25
+2016,8,Newfoundland and Labrador,3
+2016,8,Northwest Territories,20
+2016,8,Nova Scotia,38
+2016,8,Ontario,113
+2016,8,Prince Edward Island,0
+2016,8,Quebec,86
+2016,8,Saskatchewan,23
+2016,8,Yukon,8
+2016,9,Alberta,85
+2016,9,British Columbia,43
+2016,9,Manitoba,5
+2016,9,New Brunswick,12
+2016,9,Newfoundland and Labrador,0
+2016,9,Northwest Territories,0
+2016,9,Nova Scotia,22
+2016,9,Ontario,22
+2016,9,Prince Edward Island,1
+2016,9,Quebec,17
+2016,9,Saskatchewan,9
+2016,9,Yukon,1
+2016,10,Alberta,14
+2016,10,British Columbia,12
+2016,10,Manitoba,0
+2016,10,New Brunswick,7
+2016,10,Newfoundland and Labrador,0
+2016,10,Northwest Territories,0
+2016,10,Nova Scotia,4
+2016,10,Ontario,11
+2016,10,Prince Edward Island,0
+2016,10,Quebec,25
+2016,10,Saskatchewan,0
+2016,10,Yukon,0
+2016,11,Alberta,13
+2016,11,British Columbia,3
+2016,11,Manitoba,0
+2016,11,New Brunswick,0
+2016,11,Newfoundland and Labrador,0
+2016,11,Northwest Territories,0
+2016,11,Nova Scotia,0
+2016,11,Ontario,4
+2016,11,Prince Edward Island,0
+2016,11,Quebec,5
+2016,11,Saskatchewan,0
+2016,11,Yukon,0
+2016,12,Alberta,4
+2016,12,British Columbia,0
+2016,12,Manitoba,0
+2016,12,New Brunswick,0
+2016,12,Newfoundland and Labrador,0
+2016,12,Northwest Territories,0
+2016,12,Nova Scotia,0
+2016,12,Ontario,0
+2016,12,Prince Edward Island,0
+2016,12,Quebec,1
+2016,12,Saskatchewan,0
+2016,12,Yukon,0
+2017,1,Alberta,4
+2017,1,British Columbia,1
+2017,1,Manitoba,0
+2017,1,New Brunswick,0
+2017,1,Newfoundland and Labrador,0
+2017,1,Northwest Territories,0
+2017,1,Nova Scotia,0
+2017,1,Ontario,0
+2017,1,Prince Edward Island,0
+2017,1,Quebec,0
+2017,1,Saskatchewan,0
+2017,1,Yukon,0
+2017,2,Alberta,4
+2017,2,British Columbia,2
+2017,2,Manitoba,0
+2017,2,New Brunswick,0
+2017,2,Newfoundland and Labrador,0
+2017,2,Northwest Territories,0
+2017,2,Nova Scotia,0
+2017,2,Ontario,1
+2017,2,Prince Edward Island,0
+2017,2,Quebec,1
+2017,2,Saskatchewan,0
+2017,2,Yukon,0
+2017,3,Alberta,14
+2017,3,British Columbia,10
+2017,3,Manitoba,0
+2017,3,New Brunswick,0
+2017,3,Newfoundland and Labrador,0
+2017,3,Northwest Territories,0
+2017,3,Nova Scotia,0
+2017,3,Ontario,4
+2017,3,Prince Edward Island,0
+2017,3,Quebec,0
+2017,3,Saskatchewan,1
+2017,3,Yukon,0
+2017,4,Alberta,101
+2017,4,British Columbia,40
+2017,4,Manitoba,8
+2017,4,New Brunswick,16
+2017,4,Newfoundland and Labrador,0
+2017,4,Northwest Territories,0
+2017,4,Nova Scotia,82
+2017,4,Ontario,23
+2017,4,Prince Edward Island,0
+2017,4,Quebec,25
+2017,4,Saskatchewan,16
+2017,4,Yukon,3
+2017,5,Alberta,348
+2017,5,British Columbia,91
+2017,5,Manitoba,43
+2017,5,New Brunswick,25
+2017,5,Newfoundland and Labrador,18
+2017,5,Northwest Territories,22
+2017,5,Nova Scotia,44
+2017,5,Ontario,46
+2017,5,Prince Edward Island,0
+2017,5,Quebec,33
+2017,5,Saskatchewan,76
+2017,5,Yukon,9
+2017,6,Alberta,176
+2017,6,British Columbia,145
+2017,6,Manitoba,27
+2017,6,New Brunswick,16
+2017,6,Newfoundland and Labrador,22
+2017,6,Northwest Territories,33
+2017,6,Nova Scotia,11
+2017,6,Ontario,40
+2017,6,Prince Edward Island,0
+2017,6,Quebec,78
+2017,6,Saskatchewan,15
+2017,6,Yukon,45
+2017,7,Alberta,285
+2017,7,British Columbia,622
+2017,7,Manitoba,142
+2017,7,New Brunswick,39
+2017,7,Newfoundland and Labrador,20
+2017,7,Northwest Territories,123
+2017,7,Nova Scotia,12
+2017,7,Ontario,230
+2017,7,Prince Edward Island,0
+2017,7,Quebec,88
+2017,7,Saskatchewan,72
+2017,7,Yukon,32
+2017,8,Alberta,264
+2017,8,British Columbia,306
+2017,8,Manitoba,298
+2017,8,New Brunswick,79
+2017,8,Newfoundland and Labrador,8
+2017,8,Northwest Territories,77
+2017,8,Nova Scotia,15
+2017,8,Ontario,369
+2017,8,Prince Edward Island,0
+2017,8,Quebec,57
+2017,8,Saskatchewan,138
+2017,8,Yukon,25
+2017,9,Alberta,77
+2017,9,British Columbia,115
+2017,9,Manitoba,33
+2017,9,New Brunswick,35
+2017,9,Newfoundland and Labrador,4
+2017,9,Northwest Territories,13
+2017,9,Nova Scotia,7
+2017,9,Ontario,38
+2017,9,Prince Edward Island,0
+2017,9,Quebec,16
+2017,9,Saskatchewan,37
+2017,9,Yukon,1
+2017,10,Alberta,49
+2017,10,British Columbia,64
+2017,10,Manitoba,15
+2017,10,New Brunswick,33
+2017,10,Newfoundland and Labrador,4
+2017,10,Northwest Territories,0
+2017,10,Nova Scotia,5
+2017,10,Ontario,30
+2017,10,Prince Edward Island,0
+2017,10,Quebec,22
+2017,10,Saskatchewan,13
+2017,10,Yukon,0
+2017,11,Alberta,5
+2017,11,British Columbia,4
+2017,11,Manitoba,0
+2017,11,New Brunswick,2
+2017,11,Newfoundland and Labrador,6
+2017,11,Northwest Territories,0
+2017,11,Nova Scotia,1
+2017,11,Ontario,0
+2017,11,Prince Edward Island,0
+2017,11,Quebec,2
+2017,11,Saskatchewan,0
+2017,11,Yukon,0
+2017,12,Alberta,3
+2017,12,British Columbia,0
+2017,12,Manitoba,0
+2017,12,New Brunswick,0
+2017,12,Newfoundland and Labrador,0
+2017,12,Northwest Territories,0
+2017,12,Nova Scotia,0
+2017,12,Ontario,0
+2017,12,Prince Edward Island,0
+2017,12,Quebec,0
+2017,12,Saskatchewan,0
+2017,12,Yukon,0
+2018,1,Alberta,4
+2018,1,British Columbia,1
+2018,1,Manitoba,0
+2018,1,New Brunswick,0
+2018,1,Newfoundland and Labrador,0
+2018,1,Northwest Territories,0
+2018,1,Nova Scotia,0
+2018,1,Ontario,0
+2018,1,Prince Edward Island,0
+2018,1,Quebec,0
+2018,1,Saskatchewan,0
+2018,1,Yukon,0
+2018,2,Alberta,0
+2018,2,British Columbia,0
+2018,2,Manitoba,0
+2018,2,New Brunswick,0
+2018,2,Newfoundland and Labrador,0
+2018,2,Northwest Territories,0
+2018,2,Nova Scotia,0
+2018,2,Ontario,0
+2018,2,Prince Edward Island,0
+2018,2,Quebec,0
+2018,2,Saskatchewan,0
+2018,2,Yukon,0
+2018,3,Alberta,19
+2018,3,British Columbia,14
+2018,3,Manitoba,0
+2018,3,New Brunswick,0
+2018,3,Newfoundland and Labrador,0
+2018,3,Northwest Territories,0
+2018,3,Nova Scotia,2
+2018,3,Ontario,5
+2018,3,Prince Edward Island,0
+2018,3,Quebec,0
+2018,3,Saskatchewan,0
+2018,3,Yukon,0
+2018,4,Alberta,97
+2018,4,British Columbia,51
+2018,4,Manitoba,33
+2018,4,New Brunswick,37
+2018,4,Newfoundland and Labrador,12
+2018,4,Northwest Territories,0
+2018,4,Nova Scotia,51
+2018,4,Ontario,18
+2018,4,Prince Edward Island,0
+2018,4,Quebec,12
+2018,4,Saskatchewan,50
+2018,4,Yukon,1
+2018,5,Alberta,454
+2018,5,British Columbia,178
+2018,5,Manitoba,176
+2018,5,New Brunswick,124
+2018,5,Newfoundland and Labrador,41
+2018,5,Northwest Territories,4
+2018,5,Nova Scotia,54
+2018,5,Ontario,191
+2018,5,Prince Edward Island,0
+2018,5,Quebec,190
+2018,5,Saskatchewan,178
+2018,5,Yukon,6
+2018,6,Alberta,337
+2018,6,British Columbia,327
+2018,6,Manitoba,97
+2018,6,New Brunswick,34
+2018,6,Newfoundland and Labrador,18
+2018,6,Northwest Territories,14
+2018,6,Nova Scotia,26
+2018,6,Ontario,245
+2018,6,Prince Edward Island,0
+2018,6,Quebec,124
+2018,6,Saskatchewan,125
+2018,6,Yukon,11
+2018,7,Alberta,166
+2018,7,British Columbia,684
+2018,7,Manitoba,108
+2018,7,New Brunswick,40
+2018,7,Newfoundland and Labrador,19
+2018,7,Northwest Territories,35
+2018,7,Nova Scotia,24
+2018,7,Ontario,524
+2018,7,Prince Edward Island,0
+2018,7,Quebec,201
+2018,7,Saskatchewan,61
+2018,7,Yukon,21
+2018,8,Alberta,178
+2018,8,British Columbia,766
+2018,8,Manitoba,54
+2018,8,New Brunswick,15
+2018,8,Newfoundland and Labrador,24
+2018,8,Northwest Territories,7
+2018,8,Nova Scotia,17
+2018,8,Ontario,300
+2018,8,Prince Edward Island,0
+2018,8,Quebec,38
+2018,8,Saskatchewan,30
+2018,8,Yukon,11
+2018,9,Alberta,62
+2018,9,British Columbia,52
+2018,9,Manitoba,15
+2018,9,New Brunswick,31
+2018,9,Newfoundland and Labrador,14
+2018,9,Northwest Territories,2
+2018,9,Nova Scotia,22
+2018,9,Ontario,55
+2018,9,Prince Edward Island,0
+2018,9,Quebec,18
+2018,9,Saskatchewan,1
+2018,9,Yukon,1
+2018,10,Alberta,53
+2018,10,British Columbia,45
+2018,10,Manitoba,0
+2018,10,New Brunswick,4
+2018,10,Newfoundland and Labrador,3
+2018,10,Northwest Territories,0
+2018,10,Nova Scotia,0
+2018,10,Ontario,0
+2018,10,Prince Edward Island,0
+2018,10,Quebec,13
+2018,10,Saskatchewan,7
+2018,10,Yukon,0
+2018,11,Alberta,9
+2018,11,British Columbia,2
+2018,11,Manitoba,0
+2018,11,New Brunswick,0
+2018,11,Newfoundland and Labrador,0
+2018,11,Northwest Territories,1
+2018,11,Nova Scotia,0
+2018,11,Ontario,0
+2018,11,Prince Edward Island,0
+2018,11,Quebec,1
+2018,11,Saskatchewan,0
+2018,11,Yukon,0
+2018,12,Alberta,3
+2018,12,British Columbia,2
+2018,12,Manitoba,0
+2018,12,New Brunswick,0
+2018,12,Newfoundland and Labrador,0
+2018,12,Northwest Territories,0
+2018,12,Nova Scotia,0
+2018,12,Ontario,1
+2018,12,Prince Edward Island,0
+2018,12,Quebec,0
+2018,12,Saskatchewan,0
+2018,12,Yukon,0
+2019,1,Alberta,17
+2019,1,British Columbia,0
+2019,1,Manitoba,0
+2019,1,New Brunswick,0
+2019,1,Newfoundland and Labrador,0
+2019,1,Northwest Territories,0
+2019,1,Nova Scotia,0
+2019,1,Ontario,0
+2019,1,Prince Edward Island,0
+2019,1,Quebec,0
+2019,1,Saskatchewan,1
+2019,1,Yukon,0
+2019,2,Alberta,1
+2019,2,British Columbia,1
+2019,2,Manitoba,0
+2019,2,New Brunswick,0
+2019,2,Newfoundland and Labrador,0
+2019,2,Northwest Territories,0
+2019,2,Nova Scotia,0
+2019,2,Ontario,0
+2019,2,Prince Edward Island,0
+2019,2,Quebec,0
+2019,2,Saskatchewan,0
+2019,2,Yukon,0
+2019,3,Alberta,34
+2019,3,British Columbia,27
+2019,3,Manitoba,0
+2019,3,New Brunswick,0
+2019,3,Newfoundland and Labrador,6
+2019,3,Northwest Territories,0
+2019,3,Nova Scotia,17
+2019,3,Ontario,2
+2019,3,Prince Edward Island,0
+2019,3,Quebec,0
+2019,3,Saskatchewan,0
+2019,3,Yukon,0
+2019,4,Alberta,188
+2019,4,British Columbia,87
+2019,4,Manitoba,21
+2019,4,New Brunswick,12
+2019,4,Newfoundland and Labrador,1
+2019,4,Northwest Territories,6
+2019,4,Nova Scotia,16
+2019,4,Ontario,19
+2019,4,Prince Edward Island,0
+2019,4,Quebec,3
+2019,4,Saskatchewan,41
+2019,4,Yukon,4
+2019,5,Alberta,315
+2019,5,British Columbia,135
+2019,5,Manitoba,81
+2019,5,New Brunswick,88
+2019,5,Newfoundland and Labrador,44
+2019,5,Northwest Territories,8
+2019,5,Nova Scotia,45
+2019,5,Ontario,58
+2019,5,Prince Edward Island,0
+2019,5,Quebec,54
+2019,5,Saskatchewan,73
+2019,5,Yukon,25
+2019,6,Alberta,180
+2019,6,British Columbia,194
+2019,6,Manitoba,60
+2019,6,New Brunswick,19
+2019,6,Newfoundland and Labrador,8
+2019,6,Northwest Territories,32
+2019,6,Nova Scotia,13
+2019,6,Ontario,103
+2019,6,Prince Edward Island,0
+2019,6,Quebec,59
+2019,6,Saskatchewan,59
+2019,6,Yukon,18
+2019,7,Alberta,219
+2019,7,British Columbia,155
+2019,7,Manitoba,86
+2019,7,New Brunswick,21
+2019,7,Newfoundland and Labrador,11
+2019,7,Northwest Territories,88
+2019,7,Nova Scotia,7
+2019,7,Ontario,152
+2019,7,Prince Edward Island,0
+2019,7,Quebec,120
+2019,7,Saskatchewan,58
+2019,7,Yukon,64
+2019,8,Alberta,78
+2019,8,British Columbia,126
+2019,8,Manitoba,35
+2019,8,New Brunswick,32
+2019,8,Newfoundland and Labrador,16
+2019,8,Northwest Territories,11
+2019,8,Nova Scotia,34
+2019,8,Ontario,193
+2019,8,Prince Edward Island,0
+2019,8,Quebec,96
+2019,8,Saskatchewan,14
+2019,8,Yukon,4
+2019,9,Alberta,30
+2019,9,British Columbia,95
+2019,9,Manitoba,1
+2019,9,New Brunswick,5
+2019,9,Newfoundland and Labrador,11
+2019,9,Northwest Territories,0
+2019,9,Nova Scotia,9
+2019,9,Ontario,10
+2019,9,Prince Edward Island,0
+2019,9,Quebec,21
+2019,9,Saskatchewan,2
+2019,9,Yukon,3
+2019,10,Alberta,17
+2019,10,British Columbia,16
+2019,10,Manitoba,0
+2019,10,New Brunswick,6
+2019,10,Newfoundland and Labrador,2
+2019,10,Northwest Territories,1
+2019,10,Nova Scotia,2
+2019,10,Ontario,4
+2019,10,Prince Edward Island,0
+2019,10,Quebec,9
+2019,10,Saskatchewan,3
+2019,10,Yukon,0
+2019,11,Alberta,1
+2019,11,British Columbia,7
+2019,11,Manitoba,0
+2019,11,New Brunswick,0
+2019,11,Newfoundland and Labrador,0
+2019,11,Northwest Territories,1
+2019,11,Nova Scotia,0
+2019,11,Ontario,0
+2019,11,Prince Edward Island,0
+2019,11,Quebec,0
+2019,11,Saskatchewan,2
+2019,11,Yukon,0
+2019,12,Alberta,1
+2019,12,British Columbia,0
+2019,12,Manitoba,0
+2019,12,New Brunswick,0
+2019,12,Newfoundland and Labrador,0
+2019,12,Northwest Territories,0
+2019,12,Nova Scotia,0
+2019,12,Ontario,0
+2019,12,Prince Edward Island,0
+2019,12,Quebec,0
+2019,12,Saskatchewan,5
+2019,12,Yukon,0
+2020,1,Alberta,1
+2020,1,British Columbia,0
+2020,1,Manitoba,0
+2020,1,New Brunswick,0
+2020,1,Newfoundland and Labrador,0
+2020,1,Northwest Territories,0
+2020,1,Nova Scotia,0
+2020,1,Ontario,0
+2020,1,Prince Edward Island,0
+2020,1,Quebec,0
+2020,1,Saskatchewan,1
+2020,1,Yukon,0
+2020,2,Alberta,1
+2020,2,British Columbia,0
+2020,2,Manitoba,0
+2020,2,New Brunswick,0
+2020,2,Newfoundland and Labrador,0
+2020,2,Northwest Territories,0
+2020,2,Nova Scotia,0
+2020,2,Ontario,0
+2020,2,Prince Edward Island,0
+2020,2,Quebec,0
+2020,2,Saskatchewan,2
+2020,2,Yukon,0
+2020,3,Alberta,4
+2020,3,British Columbia,19
+2020,3,Manitoba,0
+2020,3,New Brunswick,0
+2020,3,Newfoundland and Labrador,0
+2020,3,Northwest Territories,0
+2020,3,Nova Scotia,5
+2020,3,Ontario,2
+2020,3,Prince Edward Island,0
+2020,3,Quebec,2
+2020,3,Saskatchewan,2
+2020,3,Yukon,0
+2020,4,Alberta,68
+2020,4,British Columbia,92
+2020,4,Manitoba,11
+2020,4,New Brunswick,100
+2020,4,Newfoundland and Labrador,12
+2020,4,Northwest Territories,0
+2020,4,Nova Scotia,38
+2020,4,Ontario,22
+2020,4,Prince Edward Island,0
+2020,4,Quebec,81
+2020,4,Saskatchewan,12
+2020,4,Yukon,0
+2020,5,Alberta,209
+2020,5,British Columbia,66
+2020,5,Manitoba,38
+2020,5,New Brunswick,127
+2020,5,Newfoundland and Labrador,17
+2020,5,Northwest Territories,1
+2020,5,Nova Scotia,50
+2020,5,Ontario,86
+2020,5,Prince Edward Island,0
+2020,5,Quebec,277
+2020,5,Saskatchewan,49
+2020,5,Yukon,7
+2020,6,Alberta,83
+2020,6,British Columbia,31
+2020,6,Manitoba,24
+2020,6,New Brunswick,72
+2020,6,Newfoundland and Labrador,6
+2020,6,Northwest Territories,47
+2020,6,Nova Scotia,22
+2020,6,Ontario,70
+2020,6,Prince Edward Island,0
+2020,6,Quebec,174
+2020,6,Saskatchewan,35
+2020,6,Yukon,10
+2020,7,Alberta,78
+2020,7,British Columbia,115
+2020,7,Manitoba,41
+2020,7,New Brunswick,27
+2020,7,Newfoundland and Labrador,25
+2020,7,Northwest Territories,15
+2020,7,Nova Scotia,11
+2020,7,Ontario,303
+2020,7,Prince Edward Island,0
+2020,7,Quebec,105
+2020,7,Saskatchewan,26
+2020,7,Yukon,4
+2020,8,Alberta,208
+2020,8,British Columbia,283
+2020,8,Manitoba,36
+2020,8,New Brunswick,64
+2020,8,Newfoundland and Labrador,27
+2020,8,Northwest Territories,7
+2020,8,Nova Scotia,43
+2020,8,Ontario,115
+2020,8,Prince Edward Island,0
+2020,8,Quebec,36
+2020,8,Saskatchewan,31
+2020,8,Yukon,1
+2020,9,Alberta,82
+2020,9,British Columbia,62
+2020,9,Manitoba,4
+2020,9,New Brunswick,49
+2020,9,Newfoundland and Labrador,5
+2020,9,Northwest Territories,0
+2020,9,Nova Scotia,5
+2020,9,Ontario,13
+2020,9,Prince Edward Island,0
+2020,9,Quebec,27
+2020,9,Saskatchewan,27
+2020,9,Yukon,2
+2020,10,Alberta,49
+2020,10,British Columbia,13
+2020,10,Manitoba,1
+2020,10,New Brunswick,22
+2020,10,Newfoundland and Labrador,0
+2020,10,Northwest Territories,0
+2020,10,Nova Scotia,4
+2020,10,Ontario,3
+2020,10,Prince Edward Island,0
+2020,10,Quebec,3
+2020,10,Saskatchewan,8
+2020,10,Yukon,0
+2020,11,Alberta,9
+2020,11,British Columbia,2
+2020,11,Manitoba,0
+2020,11,New Brunswick,5
+2020,11,Newfoundland and Labrador,4
+2020,11,Northwest Territories,0
+2020,11,Nova Scotia,0
+2020,11,Ontario,0
+2020,11,Prince Edward Island,0
+2020,11,Quebec,7
+2020,11,Saskatchewan,8
+2020,11,Yukon,0
+2020,12,Alberta,8
+2020,12,British Columbia,1
+2020,12,Manitoba,0
+2020,12,New Brunswick,0
+2020,12,Newfoundland and Labrador,1
+2020,12,Northwest Territories,0
+2020,12,Nova Scotia,0
+2020,12,Ontario,0
+2020,12,Prince Edward Island,0
+2020,12,Quebec,0
+2020,12,Saskatchewan,0
+2020,12,Yukon,0
+2021,1,Alberta,8
+2021,1,British Columbia,2
+2021,1,Manitoba,0
+2021,1,New Brunswick,0
+2021,1,Newfoundland and Labrador,0
+2021,1,Northwest Territories,0
+2021,1,Nova Scotia,0
+2021,1,Ontario,0
+2021,1,Prince Edward Island,0
+2021,1,Quebec,0
+2021,1,Saskatchewan,0
+2021,1,Yukon,0
+2021,2,Alberta,1
+2021,2,British Columbia,0
+2021,2,Manitoba,0
+2021,2,New Brunswick,0
+2021,2,Newfoundland and Labrador,0
+2021,2,Northwest Territories,0
+2021,2,Nova Scotia,0
+2021,2,Ontario,0
+2021,2,Prince Edward Island,0
+2021,2,Quebec,0
+2021,2,Saskatchewan,0
+2021,2,Yukon,0
+2021,3,Alberta,34
+2021,3,British Columbia,21
+2021,3,Manitoba,3
+2021,3,New Brunswick,3
+2021,3,Newfoundland and Labrador,2
+2021,3,Northwest Territories,0
+2021,3,Nova Scotia,7
+2021,3,Ontario,15
+2021,3,Prince Edward Island,0
+2021,3,Quebec,1
+2021,3,Saskatchewan,2
+2021,3,Yukon,0
+2021,4,Alberta,153
+2021,4,British Columbia,145
+2021,4,Manitoba,22
+2021,4,New Brunswick,52
+2021,4,Newfoundland and Labrador,6
+2021,4,Northwest Territories,0
+2021,4,Nova Scotia,45
+2021,4,Ontario,29
+2021,4,Prince Edward Island,0
+2021,4,Quebec,115
+2021,4,Saskatchewan,51
+2021,4,Yukon,1
+2021,5,Alberta,282
+2021,5,British Columbia,110
+2021,5,Manitoba,59
+2021,5,New Brunswick,58
+2021,5,Newfoundland and Labrador,21
+2021,5,Northwest Territories,2
+2021,5,Nova Scotia,30
+2021,5,Ontario,116
+2021,5,Prince Edward Island,0
+2021,5,Quebec,165
+2021,5,Saskatchewan,85
+2021,5,Yukon,3
+2021,6,Alberta,189
+2021,6,British Columbia,255
+2021,6,Manitoba,40
+2021,6,New Brunswick,30
+2021,6,Newfoundland and Labrador,16
+2021,6,Northwest Territories,37
+2021,6,Nova Scotia,27
+2021,6,Ontario,332
+2021,6,Prince Edward Island,0
+2021,6,Quebec,162
+2021,6,Saskatchewan,65
+2021,6,Yukon,28
+2021,7,Alberta,396
+2021,7,British Columbia,784
+2021,7,Manitoba,275
+2021,7,New Brunswick,7
+2021,7,Newfoundland and Labrador,15
+2021,7,Northwest Territories,100
+2021,7,Nova Scotia,1
+2021,7,Ontario,572
+2021,7,Prince Edward Island,0
+2021,7,Quebec,37
+2021,7,Saskatchewan,303
+2021,7,Yukon,70
+2021,8,Alberta,175
+2021,8,British Columbia,263
+2021,8,Manitoba,56
+2021,8,New Brunswick,17
+2021,8,Newfoundland and Labrador,22
+2021,8,Northwest Territories,11
+2021,8,Nova Scotia,2
+2021,8,Ontario,123
+2021,8,Prince Edward Island,0
+2021,8,Quebec,93
+2021,8,Saskatchewan,92
+2021,8,Yukon,12
+2021,9,Alberta,94
+2021,9,British Columbia,53
+2021,9,Manitoba,19
+2021,9,New Brunswick,6
+2021,9,Newfoundland and Labrador,5
+2021,9,Northwest Territories,0
+2021,9,Nova Scotia,1
+2021,9,Ontario,16
+2021,9,Prince Edward Island,0
+2021,9,Quebec,37
+2021,9,Saskatchewan,16
+2021,9,Yukon,0
+2021,10,Alberta,66
+2021,10,British Columbia,24
+2021,10,Manitoba,22
+2021,10,New Brunswick,6
+2021,10,Newfoundland and Labrador,0
+2021,10,Northwest Territories,0
+2021,10,Nova Scotia,0
+2021,10,Ontario,3
+2021,10,Prince Edward Island,0
+2021,10,Quebec,12
+2021,10,Saskatchewan,26
+2021,10,Yukon,0
+2021,11,Alberta,22
+2021,11,British Columbia,4
+2021,11,Manitoba,1
+2021,11,New Brunswick,0
+2021,11,Newfoundland and Labrador,2
+2021,11,Northwest Territories,0
+2021,11,Nova Scotia,0
+2021,11,Ontario,0
+2021,11,Prince Edward Island,0
+2021,11,Quebec,7
+2021,11,Saskatchewan,1
+2021,11,Yukon,0
+2021,12,Alberta,6
+2021,12,British Columbia,2
+2021,12,Manitoba,0
+2021,12,New Brunswick,0
+2021,12,Newfoundland and Labrador,0
+2021,12,Northwest Territories,0
+2021,12,Nova Scotia,0
+2021,12,Ontario,0
+2021,12,Prince Edward Island,0
+2021,12,Quebec,0
+2021,12,Saskatchewan,1
+2021,12,Yukon,0
+2022,1,Alberta,1
+2022,1,British Columbia,0
+2022,1,Manitoba,0
+2022,1,New Brunswick,0
+2022,1,Newfoundland and Labrador,0
+2022,1,Northwest Territories,0
+2022,1,Nova Scotia,0
+2022,1,Ontario,0
+2022,1,Prince Edward Island,0
+2022,1,Quebec,0
+2022,1,Saskatchewan,0
+2022,1,Yukon,0
+2022,2,Alberta,6
+2022,2,British Columbia,2
+2022,2,Manitoba,0
+2022,2,New Brunswick,0
+2022,2,Newfoundland and Labrador,0
+2022,2,Northwest Territories,0
+2022,2,Nova Scotia,0
+2022,2,Ontario,0
+2022,2,Prince Edward Island,0
+2022,2,Quebec,0
+2022,2,Saskatchewan,0
+2022,2,Yukon,0
+2022,3,Alberta,21
+2022,3,British Columbia,14
+2022,3,Manitoba,0
+2022,3,New Brunswick,1
+2022,3,Newfoundland and Labrador,0
+2022,3,Northwest Territories,0
+2022,3,Nova Scotia,0
+2022,3,Ontario,2
+2022,3,Prince Edward Island,0
+2022,3,Quebec,0
+2022,3,Saskatchewan,2
+2022,3,Yukon,0
+2022,4,Alberta,132
+2022,4,British Columbia,81
+2022,4,Manitoba,1
+2022,4,New Brunswick,36
+2022,4,Newfoundland and Labrador,2
+2022,4,Northwest Territories,0
+2022,4,Nova Scotia,13
+2022,4,Ontario,5
+2022,4,Prince Edward Island,0
+2022,4,Quebec,37
+2022,4,Saskatchewan,11
+2022,4,Yukon,0
+2022,5,Alberta,226
+2022,5,British Columbia,57
+2022,5,Manitoba,6
+2022,5,New Brunswick,99
+2022,5,Newfoundland and Labrador,27
+2022,5,Northwest Territories,7
+2022,5,Nova Scotia,58
+2022,5,Ontario,72
+2022,5,Prince Edward Island,0
+2022,5,Quebec,219
+2022,5,Saskatchewan,90
+2022,5,Yukon,0
+2022,6,Alberta,153
+2022,6,British Columbia,73
+2022,6,Manitoba,21
+2022,6,New Brunswick,13
+2022,6,Newfoundland and Labrador,19
+2022,6,Northwest Territories,71
+2022,6,Nova Scotia,7
+2022,6,Ontario,32
+2022,6,Prince Edward Island,0
+2022,6,Quebec,21
+2022,6,Saskatchewan,71
+2022,6,Yukon,0
+2022,7,Alberta,272
+2022,7,British Columbia,279
+2022,7,Manitoba,89
+2022,7,New Brunswick,15
+2022,7,Newfoundland and Labrador,34
+2022,7,Northwest Territories,118
+2022,7,Nova Scotia,32
+2022,7,Ontario,63
+2022,7,Prince Edward Island,0
+2022,7,Quebec,49
+2022,7,Saskatchewan,131
+2022,7,Yukon,0
+2022,8,Alberta,284
+2022,8,British Columbia,935
+2022,8,Manitoba,70
+2022,8,New Brunswick,12
+2022,8,Newfoundland and Labrador,13
+2022,8,Northwest Territories,63
+2022,8,Nova Scotia,10
+2022,8,Ontario,63
+2022,8,Prince Edward Island,0
+2022,8,Quebec,51
+2022,8,Saskatchewan,71
+2022,8,Yukon,0
+2022,9,Alberta,120
+2022,9,British Columbia,192
+2022,9,Manitoba,36
+2022,9,New Brunswick,11
+2022,9,Newfoundland and Labrador,10
+2022,9,Northwest Territories,6
+2022,9,Nova Scotia,30
+2022,9,Ontario,28
+2022,9,Prince Edward Island,0
+2022,9,Quebec,24
+2022,9,Saskatchewan,49
+2022,9,Yukon,0
+2022,10,Alberta,135
+2022,10,British Columbia,169
+2022,10,Manitoba,4
+2022,10,New Brunswick,9
+2022,10,Newfoundland and Labrador,15
+2022,10,Northwest Territories,6
+2022,10,Nova Scotia,2
+2022,10,Ontario,9
+2022,10,Prince Edward Island,0
+2022,10,Quebec,16
+2022,10,Saskatchewan,25
+2022,10,Yukon,0
+2022,11,Alberta,18
+2022,11,British Columbia,15
+2022,11,Manitoba,0
+2022,11,New Brunswick,17
+2022,11,Newfoundland and Labrador,3
+2022,11,Northwest Territories,2
+2022,11,Nova Scotia,0
+2022,11,Ontario,7
+2022,11,Prince Edward Island,0
+2022,11,Quebec,35
+2022,11,Saskatchewan,0
+2022,11,Yukon,0
+2022,12,Alberta,4
+2022,12,British Columbia,1
+2022,12,Manitoba,0
+2022,12,New Brunswick,1
+2022,12,Newfoundland and Labrador,0
+2022,12,Northwest Territories,1
+2022,12,Nova Scotia,0
+2022,12,Ontario,0
+2022,12,Prince Edward Island,0
+2022,12,Quebec,1
+2022,12,Saskatchewan,0
+2022,12,Yukon,0
