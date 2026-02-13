@@ -1,36 +1,27 @@
-# 🔥 KI zur Prognose von Waldbränden in Kanada
+# KI zur Prognose von Waldbränden in Kanada
 
-## 📘 Projektübersicht
-Dieses Projekt zielt darauf ab, eine **KI-basierte Risikoermittlung und Prognose von Waldbränden in Kanada** zu entwickeln.  
-Basierend auf historischen Daten der **Canadian National Fire Database (NFDP)** soll ein Prototyp entstehen, der Brandrisiken frühzeitig erkennt und Behörden bei präventiven Maßnahmen unterstützt.
+## Projektübersicht
+Dieses Projekt dient der **monatlichen Brandprognose von Waldbränden in den Provinzen Kanadas**.  
+Basierend auf historischen Daten der **Canadian National Fire Database (NFDP)** und exogene Wetterdaten entstand ein Prototyp, der Brandrisiken frühzeitig erkennt und Behörden bei präventiven Maßnahmen unterstützt.
 
 ---
 
-## 📅 Projektinformationen
-**Projektzeitraum:** 28.10.2025 – 20.01.2026  
+## Projektinformationen
+**Projektzeitraum:** 28.10.2025 – 13.02.2026  
 **Institution:** Hochschule Offenburg  
 **Projektleitung:** Yannik Kälble  
 
 ---
 
-## 🎯 Projektziele und Nutzen
-- Entwicklung und Implementierung einer funktionsfähigen KI zur **frühzeitigen Erkennung und Prognose von Waldbrandrisiken**  
-- Beitrag zum **präventiven Schutz von Mensch, Natur und Infrastruktur**  
-- Unterstützung von **Behörden und Umweltorganisationen** bei der strategischen Brandbekämpfung  
-
----
-
-## 📦 Projektumfang (Scope)
-- **Datenquelle:** [Canadian National Fire Database (NFDP)](http://nfdp.ccfm.org/en/data/fires.php)  
-- **Verwendete Kategorien:**
+## Projektumfang (Scope)
+- **Datenquelle:** [Canadian National Fire Database (NFDP)](http://nfdp.ccfm.org/en/data/fires.php)
+  - **Verwendete Kategorien:**
   - *3.1.2* – Zeitliche Verteilung der Brände  
-  - *3.2.2* – Brandintensität  
-- Entwicklung eines **Prototyps** zur Risikoabschätzung auf Basis historischer Daten  
-- Fokussierung auf Regionen der kanadischen Jurisdictions (Provinzen, Territorien und Parks Canada)  
+- **Datenquelle:** (https://open-meteo.com)  
 
 ---
 
-## 👥 Projektorganisation
+## Projektorganisation
 | Rolle | Name |
 |-------|------|
 | **Product Owner** | Yannik Kälble |
@@ -42,28 +33,31 @@ Basierend auf historischen Daten der **Canadian National Fire Database (NFDP)** 
 
 ---
 
-## 🧱 Projektstruktur (geplant)
+## Projektstruktur
 project_root/
+├── backend/ # Logik der Anwendung
+├── dashboard/ # Frontend der Anwendung
 ├── data/ # Rohdaten (NFDP CSV-Dateien)
-├── notebooks/ # Jupyter-Notebooks für Analyse & Modelltraining
-├── src/ # Quellcode (Datenaufbereitung, Modell, Evaluation)
-├── docs/ # Projektdokumentation & Berichte
-├── reports/ # Ergebnisse, Präsentationen, Diagramme
-└── README.md
+├── models/ # Trainiertes Modell
+├── notebook/ # Jupyter-Notebooks für Analyse & Modelltraining
+├── orga/ # Koordinatendarstellung (grafisch)
+└── test/ # Testen der Modelle
 
-## ⚙️ Technische Tools und Technologien
-| Kategorie | Technologien / Tools |
-|------------|----------------------|
-| **Programmiersprache** | Python |
-| **Machine Learning / KI** | TensorFlow, Scikit-learn, Pandas, NumPy *(tbd.)* |
-| **Datenvisualisierung** | Matplotlib, Seaborn *(tbd.)* |
-| **Versionierung & Kollaboration** | Git / GitHub, Google Workspace, Miro |
-| **Projektmanagement & Kommunikation** | Scrum, Discord, Miro, Google Workspace |
-| **Entwicklungsumgebung** | Jupyter Notebook |
+## Technische Tools und Technologien
+•    Programmiersprache: Python
+•    Datenaufbereitung & Numerik: Pandas (Datenhandling/ETL), NumPy (numerische Berechnungen)
+•    Machine Learning & Modellierung: Scikit-learn (Preprocessing, Random Forest, Metriken/Evaluierung), XGBoost (Gradient Boosting Regressor)
+•    Zeitreihenanalyse: Statsmodels (ACF/PACF, Zeitreihen-Analyse)
+•    Datenvisualisierung: Matplotlib und Seaborn (EDA und Ergebnisplots)
+•    Modell-Export & Wiederverwendbarkeit: Joblib (Speichern/Laden von Imputer, Mo-dellen, Feature-Listen)
+•    Anwendung: Streamlit, FastAPI
+•    Versionierung & Zusammenarbeit: GitHub (Quellcodeverwaltung), Google Work-space & Miro (Dokumentation/Konzeption)
+•    Projektmanagement & Kommunikation: Agiles Vorgehen nach Scrum; Kommunika-tion über Discord; Sprint-Planung/Visualisierung über Miro1
+•    Sonstige Werkzeuge: Jupyter Notebooks (explorative Entwicklung, Modelltests, reproduzierbare Dokumentation)
 
 ---
 
-## 🧩 Vorgehensmodell
+## Vorgehensmodell
 Das Projekt folgt dem **agilen Scrum-Framework**:
 1. **Sprints:** Iterative Entwicklungszyklen (2 Wochen)
 2. **Weekly Scrums:** Laufende Status- und Fortschrittsbesprechungen
@@ -72,7 +66,7 @@ Das Projekt folgt dem **agilen Scrum-Framework**:
 
 ---
 
-## 🚧 Risikomanagement
+## Risikomanagement
 - **Versionierung & Backup:** Quellcode und Daten über GitHub
 - **Technische Risiken:**  
   - Unvollständige oder ungenaue Daten  
@@ -83,17 +77,17 @@ Das Projekt folgt dem **agilen Scrum-Framework**:
 
 ---
 
-## 💬 Kommunikationsplan
+## Kommunikationsplan
 | Kommunikationstyp | Plattform / Medium | Frequenz |
 |-------------------|--------------------|-----------|
-| Teamkoordination | Discord | Täglich |
+| Teamkoordination | Discord | Wöchentlich |
 | Scrum-Meetings | Google Meet / Miro | Wöchentlich |
 | Reviews & Präsentationen | Google Workspace | Monatlich |
 | Dokumentation | Google Docs | Laufend |
 
 ---
 
-## 🧪 Qualitätssicherung
+## Qualitätssicherung
 - Iterative Entwicklung und Validierung nach Scrum-Prinzipien  
 - Code-Reviews innerhalb des Teams  
 - Tests zur **Prognosegenauigkeit** anhand realer Branddaten  
@@ -101,17 +95,10 @@ Das Projekt folgt dem **agilen Scrum-Framework**:
 
 ---
 
-## 🧾 Projektabschluss und Dokumentation
+## Projektabschluss und Dokumentation
 - **Abschlusspräsentation:** 20.01.2026  
 - Laufende Dokumentation in Google Docs und Miro
 - **Abschlussbericht:** Enthält Ergebnisse, Bewertung und *Lessons Learned*  
-
----
-
-## 📚 Quellen & Referenzen
-- [Canadian National Fire Database (NFDP)](http://nfdp.ccfm.org/en/data/fires.php)
-- Government of Canada – Natural Resources  
-- Open Data Canada – Environmental Datasets  
 
 ---
 
