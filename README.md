@@ -34,14 +34,14 @@ Basierend auf historischen Daten der **Canadian National Fire Database (NFDP)** 
 ---
 
 ## Projektstruktur
-project_root/
-├── backend/ # Logik der Anwendung
-├── dashboard/ # Frontend der Anwendung
-├── data/ # Rohdaten (NFDP CSV-Dateien)
-├── models/ # Trainiertes Modell
-├── notebook/ # Jupyter-Notebooks für Analyse & Modelltraining
-├── orga/ # Koordinatendarstellung (grafisch)
-└── test/ # Testen der Modelle
+project_root/ <br>
+├── backend/ # Logik der Anwendung <br>
+├── dashboard/ # Frontend der Anwendung <br>
+├── data/ # Rohdaten (NFDP CSV-Dateien) <br>
+├── models/ # Trainiertes Modell <br>
+├── notebook/ # Jupyter-Notebooks für Analyse & Modelltraining <br>
+├── orga/ # Koordinatendarstellung (grafisch) <br>
+└── test/ # Testen der Modelle <br>
 
 ## Technische Tools und Technologien
 •    Programmiersprache: Python
