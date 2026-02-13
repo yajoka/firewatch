@@ -43,17 +43,17 @@ project_root/ <br>
 ├── orga/ # Koordinatendarstellung (grafisch) <br>
 └── test/ # Testen der Modelle <br>
 
-## Technische Tools und Technologien
-•    Programmiersprache: Python
-•    Datenaufbereitung & Numerik: Pandas (Datenhandling/ETL), NumPy (numerische Berechnungen)
-•    Machine Learning & Modellierung: Scikit-learn (Preprocessing, Random Forest, Metriken/Evaluierung), XGBoost (Gradient Boosting Regressor)
-•    Zeitreihenanalyse: Statsmodels (ACF/PACF, Zeitreihen-Analyse)
-•    Datenvisualisierung: Matplotlib und Seaborn (EDA und Ergebnisplots)
-•    Modell-Export & Wiederverwendbarkeit: Joblib (Speichern/Laden von Imputer, Mo-dellen, Feature-Listen)
-•    Anwendung: Streamlit, FastAPI
-•    Versionierung & Zusammenarbeit: GitHub (Quellcodeverwaltung), Google Work-space & Miro (Dokumentation/Konzeption)
-•    Projektmanagement & Kommunikation: Agiles Vorgehen nach Scrum; Kommunika-tion über Discord; Sprint-Planung/Visualisierung über Miro1
-•    Sonstige Werkzeuge: Jupyter Notebooks (explorative Entwicklung, Modelltests, reproduzierbare Dokumentation)
+## Technische Tools und Technologien <br>
+•    Programmiersprache: Python <br>
+•    Datenaufbereitung & Numerik: Pandas (Datenhandling/ETL), NumPy (numerische Berechnungen) <br>
+•    Machine Learning & Modellierung: Scikit-learn (Preprocessing, Random Forest, Metriken/Evaluierung), XGBoost (Gradient Boosting Regressor) <br>
+•    Zeitreihenanalyse: Statsmodels (ACF/PACF, Zeitreihen-Analyse) <br>
+•    Datenvisualisierung: Matplotlib und Seaborn (EDA und Ergebnisplots) <br>
+•    Modell-Export & Wiederverwendbarkeit: Joblib (Speichern/Laden von Imputer, Mo-dellen, Feature-Listen) <br>
+•    Anwendung: Streamlit, FastAPI <br>
+•    Versionierung & Zusammenarbeit: GitHub (Quellcodeverwaltung), Google Work-space & Miro (Dokumentation/Konzeption) <br>
+•    Projektmanagement & Kommunikation: Agiles Vorgehen nach Scrum; Kommunika-tion über Discord; Sprint-Planung/Visualisierung über Miro1 <br>
+•    Sonstige Werkzeuge: Jupyter Notebooks (explorative Entwicklung, Modelltests, reproduzierbare Dokumentation) <br>
 
 ---
 
